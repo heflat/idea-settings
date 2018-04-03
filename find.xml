@@ -3,38 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*密码</mask>
-      <mask>*密</mask>
-      <mask>*Co</mask>
-      <mask>*Con</mask>
-      <mask>*Cont</mask>
-      <mask>*Contr</mask>
-      <mask>*Contro</mask>
-      <mask>*Controller</mask>
-      <mask>*Controller.</mask>
-      <mask>*Controller.ja</mask>
-      <mask>*Controller.jax</mask>
-      <mask>*Controller.jaca</mask>
-      <mask>*Controller.jac</mask>
-      <mask>*Controller.jav</mask>
-      <mask>*Controller.java</mask>
-      <mask>*ftl</mask>
-      <mask>*ft</mask>
-      <mask>*f</mask>
-      <mask>*jv</mask>
-      <mask>*jsp</mask>
-      <mask>*js</mask>
-      <mask>*xml</mask>
-      <mask>*xm</mask>
-      <mask>*x</mask>
-      <mask>*java</mask>
-      <mask>*jav</mask>
-      <mask>*ja</mask>
-      <mask>*j</mask>
-      <mask>*k</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
