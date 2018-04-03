@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="could not check for a newer version" />
+      <item value="could" />
+      <item value="checking if a newer version of TortoiseSVN is available" />
+      <item value="checking" />
+      <item value="Could not synchronize database state with session" />
+      <item value="working copy first" />
+      <item value="command" />
+      <item value="upgrade" />
       <item value="Plugin Gitee was not installed: Cannot download" />
       <item value="Archive this repository" />
       <item value="Transfer" />
@@ -45,14 +53,6 @@
       <item value="次数" />
       <item value="pdf Downloads" />
       <item value="log" />
-      <item value="diff" />
-      <item value="commit" />
-      <item value="leave " />
-      <item value="leave comment" />
-      <item value="leave" />
-      <item value="Please sign in to leave a comment" />
-      <item value="reference" />
-      <item value="locate" />
     </histories>
   </component>
 </application>
