@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value=" as it is not a working copy root" />
       <item value="could not check for a newer version" />
       <item value="could" />
       <item value="checking if a newer version of TortoiseSVN is available" />
@@ -52,7 +53,6 @@
       <item value="time" />
       <item value="次数" />
       <item value="pdf Downloads" />
-      <item value="log" />
     </histories>
   </component>
 </application>
