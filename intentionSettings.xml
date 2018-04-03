@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
+    <ignoreAction name="Java/Declaration/Implement Abstract Method" />
+    <ignoreAction name="Java/Declaration/Add Javadoc" />
+  </component>
+</application>

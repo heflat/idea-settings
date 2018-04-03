@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>IrInfoLanmuController.checkAbbrev (com.lee.modules.info.web)</display-name>
+      <place><![CDATA[psiMethod().withName("checkAbbrev").withParameters("java.lang.String", "org.springframework.ui.Model", "javax.servlet.http.HttpServletResponse").definedInClass("com.lee.modules.info.web.IrInfoLanmuController")]]></place>
+    </injection>
+  </component>
+</application>

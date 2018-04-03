@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/f7d22907_spring-mvc.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+  </component>
+</application>

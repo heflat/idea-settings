@@ -1,0 +1,141 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/idea/sxs/sxs/src/main/java/com/lee/modules/info/web/front/FrontIrInfoController.java" timestamp="1515999693187">
+        <mark key="'" line="30" column="7" />
+      </file>
+      <file name="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" timestamp="1515998941062">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="21" column="67" />
+        <mark key="." line="21" column="67" />
+        <mark key="^" line="21" column="67" />
+      </file>
+      <file name="D:/idea/newwkxt3/test/java/com/main/Test.java" timestamp="1509410291403">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
+      <file name="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" timestamp="1503623874504">
+        <mark key="'" line="31" column="29" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/idea/newwkxt3/src/main/test/java/com/main/TestMain.java" timestamp="1503641867947">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+      </file>
+      <file name="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" timestamp="1516000911030">
+        <mark key="'" line="260" column="62" />
+        <mark key="]" line="260" column="62" />
+        <mark key="^" line="260" column="62" />
+        <mark key="." line="260" column="62" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="38" column="27" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
+      <jump line="0" column="0" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
+      <jump line="45" column="0" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
+      <jump line="31" column="29" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
+      <jump line="49" column="36" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="50" column="39" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="0" column="3" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="4" column="5" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="54" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="36" column="4" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="53" column="4" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="2" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
+      <jump line="30" column="7" filename="D:/idea/sxs/sxs/src/main/java/com/lee/modules/info/web/front/FrontIrInfoController.java" />
+      <jump line="354" column="71" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="0" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="365" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="334" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="360" column="12" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="219" column="11" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="231" column="59" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="247" column="8" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="260" column="62" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyMiA9ICIiOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0ZVRpbWUudG9TdHJpbmcoZm9ybWF0U3RyKTsK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyMiA9ICIiOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gIiI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5jbG9zZSgpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>set so=5</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>contentid\c</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>contentid\c</last-search>
+      <last-offset />
+      <last-pattern>contentid\c</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>内容</entry>
+        <entry>自定义视图</entry>
+        <entry>contentid</entry>
+        <entry>contentid\c</entry>
+      </history-search>
+      <history-cmd>
+        <entry>42</entry>
+        <entry>1</entry>
+        <entry>53</entry>
+        <entry>39</entry>
+        <entry>34</entry>
+        <entry>set so=5</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

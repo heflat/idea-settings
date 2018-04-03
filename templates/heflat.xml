@@ -1,0 +1,123 @@
+<templateSet group="heflat">
+  <template name="strNotBlank" value="if (StringUtils.isNotBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isNotBlank();" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="strBlank" value="if (StringUtils.isBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isBlank();" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="listNotEmpty" value="if (CollectionUtils.isNotEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isNotEmpty();" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="listEmpty" value="if (CollectionUtils.isEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isEmpty();" toReformat="false" toShortenFQNames="true">
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pInteger" value="/** $desc$ */&#10;private Integer $field$;$END$" description="private Integer field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pint" value="/** $desc$ */&#10;private int $field$;$END$" description="private int field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pString" value="/** $desc$ */&#10;private String $field$;$END$" description="private String field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pFloat" value="/** $desc$ */&#10;private Float $field$;$END$" description="private Float field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pDouble" value="/** $desc$ */&#10;private Double $field$;$END$" description="private Double field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pdouble" value="/** $desc$ */&#10;private double $field$;$END$" description="private double field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newArrayList" value="List&lt;$obj$&gt; $name$ = new ArrayList&lt;$obj$&gt;();" description="List&lt;Object&gt; list = new ArrayList&lt;Object&gt;();" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newHashMap" value="Map&lt;$key$, $value$&gt; $name$ = new HashMap();" description="Map&lt;Object, Object&gt; map = new HashedMap();" toReformat="false" toShortenFQNames="true">
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newHashSet" value="Set $name$ = new HashSet();" description="Set $name$ = new HashSet();" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="newLinkedList" value="List&lt;$obj$&gt; $name$ = new LinkedList&lt;$obj$&gt;();" description="List&lt;User&gt; list = new LinkedList&lt;User&gt;();" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="for ($object$ $obj$ : $limit$) {&#10;    $END$&#10;}" description="foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="limit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pBigDecimal" value="/** $desc$ */&#10;private BigDecimal $field$;$END$" description="private BigDecimal field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="!null" value="if ($arg$ != null) {&#10;    $END$&#10;}" description="if (arg != null) {}" toReformat="false" toShortenFQNames="true">
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="null" value="if ($arg$ == null) {&#10;    $END$&#10;}" description="if (arg == null) {}" toReformat="false" toShortenFQNames="true">
+    <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

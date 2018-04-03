@@ -1,0 +1,58 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="Archive this repository" />
+      <item value="Transfer" />
+      <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers. Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings. See project page for more info." />
+      <item value="work" />
+      <item value="refresh Session Max Inactive Interval" />
+      <item value="refresh" />
+      <item value="刷新" />
+      <item value="flush Session Max Inactive Interval" />
+      <item value="set Max Inactive Interval" />
+      <item value="flush Session" />
+      <item value="invalidate" />
+      <item value="get Max Inactive Interval" />
+      <item value="Auto-generated catch block" />
+      <item value="visible" />
+      <item value="Panel" />
+      <item value="MiddlePhotoPanel" />
+      <item value="unchecked" />
+      <item value="Suppress" />
+      <item value="Suppress Warnings" />
+      <item value="Session already invalidated" />
+      <item value="Session already invalidated] with root cause" />
+      <item value="session Created" />
+      <item value="get Last Accessed Time" />
+      <item value="specified Page Number" />
+      <item value="specified Page" />
+      <item value="指定" />
+      <item value="slide" />
+      <item value="slide Toggle" />
+      <item value="统计" />
+      <item value="word" />
+      <item value="文本" />
+      <item value="show Toggle" />
+      <item value="show More" />
+      <item value="Default Field" />
+      <item value="Field" />
+      <item value="pdf Download Number" />
+      <item value="times" />
+      <item value="time" />
+      <item value="次数" />
+      <item value="pdf Downloads" />
+      <item value="log" />
+      <item value="diff" />
+      <item value="commit" />
+      <item value="leave " />
+      <item value="leave comment" />
+      <item value="leave" />
+      <item value="Please sign in to leave a comment" />
+      <item value="reference" />
+      <item value="locate" />
+      <item value="relocate" />
+    </histories>
+  </component>
+</application>
