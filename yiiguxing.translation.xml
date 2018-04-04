@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Field 'create_time' doesn't have a default value" />
+      <item value="Column count doesn't match value count at row 1" />
+      <item value="suffix Overrides" />
+      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near" />
       <item value="volume" />
       <item value="issue" />
       <item value="volumn" />
@@ -49,10 +53,6 @@
       <item value="指定" />
       <item value="slide" />
       <item value="slide Toggle" />
-      <item value="统计" />
-      <item value="word" />
-      <item value="文本" />
-      <item value="show Toggle" />
     </histories>
   </component>
 </application>
