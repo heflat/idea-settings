@@ -3,6 +3,23 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compress" />
+      <item value="Min Inflate Ratio" />
+      <item value="setMinInflateRatio" />
+      <item value="invalid stored block lengths" />
+      <item value="Failed to read zip entry source" />
+      <item value="directory Path" />
+      <item value="Field 'create_time' doesn't have a default value" />
+      <item value="Column count doesn't match value count at row 1" />
+      <item value="suffix Overrides" />
+      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near" />
+      <item value="volume" />
+      <item value="issue" />
+      <item value="volumn" />
+      <item value="Writing with Light" />
+      <item value="invalidate caches / restart" />
+      <item value="invalidate caches" />
+      <item value="invalidate" />
       <item value="key promoter" />
       <item value="Upgraded" />
       <item value=" as it is not a working copy root" />
@@ -25,7 +42,6 @@
       <item value="flush Session Max Inactive Interval" />
       <item value="set Max Inactive Interval" />
       <item value="flush Session" />
-      <item value="invalidate" />
       <item value="get Max Inactive Interval" />
       <item value="Auto-generated catch block" />
       <item value="visible" />
@@ -37,22 +53,6 @@
       <item value="Session already invalidated" />
       <item value="Session already invalidated] with root cause" />
       <item value="session Created" />
-      <item value="get Last Accessed Time" />
-      <item value="specified Page Number" />
-      <item value="specified Page" />
-      <item value="指定" />
-      <item value="slide" />
-      <item value="slide Toggle" />
-      <item value="统计" />
-      <item value="word" />
-      <item value="文本" />
-      <item value="show Toggle" />
-      <item value="show More" />
-      <item value="Default Field" />
-      <item value="Field" />
-      <item value="pdf Download Number" />
-      <item value="times" />
-      <item value="time" />
     </histories>
   </component>
 </application>
