@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compress" />
       <item value="Min Inflate Ratio" />
       <item value="setMinInflateRatio" />
       <item value="invalid stored block lengths" />
@@ -52,7 +53,6 @@
       <item value="Session already invalidated" />
       <item value="Session already invalidated] with root cause" />
       <item value="session Created" />
-      <item value="get Last Accessed Time" />
     </histories>
   </component>
 </application>
