@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago" />
       <item value="compress" />
       <item value="Min Inflate Ratio" />
       <item value="setMinInflateRatio" />
@@ -52,7 +53,6 @@
       <item value="Suppress Warnings" />
       <item value="Session already invalidated" />
       <item value="Session already invalidated] with root cause" />
-      <item value="session Created" />
     </histories>
   </component>
 </application>
