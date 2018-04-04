@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="volume" />
+      <item value="issue" />
       <item value="volumn" />
       <item value="Writing with Light" />
       <item value="invalidate caches / restart" />
@@ -51,8 +53,6 @@
       <item value="word" />
       <item value="文本" />
       <item value="show Toggle" />
-      <item value="show More" />
-      <item value="Default Field" />
     </histories>
   </component>
 </application>
