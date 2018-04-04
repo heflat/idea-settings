@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="invalidate caches / restart" />
+      <item value="invalidate caches" />
+      <item value="invalidate" />
       <item value="key promoter" />
       <item value="Upgraded" />
       <item value=" as it is not a working copy root" />
@@ -25,7 +28,6 @@
       <item value="flush Session Max Inactive Interval" />
       <item value="set Max Inactive Interval" />
       <item value="flush Session" />
-      <item value="invalidate" />
       <item value="get Max Inactive Interval" />
       <item value="Auto-generated catch block" />
       <item value="visible" />
@@ -51,8 +53,6 @@
       <item value="Default Field" />
       <item value="Field" />
       <item value="pdf Download Number" />
-      <item value="times" />
-      <item value="time" />
     </histories>
   </component>
 </application>
