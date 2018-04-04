@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Min Inflate Ratio" />
+      <item value="setMinInflateRatio" />
+      <item value="invalid stored block lengths" />
+      <item value="Failed to read zip entry source" />
+      <item value="directory Path" />
       <item value="Field 'create_time' doesn't have a default value" />
       <item value="Column count doesn't match value count at row 1" />
       <item value="suffix Overrides" />
@@ -48,11 +53,6 @@
       <item value="Session already invalidated] with root cause" />
       <item value="session Created" />
       <item value="get Last Accessed Time" />
-      <item value="specified Page Number" />
-      <item value="specified Page" />
-      <item value="指定" />
-      <item value="slide" />
-      <item value="slide Toggle" />
     </histories>
   </component>
 </application>
