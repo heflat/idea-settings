@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="临时" />
+      <item value="temp" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago" />
       <item value="compress" />
       <item value="Min Inflate Ratio" />
@@ -51,8 +53,6 @@
       <item value="unchecked" />
       <item value="Suppress" />
       <item value="Suppress Warnings" />
-      <item value="Session already invalidated" />
-      <item value="Session already invalidated] with root cause" />
     </histories>
   </component>
 </application>
