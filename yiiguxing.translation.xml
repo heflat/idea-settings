@@ -3,6 +3,11 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="archive" />
+      <item value="the object to close, may be null or already closed" />
+      <item value="Makes a directory" />
+      <item value="force Mkdir" />
+      <item value="Unable" />
       <item value="be" />
       <item value="cannot" />
       <item value="cannot be null" />
@@ -48,11 +53,6 @@
       <item value="refresh Session Max Inactive Interval" />
       <item value="refresh" />
       <item value="刷新" />
-      <item value="flush Session Max Inactive Interval" />
-      <item value="set Max Inactive Interval" />
-      <item value="flush Session" />
-      <item value="get Max Inactive Interval" />
-      <item value="Auto-generated catch block" />
     </histories>
   </component>
 </application>
