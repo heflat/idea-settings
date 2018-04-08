@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="title Row Array" />
       <item value="archive" />
       <item value="the object to close, may be null or already closed" />
       <item value="Makes a directory" />
@@ -52,7 +53,6 @@
       <item value="work" />
       <item value="refresh Session Max Inactive Interval" />
       <item value="refresh" />
-      <item value="刷新" />
     </histories>
   </component>
 </application>
