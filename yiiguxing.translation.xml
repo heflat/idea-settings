@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Address already in use: JVM_Bind" />
       <item value="临时" />
       <item value="temp" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago" />
@@ -52,7 +53,6 @@
       <item value="MiddlePhotoPanel" />
       <item value="unchecked" />
       <item value="Suppress" />
-      <item value="Suppress Warnings" />
     </histories>
   </component>
 </application>
