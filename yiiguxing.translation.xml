@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="be" />
+      <item value="cannot" />
+      <item value="cannot be null" />
+      <item value="Duplicate entry 'doi-111111' for key 'doi'" />
       <item value="only full group by" />
       <item value="Address already in use: JVM_Bind" />
       <item value="临时" />
@@ -49,10 +53,6 @@
       <item value="flush Session" />
       <item value="get Max Inactive Interval" />
       <item value="Auto-generated catch block" />
-      <item value="visible" />
-      <item value="Panel" />
-      <item value="MiddlePhotoPanel" />
-      <item value="unchecked" />
     </histories>
   </component>
 </application>
