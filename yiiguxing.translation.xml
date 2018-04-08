@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="only full group by" />
       <item value="Address already in use: JVM_Bind" />
       <item value="临时" />
       <item value="temp" />
@@ -52,7 +53,6 @@
       <item value="Panel" />
       <item value="MiddlePhotoPanel" />
       <item value="unchecked" />
-      <item value="Suppress" />
     </histories>
   </component>
 </application>
