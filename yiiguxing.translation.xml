@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="cell" />
       <item value="check Excel Suffix" />
       <item value="contains Value" />
       <item value="value whose presence in this map is to be tested" />
@@ -52,7 +53,6 @@
       <item value="Could not synchronize database state with session" />
       <item value="working copy first" />
       <item value="command" />
-      <item value="upgrade" />
     </histories>
   </component>
 </application>
