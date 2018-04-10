@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="check Excel Suffix" />
       <item value="contains Value" />
       <item value="value whose presence in this map is to be tested" />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this map maps one or more keys to the * specified value." />
@@ -52,7 +53,6 @@
       <item value="working copy first" />
       <item value="command" />
       <item value="upgrade" />
-      <item value="Plugin Gitee was not installed: Cannot download" />
     </histories>
   </component>
 </application>
