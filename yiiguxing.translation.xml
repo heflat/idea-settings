@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="contains Value" />
+      <item value="value whose presence in this map is to be tested" />
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this map maps one or more keys to the * specified value." />
       <item value="before" />
       <item value="重复" />
       <item value="Data too long for column 'author' at row 2" />
@@ -50,9 +53,6 @@
       <item value="command" />
       <item value="upgrade" />
       <item value="Plugin Gitee was not installed: Cannot download" />
-      <item value="Archive this repository" />
-      <item value="Transfer" />
-      <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers. Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings. See project page for more info." />
     </histories>
   </component>
 </application>
