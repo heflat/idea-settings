@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Excel Checker" />
       <item value="get Repeat Value" />
       <item value="元素" />
       <item value="重复" />
@@ -52,7 +53,6 @@
       <item value="volumn" />
       <item value="Writing with Light" />
       <item value="invalidate caches / restart" />
-      <item value="invalidate caches" />
     </histories>
   </component>
 </application>
