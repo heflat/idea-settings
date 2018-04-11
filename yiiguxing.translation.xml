@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="get Repeat Value" />
+      <item value="元素" />
+      <item value="重复" />
       <item value="doiList.stream().collect(Collectors.toMap(e -&gt; e, e -&gt; 1, Integer::sum)).entrySet().stream().filter(entry -&gt; entry.getValue() &gt; 1).map(entry -&gt; entry.getKey()).collect(Collectors.toList())" />
       <item value="Lambda" />
       <item value="check Row Null" />
@@ -18,7 +21,6 @@
       <item value="value whose presence in this map is to be tested" />
       <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this map maps one or more keys to the * specified value." />
       <item value="before" />
-      <item value="重复" />
       <item value="Data too long for column 'author' at row 2" />
       <item value="title Row Array" />
       <item value="archive" />
@@ -51,8 +53,6 @@
       <item value="Writing with Light" />
       <item value="invalidate caches / restart" />
       <item value="invalidate caches" />
-      <item value="invalidate" />
-      <item value="key promoter" />
     </histories>
   </component>
 </application>
