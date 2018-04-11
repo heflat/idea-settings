@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="doiList.stream().collect(Collectors.toMap(e -&gt; e, e -&gt; 1, Integer::sum)).entrySet().stream().filter(entry -&gt; entry.getValue() &gt; 1).map(entry -&gt; entry.getKey()).collect(Collectors.toList())" />
+      <item value="Lambda" />
       <item value="check Row Null" />
       <item value="check Null Row" />
       <item value="beta" />
@@ -51,8 +53,6 @@
       <item value="invalidate caches" />
       <item value="invalidate" />
       <item value="key promoter" />
-      <item value="Upgraded" />
-      <item value=" as it is not a working copy root" />
     </histories>
   </component>
 </application>
