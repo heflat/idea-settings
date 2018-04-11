@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="refresh" />
       <item value="cell" />
       <item value="check Excel Suffix" />
       <item value="contains Value" />
@@ -52,7 +53,6 @@
       <item value="checking" />
       <item value="Could not synchronize database state with session" />
       <item value="working copy first" />
-      <item value="command" />
     </histories>
   </component>
 </application>
