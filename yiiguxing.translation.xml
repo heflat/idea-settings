@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="phrase" />
+      <item value="close" />
       <item value="refresh" />
       <item value="cell" />
       <item value="check Excel Suffix" />
@@ -51,8 +53,6 @@
       <item value="could" />
       <item value="checking if a newer version of TortoiseSVN is available" />
       <item value="checking" />
-      <item value="Could not synchronize database state with session" />
-      <item value="working copy first" />
     </histories>
   </component>
 </application>
