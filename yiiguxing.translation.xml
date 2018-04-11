@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="check Row Null" />
+      <item value="check Null Row" />
       <item value="beta" />
       <item value="bate" />
       <item value="phrase" />
@@ -51,8 +53,6 @@
       <item value="key promoter" />
       <item value="Upgraded" />
       <item value=" as it is not a working copy root" />
-      <item value="could not check for a newer version" />
-      <item value="could" />
     </histories>
   </component>
 </application>
