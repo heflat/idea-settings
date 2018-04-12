@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="UPLOAD NORMAL" />
+      <item value="normal" />
+      <item value="正常" />
+      <item value="glyphicon" />
       <item value="There is no getter for property named 'uploadTask' in 'class com.heflat.ssm.entity.UploadTask'" />
       <item value="flag" />
       <item value="Column count doesn't match value count at row 1" />
@@ -49,10 +53,6 @@
       <item value="Failed to read zip entry source" />
       <item value="directory Path" />
       <item value="Field 'create_time' doesn't have a default value" />
-      <item value="suffix Overrides" />
-      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near" />
-      <item value="volume" />
-      <item value="issue" />
     </histories>
   </component>
 </application>
