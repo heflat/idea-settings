@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compress" />
+      <item value="Return whether the uploaded file is empty, that is, either no file has been chosen in the multipart form or the chosen file has no content." />
       <item value="Excel Checker" />
       <item value="get Repeat Value" />
       <item value="元素" />
@@ -38,7 +40,6 @@
       <item value="临时" />
       <item value="temp" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago" />
-      <item value="compress" />
       <item value="Min Inflate Ratio" />
       <item value="setMinInflateRatio" />
       <item value="invalid stored block lengths" />
@@ -52,7 +53,6 @@
       <item value="issue" />
       <item value="volumn" />
       <item value="Writing with Light" />
-      <item value="invalidate caches / restart" />
     </histories>
   </component>
 </application>
