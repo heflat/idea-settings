@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="syntax" />
       <item value="Invalid Maven home directory configured C:/0/coder/maven/apache-maven-3.3.9 Bundled maven 3.3.9 will be used." />
       <item value="success" />
       <item value="UPLOAD NORMAL" />
@@ -52,7 +53,6 @@
       <item value="Min Inflate Ratio" />
       <item value="setMinInflateRatio" />
       <item value="invalid stored block lengths" />
-      <item value="Failed to read zip entry source" />
     </histories>
   </component>
 </application>
