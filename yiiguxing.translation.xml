@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Invalid Maven home directory configured C:/0/coder/maven/apache-maven-3.3.9 Bundled maven 3.3.9 will be used." />
+      <item value="success" />
       <item value="UPLOAD NORMAL" />
       <item value="normal" />
       <item value="正常" />
@@ -51,8 +53,6 @@
       <item value="setMinInflateRatio" />
       <item value="invalid stored block lengths" />
       <item value="Failed to read zip entry source" />
-      <item value="directory Path" />
-      <item value="Field 'create_time' doesn't have a default value" />
     </histories>
   </component>
 </application>
