@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="deleted" />
+      <item value="deleteed" />
       <item value="Unable to delete directory" />
       <item value="directory Path" />
       <item value="getOutputStream() has already been called for this response" />
@@ -51,8 +53,6 @@
       <item value="Duplicate entry 'doi-111111' for key 'doi'" />
       <item value="only full group by" />
       <item value="Address already in use: JVM_Bind" />
-      <item value="临时" />
-      <item value="temp" />
     </histories>
   </component>
 </application>
