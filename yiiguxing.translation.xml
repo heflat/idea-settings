@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="directory Path" />
       <item value="getOutputStream() has already been called for this response" />
       <item value="attachment" />
       <item value="syntax" />
@@ -52,7 +53,6 @@
       <item value="临时" />
       <item value="temp" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago" />
-      <item value="Min Inflate Ratio" />
     </histories>
   </component>
 </application>
