@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="uncompress" />
+      <item value="compress" />
+      <item value="相对" />
       <item value="Lower Case" />
       <item value="to Upper Case" />
       <item value="弹出层" />
@@ -22,7 +25,6 @@
       <item value="There is no getter for property named 'uploadTask' in 'class com.heflat.ssm.entity.UploadTask'" />
       <item value="flag" />
       <item value="Column count doesn't match value count at row 1" />
-      <item value="compress" />
       <item value="Return whether the uploaded file is empty, that is, either no file has been chosen in the multipart form or the chosen file has no content." />
       <item value="Excel Checker" />
       <item value="get Repeat Value" />
@@ -51,8 +53,6 @@
       <item value="force Mkdir" />
       <item value="Unable" />
       <item value="be" />
-      <item value="cannot" />
-      <item value="cannot be null" />
     </histories>
   </component>
 </application>
