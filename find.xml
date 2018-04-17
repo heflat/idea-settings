@@ -15,10 +15,11 @@
     <mask>*.xml</mask>
     <mask>*xml</mask>
     <mask>*TaskServiceImpl.java</mask>
-    <mask>*ftl</mask>
     <mask>*.ftl</mask>
     <mask>*java</mask>
     <mask>*vm</mask>
+    <mask>*ftl</mask>
+    <mask>*js</mask>
     <mask>*</mask>
   </component>
 </application>
