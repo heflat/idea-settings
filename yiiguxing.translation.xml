@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="弹出层" />
       <item value="deleted" />
       <item value="deleteed" />
       <item value="Unable to delete directory" />
@@ -52,7 +53,6 @@
       <item value="cannot be null" />
       <item value="Duplicate entry 'doi-111111' for key 'doi'" />
       <item value="only full group by" />
-      <item value="Address already in use: JVM_Bind" />
     </histories>
   </component>
 </application>
