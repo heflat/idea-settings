@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Lower Case" />
+      <item value="to Upper Case" />
       <item value="弹出层" />
       <item value="deleted" />
       <item value="deleteed" />
@@ -51,8 +53,6 @@
       <item value="be" />
       <item value="cannot" />
       <item value="cannot be null" />
-      <item value="Duplicate entry 'doi-111111' for key 'doi'" />
-      <item value="only full group by" />
     </histories>
   </component>
 </application>
