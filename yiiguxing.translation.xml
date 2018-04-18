@@ -3,6 +3,15 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="de Compression Dir Path" />
+      <item value="De Compression Dir Path" />
+      <item value="解压" />
+      <item value="De Compress Dir Path" />
+      <item value="un Compress Dir Path" />
+      <item value="As of 2.6 removed without replacement. Please use the try-with-resources statement or handle suppressed exceptions manually." />
+      <item value="In case normal close was skipped due to Exception" />
+      <item value="Equivalent" />
+      <item value="Deprecated" />
       <item value="un Compress" />
       <item value="de Compress" />
       <item value="Compress" />
@@ -44,15 +53,6 @@
       <item value="phrase" />
       <item value="close" />
       <item value="refresh" />
-      <item value="cell" />
-      <item value="check Excel Suffix" />
-      <item value="contains Value" />
-      <item value="value whose presence in this map is to be tested" />
-      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this map maps one or more keys to the * specified value." />
-      <item value="before" />
-      <item value="Data too long for column 'author' at row 2" />
-      <item value="title Row Array" />
-      <item value="archive" />
     </histories>
   </component>
 </application>
