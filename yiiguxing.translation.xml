@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="Run configuration 'tmr' is running. Do you want to restart the server in 'Debug with JRebel' mode?" />
       <item value="uncompress" />
       <item value="compress" />
       <item value="相对" />
@@ -51,8 +53,6 @@
       <item value="the object to close, may be null or already closed" />
       <item value="Makes a directory" />
       <item value="force Mkdir" />
-      <item value="Unable" />
-      <item value="be" />
     </histories>
   </component>
 </application>
