@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="un Compress" />
+      <item value="de Compress" />
+      <item value="Compress" />
       <item value="Invocation Target Exception" />
       <item value="Run configuration 'tmr' is running. Do you want to restart the server in 'Debug with JRebel' mode?" />
       <item value="uncompress" />
@@ -50,9 +53,6 @@
       <item value="Data too long for column 'author' at row 2" />
       <item value="title Row Array" />
       <item value="archive" />
-      <item value="the object to close, may be null or already closed" />
-      <item value="Makes a directory" />
-      <item value="force Mkdir" />
     </histories>
   </component>
 </application>
