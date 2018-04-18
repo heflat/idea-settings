@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Deletes a directory recursively." />
+      <item value="Cleans a directory without deleting it." />
       <item value="Illegal Argument Exception" />
       <item value="MALFORMED" />
       <item value="desc" />
@@ -51,8 +53,6 @@
       <item value="Excel Checker" />
       <item value="get Repeat Value" />
       <item value="元素" />
-      <item value="重复" />
-      <item value="doiList.stream().collect(Collectors.toMap(e -&gt; e, e -&gt; 1, Integer::sum)).entrySet().stream().filter(entry -&gt; entry.getValue() &gt; 1).map(entry -&gt; entry.getKey()).collect(Collectors.toList())" />
     </histories>
   </component>
 </application>
