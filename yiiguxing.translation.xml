@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Illegal Argument Exception" />
+      <item value="MALFORMED" />
       <item value="desc" />
       <item value="dest" />
       <item value="desc directory" />
@@ -51,8 +53,6 @@
       <item value="元素" />
       <item value="重复" />
       <item value="doiList.stream().collect(Collectors.toMap(e -&gt; e, e -&gt; 1, Integer::sum)).entrySet().stream().filter(entry -&gt; entry.getValue() &gt; 1).map(entry -&gt; entry.getKey()).collect(Collectors.toList())" />
-      <item value="Lambda" />
-      <item value="check Row Null" />
     </histories>
   </component>
 </application>
