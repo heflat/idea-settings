@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="确认" />
       <item value="Comparison data.code == 0 may cause unexpected type coercion" />
       <item value="Deletes a directory recursively." />
       <item value="Cleans a directory without deleting it." />
@@ -52,7 +53,6 @@
       <item value="Column count doesn't match value count at row 1" />
       <item value="Return whether the uploaded file is empty, that is, either no file has been chosen in the multipart form or the chosen file has no content." />
       <item value="Excel Checker" />
-      <item value="get Repeat Value" />
     </histories>
   </component>
 </application>
