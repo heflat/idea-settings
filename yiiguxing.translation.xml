@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Comparison data.code == 0 may cause unexpected type coercion" />
       <item value="Deletes a directory recursively." />
       <item value="Cleans a directory without deleting it." />
       <item value="Illegal Argument Exception" />
@@ -52,7 +53,6 @@
       <item value="Return whether the uploaded file is empty, that is, either no file has been chosen in the multipart form or the chosen file has no content." />
       <item value="Excel Checker" />
       <item value="get Repeat Value" />
-      <item value="元素" />
     </histories>
   </component>
 </application>
