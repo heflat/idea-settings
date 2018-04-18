@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.6.1" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
   </component>
 </application>
