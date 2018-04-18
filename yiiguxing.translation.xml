@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="desc" />
+      <item value="dest" />
+      <item value="desc directory" />
+      <item value="de" />
+      <item value="un" />
+      <item value="un Zip" />
       <item value="de Compression Dir Path" />
       <item value="De Compression Dir Path" />
       <item value="解压" />
@@ -47,12 +53,6 @@
       <item value="doiList.stream().collect(Collectors.toMap(e -&gt; e, e -&gt; 1, Integer::sum)).entrySet().stream().filter(entry -&gt; entry.getValue() &gt; 1).map(entry -&gt; entry.getKey()).collect(Collectors.toList())" />
       <item value="Lambda" />
       <item value="check Row Null" />
-      <item value="check Null Row" />
-      <item value="beta" />
-      <item value="bate" />
-      <item value="phrase" />
-      <item value="close" />
-      <item value="refresh" />
     </histories>
   </component>
 </application>
