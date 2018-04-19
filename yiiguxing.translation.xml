@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Check whether guarding this code with this `if` is really necessary." />
       <item value="process" />
       <item value="cleaning artifacts" />
       <item value="artifacts" />
@@ -52,7 +53,6 @@
       <item value="deleted" />
       <item value="deleteed" />
       <item value="Unable to delete directory" />
-      <item value="directory Path" />
     </histories>
   </component>
 </application>
