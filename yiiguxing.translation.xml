@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Error invoking method manageApp" />
       <item value="conver" />
       <item value="convert" />
       <item value="dir Path" />
@@ -52,7 +53,6 @@
       <item value="getOutputStream() has already been called for this response" />
       <item value="attachment" />
       <item value="syntax" />
-      <item value="Invalid Maven home directory configured C:/0/coder/maven/apache-maven-3.3.9 Bundled maven 3.3.9 will be used." />
     </histories>
   </component>
 </application>
