@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="an existing directory to copy" />
+      <item value="dest Dir" />
+      <item value="src" />
+      <item value="the new directory, must not be" />
+      <item value="an existing directory to copy, must not be null" />
+      <item value="suffix" />
       <item value="确认" />
       <item value="Comparison data.code == 0 may cause unexpected type coercion" />
       <item value="Deletes a directory recursively." />
@@ -47,12 +53,6 @@
       <item value="UPLOAD NORMAL" />
       <item value="normal" />
       <item value="正常" />
-      <item value="glyphicon" />
-      <item value="There is no getter for property named 'uploadTask' in 'class com.heflat.ssm.entity.UploadTask'" />
-      <item value="flag" />
-      <item value="Column count doesn't match value count at row 1" />
-      <item value="Return whether the uploaded file is empty, that is, either no file has been chosen in the multipart form or the chosen file has no content." />
-      <item value="Excel Checker" />
     </histories>
   </component>
 </application>
