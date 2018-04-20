@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="calc" />
       <item value="lock down plugins versions to avoid using Maven defaults (may be moved to parent pom)" />
       <item value="FIXME change it to the project's website" />
       <item value="Check whether guarding this code with this `if` is really necessary." />
@@ -52,7 +53,6 @@
       <item value="Lower Case" />
       <item value="to Upper Case" />
       <item value="弹出层" />
-      <item value="deleted" />
     </histories>
   </component>
 </application>
