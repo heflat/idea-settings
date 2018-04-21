@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="User" />
+      <item value="private String username; private String password; private Integer age; private Date createTime; private Date updateTime;" />
       <item value="遮罩层" />
       <item value="遮罩" />
       <item value="saved" />
@@ -51,8 +51,6 @@
       <item value="Invocation Target Exception" />
       <item value="Run configuration 'tmr' is running. Do you want to restart the server in 'Debug with JRebel' mode?" />
       <item value="uncompress" />
-      <item value="compress" />
-      <item value="相对" />
     </histories>
   </component>
 </application>
