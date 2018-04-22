@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Links e as last element." />
       <item value="Person" />
       <item value="人" />
       <item value="人类" />
@@ -50,7 +51,6 @@
       <item value="As of 2.6 removed without replacement. Please use the try-with-resources statement or handle suppressed exceptions manually." />
       <item value="In case normal close was skipped due to Exception" />
       <item value="Equivalent" />
-      <item value="Deprecated" />
     </histories>
   </component>
 </application>
