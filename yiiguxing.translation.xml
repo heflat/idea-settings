@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="calories" />
       <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
       <item value="Links e as last element." />
       <item value="Person" />
@@ -52,7 +53,6 @@
       <item value="De Compress Dir Path" />
       <item value="un Compress Dir Path" />
       <item value="As of 2.6 removed without replacement. Please use the try-with-resources statement or handle suppressed exceptions manually." />
-      <item value="In case normal close was skipped due to Exception" />
     </histories>
   </component>
 </application>
