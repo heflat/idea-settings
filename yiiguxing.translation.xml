@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="exercises" />
       <item value="Incompatible parameter types in lambda expression: wrong number of parameters: expected 1 but found 0" />
       <item value="Bad return type in lambda expression: Object cannot be converted to void" />
       <item value="Operator '+' cannot be applied to 'java.lang.Object', 'java.lang.Object'" />
@@ -52,7 +53,6 @@
       <item value="desc directory" />
       <item value="de" />
       <item value="un" />
-      <item value="un Zip" />
     </histories>
   </component>
 </application>
