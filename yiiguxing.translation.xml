@@ -3,6 +3,12 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Incompatible parameter types in lambda expression: wrong number of parameters: expected 1 but found 0" />
+      <item value="Bad return type in lambda expression: Object cannot be converted to void" />
+      <item value="Operator '+' cannot be applied to 'java.lang.Object', 'java.lang.Object'" />
+      <item value="the function result" />
+      <item value="the second function argument" />
+      <item value="the first function argument" />
       <item value="calories" />
       <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
       <item value="Links e as last element." />
@@ -47,12 +53,6 @@
       <item value="de" />
       <item value="un" />
       <item value="un Zip" />
-      <item value="de Compression Dir Path" />
-      <item value="De Compression Dir Path" />
-      <item value="解压" />
-      <item value="De Compress Dir Path" />
-      <item value="un Compress Dir Path" />
-      <item value="As of 2.6 removed without replacement. Please use the try-with-resources statement or handle suppressed exceptions manually." />
     </histories>
   </component>
 </application>
