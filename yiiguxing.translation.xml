@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="DOMAIN" />
+      <item value="Table Of Content Alert" />
+      <item value="Fixed Option" />
       <item value="file up" />
       <item value="fileup" />
       <item value="exercises" />
@@ -50,9 +53,6 @@
       <item value="Cleans a directory without deleting it." />
       <item value="Illegal Argument Exception" />
       <item value="MALFORMED" />
-      <item value="desc" />
-      <item value="dest" />
-      <item value="desc directory" />
     </histories>
   </component>
 </application>
