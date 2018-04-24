@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="fix" />
       <item value="id to load is required for loading" />
       <item value="Illegal Argument Exception" />
       <item value="id to load is required for loading] with root cause" />
@@ -52,7 +53,6 @@
       <item value="an existing directory to copy, must not be null" />
       <item value="suffix" />
       <item value="确认" />
-      <item value="Comparison data.code == 0 may cause unexpected type coercion" />
     </histories>
   </component>
 </application>
