@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Highlight articles published in recent season" />
       <item value="DOMAIN" />
       <item value="Table Of Content Alert" />
       <item value="Fixed Option" />
@@ -52,7 +53,6 @@
       <item value="Deletes a directory recursively." />
       <item value="Cleans a directory without deleting it." />
       <item value="Illegal Argument Exception" />
-      <item value="MALFORMED" />
     </histories>
   </component>
 </application>
