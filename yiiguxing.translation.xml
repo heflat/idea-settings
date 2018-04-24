@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="file up" />
+      <item value="fileup" />
       <item value="exercises" />
       <item value="Incompatible parameter types in lambda expression: wrong number of parameters: expected 1 but found 0" />
       <item value="Bad return type in lambda expression: Object cannot be converted to void" />
@@ -51,8 +53,6 @@
       <item value="desc" />
       <item value="dest" />
       <item value="desc directory" />
-      <item value="de" />
-      <item value="un" />
     </histories>
   </component>
 </application>
