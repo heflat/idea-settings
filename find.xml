@@ -20,6 +20,7 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*java</mask>
+    <mask>*jsp</mask>
     <mask>*</mask>
   </component>
 </application>
