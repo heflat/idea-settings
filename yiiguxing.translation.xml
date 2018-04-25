@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="collect" />
+      <item value="filter" />
       <item value="modified" />
       <item value="mode" />
       <item value="patch" />
@@ -51,8 +53,6 @@
       <item value="Compress" />
       <item value="is Specified" />
       <item value="an existing directory to copy" />
-      <item value="dest Dir" />
-      <item value="src" />
     </histories>
   </component>
 </application>
