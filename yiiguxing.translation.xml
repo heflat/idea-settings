@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="modified" />
+      <item value="mode" />
+      <item value="patch" />
       <item value="Just a professional make errors programmer." />
       <item value="fix" />
       <item value="id to load is required for loading" />
@@ -50,9 +53,6 @@
       <item value="an existing directory to copy" />
       <item value="dest Dir" />
       <item value="src" />
-      <item value="the new directory, must not be" />
-      <item value="an existing directory to copy, must not be null" />
-      <item value="suffix" />
     </histories>
   </component>
 </application>
