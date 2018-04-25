@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Just a professional make errors programmer." />
       <item value="fix" />
       <item value="id to load is required for loading" />
       <item value="Illegal Argument Exception" />
@@ -52,7 +53,6 @@
       <item value="the new directory, must not be" />
       <item value="an existing directory to copy, must not be null" />
       <item value="suffix" />
-      <item value="确认" />
     </histories>
   </component>
 </application>
