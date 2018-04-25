@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="hide Scope" />
       <item value="rebel" />
       <item value="external" />
       <item value="compiler" />
@@ -52,7 +53,6 @@
       <item value="cleaning artifacts" />
       <item value="artifacts" />
       <item value="Error invoking method manageApp" />
-      <item value="conver" />
     </histories>
   </component>
   <component name="Settings">
