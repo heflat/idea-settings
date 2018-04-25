@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="rebel" />
+      <item value="external" />
+      <item value="compiler" />
+      <item value="indent" />
       <item value="manual" />
       <item value="collect" />
       <item value="filter" />
@@ -49,10 +53,9 @@
       <item value="artifacts" />
       <item value="Error invoking method manageApp" />
       <item value="conver" />
-      <item value="convert" />
-      <item value="dir Path" />
-      <item value="Compress" />
-      <item value="is Specified" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="showStatusIcon" value="false" />
   </component>
 </application>
