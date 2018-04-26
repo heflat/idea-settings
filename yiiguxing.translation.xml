@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="desk" />
+      <item value="桌面" />
       <item value="车" />
       <item value="cart" />
       <item value="structure" />
@@ -51,8 +53,6 @@
       <item value="calc" />
       <item value="lock down plugins versions to avoid using Maven defaults (may be moved to parent pom)" />
       <item value="FIXME change it to the project's website" />
-      <item value="Check whether guarding this code with this `if` is really necessary." />
-      <item value="process" />
     </histories>
   </component>
   <component name="Settings">
