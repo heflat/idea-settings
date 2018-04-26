@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="车" />
+      <item value="cart" />
       <item value="structure" />
       <item value="hide Scope" />
       <item value="rebel" />
@@ -51,8 +53,6 @@
       <item value="FIXME change it to the project's website" />
       <item value="Check whether guarding this code with this `if` is really necessary." />
       <item value="process" />
-      <item value="cleaning artifacts" />
-      <item value="artifacts" />
     </histories>
   </component>
   <component name="Settings">
