@@ -35,4 +35,18 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="del" value="delete from $table$ where $column$ = $value$ $END$;" description="delete from table" toReformat="false" toShortenFQNames="false">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="drp" value="drop table $table$ $END$;" description="drop from table" toReformat="false" toShortenFQNames="false">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
