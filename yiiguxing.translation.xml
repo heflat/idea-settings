@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="processes" />
+      <item value="2 processes runing" />
+      <item value="processes runing" />
+      <item value="preparing" />
+      <item value="preparing workspace..." />
+      <item value="preparing workspace" />
       <item value="desk" />
       <item value="桌面" />
       <item value="车" />
@@ -47,12 +53,6 @@
       <item value="Persion" />
       <item value="User" />
       <item value="private String username; private String password; private Integer age; private Date createTime; private Date updateTime;" />
-      <item value="遮罩层" />
-      <item value="遮罩" />
-      <item value="saved" />
-      <item value="calc" />
-      <item value="lock down plugins versions to avoid using Maven defaults (may be moved to parent pom)" />
-      <item value="FIXME change it to the project's website" />
     </histories>
   </component>
   <component name="Settings">
