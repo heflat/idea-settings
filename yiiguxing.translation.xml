@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="compare" />
       <item value="processes" />
       <item value="2 processes runing" />
       <item value="processes runing" />
@@ -52,7 +53,6 @@
       <item value="人力" />
       <item value="Persion" />
       <item value="User" />
-      <item value="private String username; private String password; private Integer age; private Date createTime; private Date updateTime;" />
     </histories>
   </component>
   <component name="Settings">
