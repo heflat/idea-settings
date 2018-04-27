@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="tastatura" />
+      <item value="键盘" />
+      <item value="you neew to accept the license agreement" />
       <item value="compare" />
       <item value="processes" />
       <item value="2 processes runing" />
@@ -50,9 +51,6 @@
       <item value="Person" />
       <item value="人" />
       <item value="人类" />
-      <item value="人力" />
-      <item value="Persion" />
-      <item value="User" />
     </histories>
   </component>
   <component name="Settings">
