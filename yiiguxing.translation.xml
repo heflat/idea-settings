@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tastatura" />
+      <item value="键盘" />
       <item value="you neew to accept the license agreement" />
       <item value="compare" />
       <item value="processes" />
@@ -49,8 +51,6 @@
       <item value="Person" />
       <item value="人" />
       <item value="人类" />
-      <item value="人力" />
-      <item value="Persion" />
     </histories>
   </component>
   <component name="Settings">
