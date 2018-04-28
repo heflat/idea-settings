@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formula" />
       <item value="Red Package" />
       <item value="Read Package" />
       <item value="revert" />
@@ -50,7 +51,6 @@
       <item value="the first function argument" />
       <item value="calories" />
       <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
-      <item value="Links e as last element." />
     </histories>
   </component>
   <component name="Settings">
