@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Red Package" />
+      <item value="Read Package" />
       <item value="revert" />
       <item value="tastatura" />
       <item value="键盘" />
@@ -49,8 +51,6 @@
       <item value="calories" />
       <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
       <item value="Links e as last element." />
-      <item value="Person" />
-      <item value="人" />
     </histories>
   </component>
   <component name="Settings">
