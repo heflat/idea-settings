@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revert" />
       <item value="tastatura" />
       <item value="键盘" />
       <item value="you neew to accept the license agreement" />
@@ -50,7 +51,6 @@
       <item value="Links e as last element." />
       <item value="Person" />
       <item value="人" />
-      <item value="人类" />
     </histories>
   </component>
   <component name="Settings">
