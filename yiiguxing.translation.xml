@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="formula" />
+      <item value="Red Package" />
+      <item value="Read Package" />
+      <item value="revert" />
       <item value="tastatura" />
       <item value="键盘" />
       <item value="you neew to accept the license agreement" />
@@ -47,10 +51,6 @@
       <item value="the first function argument" />
       <item value="calories" />
       <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
-      <item value="Links e as last element." />
-      <item value="Person" />
-      <item value="人" />
-      <item value="人类" />
     </histories>
   </component>
   <component name="Settings">
