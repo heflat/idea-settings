@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="startup and shutdow" />
+      <item value="shut" />
+      <item value="launch" />
+      <item value="desc" />
       <item value="hep" />
       <item value="bank card" />
       <item value="card" />
@@ -47,10 +51,6 @@
       <item value="Highlight articles published in recent season" />
       <item value="DOMAIN" />
       <item value="Table Of Content Alert" />
-      <item value="Fixed Option" />
-      <item value="file up" />
-      <item value="fileup" />
-      <item value="exercises" />
     </histories>
   </component>
   <component name="Settings">
