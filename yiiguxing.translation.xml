@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hep" />
+      <item value="bank card" />
+      <item value="card" />
+      <item value="卡" />
+      <item value="car" />
+      <item value="cart" />
       <item value="lang" />
       <item value="LANG CN" />
       <item value="Specify the output path in the Project Structure dialog." />
@@ -21,7 +27,6 @@
       <item value="desk" />
       <item value="桌面" />
       <item value="车" />
-      <item value="cart" />
       <item value="structure" />
       <item value="hide Scope" />
       <item value="rebel" />
@@ -46,11 +51,6 @@
       <item value="file up" />
       <item value="fileup" />
       <item value="exercises" />
-      <item value="Incompatible parameter types in lambda expression: wrong number of parameters: expected 1 but found 0" />
-      <item value="Bad return type in lambda expression: Object cannot be converted to void" />
-      <item value="Operator '+' cannot be applied to 'java.lang.Object', 'java.lang.Object'" />
-      <item value="the function result" />
-      <item value="the second function argument" />
     </histories>
   </component>
   <component name="Settings">
