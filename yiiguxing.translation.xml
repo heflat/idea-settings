@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Main menu | View | Parameter Info" />
+      <item value="Main menu | View | Recent Files" />
+      <item value="Extend Selection" />
+      <item value="Duplicate Line or Selection" />
       <item value="Show Intention Actions" />
       <item value="writing classes" />
       <item value="startup and shutdow" />
@@ -47,10 +51,6 @@
       <item value="patch" />
       <item value="Just a professional make errors programmer." />
       <item value="fix" />
-      <item value="id to load is required for loading" />
-      <item value="Illegal Argument Exception" />
-      <item value="id to load is required for loading] with root cause" />
-      <item value="Highlight articles published in recent season" />
     </histories>
   </component>
   <component name="Settings">
