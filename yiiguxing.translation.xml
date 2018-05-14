@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shortcut" />
+      <item value="create a desktop shortcut" />
       <item value="Plugin 'Markdown support' is incompatible with this installation" />
       <item value="Main menu | View | Parameter Info" />
       <item value="Main menu | View | Recent Files" />
@@ -49,8 +51,6 @@
       <item value="filter" />
       <item value="modified" />
       <item value="mode" />
-      <item value="patch" />
-      <item value="Just a professional make errors programmer." />
     </histories>
   </component>
   <component name="Settings">
