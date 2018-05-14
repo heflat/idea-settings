@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lang" />
+      <item value="LANG CN" />
       <item value="Specify the output path in the Project Structure dialog." />
       <item value="formula" />
       <item value="Red Package" />
@@ -49,8 +51,6 @@
       <item value="Operator '+' cannot be applied to 'java.lang.Object', 'java.lang.Object'" />
       <item value="the function result" />
       <item value="the second function argument" />
-      <item value="the first function argument" />
-      <item value="calories" />
     </histories>
   </component>
   <component name="Settings">
