@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Show Intention Actions" />
       <item value="writing classes" />
       <item value="startup and shutdow" />
       <item value="shut" />
@@ -50,7 +51,6 @@
       <item value="Illegal Argument Exception" />
       <item value="id to load is required for loading] with root cause" />
       <item value="Highlight articles published in recent season" />
-      <item value="DOMAIN" />
     </histories>
   </component>
   <component name="Settings">
