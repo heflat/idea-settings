@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify the output path in the Project Structure dialog." />
       <item value="formula" />
       <item value="Red Package" />
       <item value="Read Package" />
@@ -50,7 +51,6 @@
       <item value="the second function argument" />
       <item value="the first function argument" />
       <item value="calories" />
-      <item value="Cannot use ''&lt;&gt;'' with anonymous inner classes" />
     </histories>
   </component>
   <component name="Settings">
