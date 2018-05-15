@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Main menu | Navigate | Symbol..." />
+      <item value="Editor Actions | Extend Selection" />
+      <item value="Editor Actions | Shrink Selection" />
       <item value="Other | Show Intention Actions" />
       <item value="Quick Documentation" />
       <item value="File Structure" />
@@ -48,9 +51,6 @@
       <item value="desk" />
       <item value="桌面" />
       <item value="车" />
-      <item value="structure" />
-      <item value="hide Scope" />
-      <item value="rebel" />
     </histories>
   </component>
   <component name="Settings">
