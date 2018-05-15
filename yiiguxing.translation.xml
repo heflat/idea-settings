@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Other | Show Intention Actions" />
+      <item value="Quick Documentation" />
+      <item value="File Structure" />
+      <item value="Type Hierarchy" />
+      <item value="Jump to Navigation Bar" />
       <item value="Documents" />
       <item value="Doc" />
       <item value="Document" />
@@ -46,11 +51,6 @@
       <item value="structure" />
       <item value="hide Scope" />
       <item value="rebel" />
-      <item value="external" />
-      <item value="compiler" />
-      <item value="indent" />
-      <item value="manual" />
-      <item value="collect" />
     </histories>
   </component>
   <component name="Settings">
