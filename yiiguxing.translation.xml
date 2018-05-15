@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sume" />
+      <item value="Resume Program" />
+      <item value="Main menu | Run | Resume Program" />
+      <item value="Main menu | Run | Step Out" />
+      <item value="Main menu | Run | Smart Step Into" />
+      <item value="Main menu | Run | Step Over" />
+      <item value="Other | Search Everywhere" />
+      <item value="Main menu | Navigate | Previous Highlighted Error" />
       <item value="Main menu | Navigate | Next Highlighted Error" />
       <item value="Main menu | Code | Reformat Code" />
       <item value="Main menu | Code | Optimize Imports" />
@@ -43,14 +51,6 @@
       <item value="revert" />
       <item value="tastatura" />
       <item value="键盘" />
-      <item value="you neew to accept the license agreement" />
-      <item value="compare" />
-      <item value="processes" />
-      <item value="2 processes runing" />
-      <item value="processes runing" />
-      <item value="preparing" />
-      <item value="preparing workspace..." />
-      <item value="preparing workspace" />
     </histories>
   </component>
   <component name="Settings">
