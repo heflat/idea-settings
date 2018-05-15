@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Documents" />
+      <item value="Doc" />
+      <item value="Document" />
       <item value="shortcut" />
       <item value="create a desktop shortcut" />
       <item value="Plugin 'Markdown support' is incompatible with this installation" />
@@ -48,9 +51,6 @@
       <item value="indent" />
       <item value="manual" />
       <item value="collect" />
-      <item value="filter" />
-      <item value="modified" />
-      <item value="mode" />
     </histories>
   </component>
   <component name="Settings">
