@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Main menu | Navigate | Next Highlighted Error" />
+      <item value="Main menu | Code | Reformat Code" />
+      <item value="Main menu | Code | Optimize Imports" />
       <item value="Main menu | Navigate | Symbol..." />
       <item value="Editor Actions | Extend Selection" />
       <item value="Editor Actions | Shrink Selection" />
@@ -48,9 +51,6 @@
       <item value="preparing" />
       <item value="preparing workspace..." />
       <item value="preparing workspace" />
-      <item value="desk" />
-      <item value="桌面" />
-      <item value="车" />
     </histories>
   </component>
   <component name="Settings">
