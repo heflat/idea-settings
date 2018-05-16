@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unite" />
       <item value="Main menu | Run | Evaluate Expression..." />
       <item value="sume" />
       <item value="Resume Program" />
@@ -50,7 +51,6 @@
       <item value="Red Package" />
       <item value="Read Package" />
       <item value="revert" />
-      <item value="tastatura" />
     </histories>
   </component>
   <component name="Settings">
