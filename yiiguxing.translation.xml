@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameter groupId does not exist as a named parameter in" />
       <item value="seconds" />
       <item value="check User In User Group" />
       <item value="刷新" />
@@ -50,7 +51,6 @@
       <item value="lang" />
       <item value="LANG CN" />
       <item value="Specify the output path in the Project Structure dialog." />
-      <item value="formula" />
     </histories>
   </component>
   <component name="Settings">
