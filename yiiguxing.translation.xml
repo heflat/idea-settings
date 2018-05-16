@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select with pre-filter" />
+      <item value="quick manual select" />
+      <item value="trunk" />
       <item value="权限" />
       <item value="Parameter groupId does not exist as a named parameter in" />
       <item value="seconds" />
@@ -48,9 +51,6 @@
       <item value="card" />
       <item value="卡" />
       <item value="car" />
-      <item value="cart" />
-      <item value="lang" />
-      <item value="LANG CN" />
     </histories>
   </component>
   <component name="Settings">
