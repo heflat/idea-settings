@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ole Initialize" />
+      <item value="OleInitialize" />
+      <item value="org.eclipse.swt.internal.win32.OS.OleInitialize" />
+      <item value="The data dir location is not valid" />
       <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
       <item value="Exception executing batch" />
       <item value="Duplicate tag library URI" />
@@ -47,10 +51,6 @@
       <item value="writing classes" />
       <item value="startup and shutdow" />
       <item value="shut" />
-      <item value="launch" />
-      <item value="desc" />
-      <item value="hep" />
-      <item value="bank card" />
     </histories>
   </component>
   <component name="Settings">
