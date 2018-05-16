@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
+      <item value="Exception executing batch" />
       <item value="Duplicate tag library URI" />
       <item value="select with pre-filter" />
       <item value="quick manual select" />
@@ -49,8 +51,6 @@
       <item value="desc" />
       <item value="hep" />
       <item value="bank card" />
-      <item value="card" />
-      <item value="卡" />
     </histories>
   </component>
   <component name="Settings">
