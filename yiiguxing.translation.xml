@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate tag library URI" />
       <item value="select with pre-filter" />
       <item value="quick manual select" />
       <item value="trunk" />
@@ -50,7 +51,6 @@
       <item value="bank card" />
       <item value="card" />
       <item value="卡" />
-      <item value="car" />
     </histories>
   </component>
   <component name="Settings">
