@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Already connected" />
       <item value="Undo" />
       <item value="Cannot resolve symbol 'ArticleDao'" />
       <item value="Visual SourceSafe Integration" />
@@ -50,7 +51,6 @@
       <item value="Main menu | View | Recent Files" />
       <item value="Extend Selection" />
       <item value="Duplicate Line or Selection" />
-      <item value="Show Intention Actions" />
     </histories>
   </component>
   <component name="Settings">
