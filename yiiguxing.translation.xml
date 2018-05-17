@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve symbol 'ArticleDao'" />
       <item value="Visual SourceSafe Integration" />
       <item value="Ole Initialize" />
       <item value="OleInitialize" />
@@ -50,7 +51,6 @@
       <item value="Duplicate Line or Selection" />
       <item value="Show Intention Actions" />
       <item value="writing classes" />
-      <item value="startup and shutdow" />
     </histories>
   </component>
   <component name="Settings">
