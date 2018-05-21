@@ -18,10 +18,10 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*jsp</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*vm</mask>
     <mask>*</mask>
+    <mask>*xml</mask>
     <mask>*</mask>
   </component>
 </application>
