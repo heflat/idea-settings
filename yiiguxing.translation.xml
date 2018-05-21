@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs)" />
       <item value="change:min support from 2016.1" />
       <item value="change: use new icons" />
       <item value="Fix: replace equals to equalsIgnoreCase when alias string match" />
@@ -50,7 +51,6 @@
       <item value="shortcut" />
       <item value="create a desktop shortcut" />
       <item value="Plugin 'Markdown support' is incompatible with this installation" />
-      <item value="Main menu | View | Parameter Info" />
     </histories>
   </component>
   <component name="Settings">
