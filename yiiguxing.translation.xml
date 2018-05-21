@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Filter" />
       <item value="Must be lvalue" />
       <item value="找回" />
       <item value="forget" />
@@ -50,7 +51,6 @@
       <item value="Main menu | Navigate | Previous Highlighted Error" />
       <item value="Main menu | Navigate | Next Highlighted Error" />
       <item value="Main menu | Code | Reformat Code" />
-      <item value="Main menu | Code | Optimize Imports" />
     </histories>
   </component>
   <component name="Settings">
