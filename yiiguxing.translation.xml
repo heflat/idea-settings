@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean property 'mappingURLs' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?" />
+      <item value="No Class Def Found Error" />
+      <item value="Could not initialize class com.wkxt.ServiceFactory" />
+      <item value="Filter execution threw an exception" />
       <item value="Manually" />
       <item value="Manually setup external resource" />
       <item value="external" />
@@ -47,10 +51,6 @@
       <item value="Editor Actions | Extend Selection" />
       <item value="Editor Actions | Shrink Selection" />
       <item value="Other | Show Intention Actions" />
-      <item value="Quick Documentation" />
-      <item value="File Structure" />
-      <item value="Type Hierarchy" />
-      <item value="Jump to Navigation Bar" />
     </histories>
   </component>
   <component name="Settings">
