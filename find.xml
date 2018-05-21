@@ -17,11 +17,11 @@
     <mask>*ftl</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*jsp</mask>
     <mask>*java</mask>
     <mask>*vm</mask>
     <mask>*xml</mask>
     <mask>*</mask>
+    <mask>*jsp</mask>
     <mask>*</mask>
   </component>
 </application>
