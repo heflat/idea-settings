@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Must be lvalue" />
+      <item value="找回" />
+      <item value="forget" />
+      <item value="forgot" />
       <item value="Bean property 'mappingURLs' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?" />
       <item value="No Class Def Found Error" />
       <item value="Could not initialize class com.wkxt.ServiceFactory" />
@@ -47,10 +51,6 @@
       <item value="Main menu | Navigate | Next Highlighted Error" />
       <item value="Main menu | Code | Reformat Code" />
       <item value="Main menu | Code | Optimize Imports" />
-      <item value="Main menu | Navigate | Symbol..." />
-      <item value="Editor Actions | Extend Selection" />
-      <item value="Editor Actions | Shrink Selection" />
-      <item value="Other | Show Intention Actions" />
     </histories>
   </component>
   <component name="Settings">
