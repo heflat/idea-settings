@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否有权限" />
+      <item value="Filter" />
+      <item value="Must be lvalue" />
+      <item value="找回" />
+      <item value="forget" />
+      <item value="forgot" />
+      <item value="Bean property 'mappingURLs' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?" />
+      <item value="No Class Def Found Error" />
+      <item value="Could not initialize class com.wkxt.ServiceFactory" />
+      <item value="Filter execution threw an exception" />
+      <item value="Manually" />
+      <item value="Manually setup external resource" />
+      <item value="external" />
+      <item value="fetch external resource" />
+      <item value="fetch" />
+      <item value="Add Xsi schema location for external resource" />
+      <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs)" />
       <item value="change:min support from 2016.1" />
       <item value="change: use new icons" />
       <item value="Fix: replace equals to equalsIgnoreCase when alias string match" />
@@ -34,23 +51,6 @@
       <item value="Other | Search Everywhere" />
       <item value="Main menu | Navigate | Previous Highlighted Error" />
       <item value="Main menu | Navigate | Next Highlighted Error" />
-      <item value="Main menu | Code | Reformat Code" />
-      <item value="Main menu | Code | Optimize Imports" />
-      <item value="Main menu | Navigate | Symbol..." />
-      <item value="Editor Actions | Extend Selection" />
-      <item value="Editor Actions | Shrink Selection" />
-      <item value="Other | Show Intention Actions" />
-      <item value="Quick Documentation" />
-      <item value="File Structure" />
-      <item value="Type Hierarchy" />
-      <item value="Jump to Navigation Bar" />
-      <item value="Documents" />
-      <item value="Doc" />
-      <item value="Document" />
-      <item value="shortcut" />
-      <item value="create a desktop shortcut" />
-      <item value="Plugin 'Markdown support' is incompatible with this installation" />
-      <item value="Main menu | View | Parameter Info" />
     </histories>
   </component>
   <component name="Settings">
