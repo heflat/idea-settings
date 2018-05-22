@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Verification code mismatching" />
       <item value="Unsupported Operation Exception" />
       <item value="是否有权限" />
       <item value="Filter" />
@@ -50,7 +51,6 @@
       <item value="Main menu | Run | Smart Step Into" />
       <item value="Main menu | Run | Step Over" />
       <item value="Other | Search Everywhere" />
-      <item value="Main menu | Navigate | Previous Highlighted Error" />
     </histories>
   </component>
   <component name="Settings">
