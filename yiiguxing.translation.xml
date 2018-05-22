@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VSS project is valid" />
       <item value="Using version control integration" />
       <item value="Using file system" />
       <item value="Clear Read-Only Status" />
@@ -50,7 +51,6 @@
       <item value="sume" />
       <item value="Resume Program" />
       <item value="Main menu | Run | Resume Program" />
-      <item value="Main menu | Run | Step Out" />
     </histories>
   </component>
   <component name="Settings">
