@@ -20,8 +20,8 @@
     <mask>*java</mask>
     <mask>*vm</mask>
     <mask>*xml</mask>
-    <mask>*</mask>
     <mask>*jsp</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
