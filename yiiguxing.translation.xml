@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameter :journalName does not exist as a named parameter in" />
+      <item value="Unhandled Exception thrown" />
       <item value="卷" />
       <item value="volumn" />
       <item value="条件" />
@@ -49,8 +51,6 @@
       <item value="org.eclipse.swt.internal.win32.OS.OleInitialize" />
       <item value="The data dir location is not valid" />
       <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
-      <item value="Exception executing batch" />
-      <item value="Duplicate tag library URI" />
     </histories>
   </component>
   <component name="Settings">
