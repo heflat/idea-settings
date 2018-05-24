@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="条件" />
       <item value="small" />
       <item value="smalldatetime" />
       <item value="subject selected" />
@@ -50,7 +51,6 @@
       <item value="Duplicate tag library URI" />
       <item value="select with pre-filter" />
       <item value="quick manual select" />
-      <item value="trunk" />
     </histories>
   </component>
   <component name="Settings">
