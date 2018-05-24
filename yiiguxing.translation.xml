@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="卷" />
+      <item value="volumn" />
       <item value="条件" />
       <item value="small" />
       <item value="smalldatetime" />
@@ -49,8 +51,6 @@
       <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
       <item value="Exception executing batch" />
       <item value="Duplicate tag library URI" />
-      <item value="select with pre-filter" />
-      <item value="quick manual select" />
     </histories>
   </component>
   <component name="Settings">
