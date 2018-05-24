@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="small" />
+      <item value="smalldatetime" />
+      <item value="subject selected" />
+      <item value="选择" />
       <item value="Summary: 25 of 25 statements executed, 1 failed in 6 s 105 ms (3127216 symbols in file)" />
       <item value="D:/Workspace/idea/hep is not an existing filename or project" />
       <item value="Writing classes..." />
@@ -47,10 +51,6 @@
       <item value="select with pre-filter" />
       <item value="quick manual select" />
       <item value="trunk" />
-      <item value="权限" />
-      <item value="Parameter groupId does not exist as a named parameter in" />
-      <item value="seconds" />
-      <item value="check User In User Group" />
     </histories>
   </component>
   <component name="Settings">
