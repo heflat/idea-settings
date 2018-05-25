@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subject select" />
+      <item value="subject selected" />
+      <item value="SubjectSelected" />
+      <item value="subjected" />
+      <item value="subject" />
+      <item value="subject Select" />
       <item value="Connection to zentao@192.168.0.169 failed. [08S01] Communications link failure. The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="color" />
       <item value="bgcolor" />
@@ -14,7 +20,6 @@
       <item value="条件" />
       <item value="small" />
       <item value="smalldatetime" />
-      <item value="subject selected" />
       <item value="选择" />
       <item value="Summary: 25 of 25 statements executed, 1 failed in 6 s 105 ms (3127216 symbols in file)" />
       <item value="D:/Workspace/idea/hep is not an existing filename or project" />
@@ -46,11 +51,6 @@
       <item value="Add Xsi schema location for external resource" />
       <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs)" />
       <item value="change:min support from 2016.1" />
-      <item value="change: use new icons" />
-      <item value="Fix: replace equals to equalsIgnoreCase when alias string match" />
-      <item value="Already connected" />
-      <item value="Undo" />
-      <item value="Cannot resolve symbol 'ArticleDao'" />
     </histories>
   </component>
   <component name="Settings">
