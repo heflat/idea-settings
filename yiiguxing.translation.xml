@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sort num" />
+      <item value="sort number" />
+      <item value="排序" />
+      <item value="order number" />
+      <item value="order num" />
       <item value="article release time" />
       <item value="Plugin 'JVM Debugger Memory View' is incompatible with this installation" />
       <item value="subject select" />
@@ -46,11 +51,6 @@
       <item value="Could not initialize class com.wkxt.ServiceFactory" />
       <item value="Filter execution threw an exception" />
       <item value="Manually" />
-      <item value="Manually setup external resource" />
-      <item value="external" />
-      <item value="fetch external resource" />
-      <item value="fetch" />
-      <item value="Add Xsi schema location for external resource" />
     </histories>
   </component>
   <component name="Settings">
