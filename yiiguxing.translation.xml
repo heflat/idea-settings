@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection to zentao@192.168.0.169 failed. [08S01] Communications link failure. The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="color" />
       <item value="bgcolor" />
       <item value="bgclolor" />
@@ -50,7 +51,6 @@
       <item value="Already connected" />
       <item value="Undo" />
       <item value="Cannot resolve symbol 'ArticleDao'" />
-      <item value="Visual SourceSafe Integration" />
     </histories>
   </component>
   <component name="Settings">
