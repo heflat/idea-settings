@@ -1,9 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Software caused connection abort: recv failed" />
-      <item value="Plugin String Manipulation was not installed: Cannot download" />
-      <item value="connection abort: recv failed" />
       <item value="是否有权限" />
       <item value="Filter" />
       <item value="Must be lvalue" />
@@ -15,42 +12,6 @@
       <item value="Could not initialize class com.wkxt.ServiceFactory" />
       <item value="Filter execution threw an exception" />
       <item value="Manually" />
-      <item value="Manually setup external resource" />
-      <item value="external" />
-      <item value="fetch external resource" />
-      <item value="fetch" />
-      <item value="Add Xsi schema location for external resource" />
-      <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs)" />
-      <item value="change:min support from 2016.1" />
-      <item value="change: use new icons" />
-      <item value="Fix: replace equals to equalsIgnoreCase when alias string match" />
-      <item value="Already connected" />
-      <item value="Undo" />
-      <item value="Cannot resolve symbol 'ArticleDao'" />
-      <item value="Visual SourceSafe Integration" />
-      <item value="Ole Initialize" />
-      <item value="OleInitialize" />
-      <item value="org.eclipse.swt.internal.win32.OS.OleInitialize" />
-      <item value="The data dir location is not valid" />
-      <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
-      <item value="Exception executing batch" />
-      <item value="Duplicate tag library URI" />
-      <item value="select with pre-filter" />
-      <item value="quick manual select" />
-      <item value="trunk" />
-      <item value="权限" />
-      <item value="Parameter groupId does not exist as a named parameter in" />
-      <item value="seconds" />
-      <item value="check User In User Group" />
-      <item value="刷新" />
-      <item value="Unite" />
-      <item value="Main menu | Run | Evaluate Expression..." />
-      <item value="sume" />
-      <item value="Resume Program" />
-      <item value="Main menu | Run | Resume Program" />
-      <item value="Main menu | Run | Step Out" />
-      <item value="Main menu | Run | Smart Step Into" />
-      <item value="Main menu | Run | Step Over" />
     </histories>
   </component>
   <component name="Settings">
