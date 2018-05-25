@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plugin 'JVM Debugger Memory View' is incompatible with this installation" />
       <item value="subject select" />
       <item value="subject selected" />
       <item value="SubjectSelected" />
@@ -50,7 +51,6 @@
       <item value="fetch" />
       <item value="Add Xsi schema location for external resource" />
       <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs)" />
-      <item value="change:min support from 2016.1" />
     </histories>
   </component>
   <component name="Settings">
