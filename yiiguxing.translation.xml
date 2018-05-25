@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Software caused connection abort: recv failed" />
+      <item value="Plugin String Manipulation was not installed: Cannot download" />
+      <item value="connection abort: recv failed" />
       <item value="是否有权限" />
       <item value="Filter" />
       <item value="Must be lvalue" />
@@ -48,9 +51,6 @@
       <item value="Main menu | Run | Step Out" />
       <item value="Main menu | Run | Smart Step Into" />
       <item value="Main menu | Run | Step Over" />
-      <item value="Other | Search Everywhere" />
-      <item value="Main menu | Navigate | Previous Highlighted Error" />
-      <item value="Main menu | Navigate | Next Highlighted Error" />
     </histories>
   </component>
   <component name="Settings">
