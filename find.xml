@@ -21,8 +21,8 @@
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*impl.java</mask>
-    <mask>*</mask>
     <mask>*java</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
