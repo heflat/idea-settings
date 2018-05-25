@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color" />
+      <item value="bgcolor" />
+      <item value="bgclolor" />
+      <item value="SUBJECT SELECTED TYPE" />
+      <item value="Subject Constant" />
       <item value="Parameter :journalName does not exist as a named parameter in" />
       <item value="Unhandled Exception thrown" />
       <item value="卷" />
@@ -46,11 +51,6 @@
       <item value="Undo" />
       <item value="Cannot resolve symbol 'ArticleDao'" />
       <item value="Visual SourceSafe Integration" />
-      <item value="Ole Initialize" />
-      <item value="OleInitialize" />
-      <item value="org.eclipse.swt.internal.win32.OS.OleInitialize" />
-      <item value="The data dir location is not valid" />
-      <item value="Batch update returned unexpected row count from update: 0 actual row count: 0 expected: 1" />
     </histories>
   </component>
   <component name="Settings">
