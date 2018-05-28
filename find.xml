@@ -19,9 +19,9 @@
     <mask>*.java</mask>
     <mask>*vm</mask>
     <mask>*impl.java</mask>
-    <mask>*xml</mask>
     <mask>*jsp</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
