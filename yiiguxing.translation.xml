@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Feature #52 Flat out all text other than brackets on key (Alt + Button3) press. (via pull request#63) Feature #61 Change Highlight Current Scope Keymap to Ctrl + Button3 (Windows &amp; Linux) or Meta+ Button3 (Mac) (via pull request#63) Add anonymous feedback support" />
       <item value="Velocity" />
       <item value="Volumn" />
       <item value="shake" />
