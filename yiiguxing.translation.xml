@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Page" />
       <item value="select Id List" />
       <item value="added Id List" />
       <item value="已添加" />
