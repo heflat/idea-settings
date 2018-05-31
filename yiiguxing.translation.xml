@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enhance navigation feature for Struts resources (Action, Form, Forward, Tiles, Jsp) under IDEA." />
+      <item value="should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
+      <item value="article Release Time" />
+      <item value="published Time" />
+      <item value="出版时间" />
       <item value="level" />
       <item value="Folder" />
       <item value="For input string: &quot;selectIds&quot;" />
