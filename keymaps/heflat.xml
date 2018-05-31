@@ -59,6 +59,10 @@
   <action id="JRebel Executor">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="OpenActionPathAction">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="shift o" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
