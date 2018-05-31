@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scanned" />
       <item value="Plugin 'Struts Assistant' is incompatible with this installation" />
       <item value="Quick Definition Lookup (Ctrl+Shift+I)" />
       <item value="Goto Declaration(Ctrl+B)" />
