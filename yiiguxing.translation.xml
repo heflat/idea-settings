@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assemble" />
+      <item value="拆分" />
       <item value="Row" />
       <item value="first Row" />
       <item value="First Row" />
@@ -49,8 +51,6 @@
       <item value="Must be lvalue" />
       <item value="找回" />
       <item value="forget" />
-      <item value="forgot" />
-      <item value="Bean property 'mappingURLs' is not writable or has an invalid setter method. Does the parameter type of the setter match the return type of the getter?" />
     </histories>
   </component>
   <component name="Settings">
