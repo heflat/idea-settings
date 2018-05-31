@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quick Definition Lookup (Ctrl+Shift+I)" />
+      <item value="Goto Declaration(Ctrl+B)" />
       <item value="Enhance navigation feature for Struts resources (Action, Form, Forward, Tiles, Jsp) under IDEA." />
       <item value="should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
       <item value="article Release Time" />
