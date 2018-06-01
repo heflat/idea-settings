@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pos" />
+      <item value="mid" />
+      <item value="ordinal Index Of" />
+      <item value="strip" />
+      <item value="&lt;p&gt;Removes control characters (char &amp;lt;= 32) from both * ends of this String, handling &lt;code&gt;null&lt;/code&gt; by returning * an empty String (&quot;&quot;).&lt;/p&gt;" />
+      <item value="Represents a failed index search." />
       <item value="views" />
       <item value="view" />
       <item value="VIEWS" />
@@ -45,12 +51,6 @@
       <item value="covert" />
       <item value="Select" />
       <item value="Feature #52 Flat out all text other than brackets on key (Alt + Button3) press. (via pull request#63) Feature #61 Change Highlight Current Scope Keymap to Ctrl + Button3 (Windows &amp; Linux) or Meta+ Button3 (Mac) (via pull request#63) Add anonymous feedback support" />
-      <item value="Velocity" />
-      <item value="Volumn" />
-      <item value="shake" />
-      <item value="particle" />
-      <item value="enable" />
-      <item value="combo" />
     </histories>
   </component>
   <component name="Settings">
