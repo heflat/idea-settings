@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suggested Reading" />
       <item value="the length of the required String, must be zero or positive" />
       <item value="the position to start from, negative treated as zero" />
       <item value="the String to get the characters from, may be null" />
@@ -50,7 +51,6 @@
       <item value="命名" />
       <item value="截断" />
       <item value="阶段" />
-      <item value="convert" />
     </histories>
   </component>
   <component name="Settings">
