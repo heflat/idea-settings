@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has finished" />
+      <item value="Artifact" />
+      <item value="being" />
+      <item value="Artifact is being deployed, please wait..." />
+      <item value="handle" />
       <item value="suggested Reading" />
       <item value="the length of the required String, must be zero or positive" />
       <item value="the position to start from, negative treated as zero" />
@@ -46,11 +51,6 @@
       <item value="subtract" />
       <item value="code guide" />
       <item value="codeGuide" />
-      <item value="Popular Coding" />
-      <item value="CodeGuide" />
-      <item value="命名" />
-      <item value="截断" />
-      <item value="阶段" />
     </histories>
   </component>
   <component name="Settings">
