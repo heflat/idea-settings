@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="views" />
+      <item value="view" />
+      <item value="VIEWS" />
+      <item value="ORDER BY SUBJECT SELECTED VIEWS" />
+      <item value="浏览次数" />
       <item value="assemble" />
       <item value="拆分" />
       <item value="Row" />
@@ -46,11 +51,6 @@
       <item value="particle" />
       <item value="enable" />
       <item value="combo" />
-      <item value="是否有权限" />
-      <item value="Filter" />
-      <item value="Must be lvalue" />
-      <item value="找回" />
-      <item value="forget" />
     </histories>
   </component>
   <component name="Settings">
