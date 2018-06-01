@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the length of the required String, must be zero or positive" />
+      <item value="the position to start from, negative treated as zero" />
+      <item value="the String to get the characters from, may be null" />
       <item value="pos" />
       <item value="mid" />
       <item value="ordinal Index Of" />
@@ -48,9 +51,6 @@
       <item value="截断" />
       <item value="阶段" />
       <item value="convert" />
-      <item value="covert" />
-      <item value="Select" />
-      <item value="Feature #52 Flat out all text other than brackets on key (Alt + Button3) press. (via pull request#63) Feature #61 Change Highlight Current Scope Keymap to Ctrl + Button3 (Windows &amp; Linux) or Meta+ Button3 (Mac) (via pull request#63) Add anonymous feedback support" />
     </histories>
   </component>
   <component name="Settings">
