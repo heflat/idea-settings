@@ -80,13 +80,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newHashSet" value="Set $name$ = new HashSet();" description="Set $name$ = new HashSet();" toReformat="false" toShortenFQNames="true">
+  <template name="newHashSet" value="Set&lt;$obj$&gt; $name$ = new HashSet&lt;&gt;();" description="Set&lt;Object&gt; $name$ = new HashSet&lt;&gt;()" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newLinkedList" value="List&lt;$obj$&gt; $name$ = new LinkedList&lt;$obj$&gt;();" description="List&lt;User&gt; list = new LinkedList&lt;User&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="newLinkedList" value="List&lt;$obj$&gt; $name$ = new LinkedList&lt;&gt;();" description="List&lt;Object&gt; list = new LinkedList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
     <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -121,6 +122,13 @@
     </context>
   </template>
   <template name="main" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="main()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pfloat" value="/** $desc$ */&#10;private float $field$;$END$" description="private float field;" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
