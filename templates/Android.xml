@@ -1,0 +1,10 @@
+<templateSet group="Android">
+  <template name="fore" value="for ($object$ $obj$ : $limit$) {&#10;    $END$&#10;}" description="Create a for each loop" toReformat="false" toShortenFQNames="false">
+    <variable name="object" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="limit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

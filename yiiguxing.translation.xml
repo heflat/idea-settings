@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve symbol 'equals'" />
       <item value="separator" />
       <item value="separator Chars" />
       <item value="locale" />
@@ -50,7 +51,6 @@
       <item value="Folder" />
       <item value="For input string: &quot;selectIds&quot;" />
       <item value="unexpected end of subtree" />
-      <item value="current Page" />
     </histories>
   </component>
   <component name="Settings">
