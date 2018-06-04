@@ -133,4 +133,43 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="split" value="StringUtils.split($str$, $separatorChars$);" description="StringUtils.split($str$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="join" value="StringUtils.join($collection$, $separatorChars$);" description="StringUtils.join($collection$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+    <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="equals" value="StringUtils.equals($str1$, $str2$);" description="StringUtils.equals($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="equalsIgnoreCase" value="StringUtils.equalsIgnoreCase($str1$, $str2$);" description="StringUtils.equalsIgnoreCase($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trim" value="StringUtils.trim($str$);" description="StringUtils.trim($str$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ept" value="StringUtils.EMPTY;" description="StringUtils.EMPTY" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

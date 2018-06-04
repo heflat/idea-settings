@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="separator Chars" />
       <item value="locale" />
       <item value="逗号" />
       <item value="服务器" />
@@ -49,8 +51,6 @@
       <item value="For input string: &quot;selectIds&quot;" />
       <item value="unexpected end of subtree" />
       <item value="current Page" />
-      <item value="select Id List" />
-      <item value="added Id List" />
     </histories>
   </component>
   <component name="Settings">
