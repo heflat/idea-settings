@@ -147,14 +147,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="equals" value="StringUtils.equals($str1$, $str2$);" description="StringUtils.equals($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+  <template name="equals" value="StringUtils.equals($str1$, $str2$)" description="StringUtils.equals($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
     <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="equalsIgnoreCase" value="StringUtils.equalsIgnoreCase($str1$, $str2$);" description="StringUtils.equalsIgnoreCase($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+  <template name="equalsIgnoreCase" value="StringUtils.equalsIgnoreCase($str1$, $str2$)" description="StringUtils.equalsIgnoreCase($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
     <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
