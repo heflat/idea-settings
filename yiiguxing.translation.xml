@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="separator Chars" />
+      <item value="locale" />
+      <item value="逗号" />
+      <item value="服务器" />
+      <item value="Not all named parameters have been set" />
       <item value="current" />
       <item value="has finished" />
       <item value="Artifact" />
@@ -45,12 +51,6 @@
       <item value="For input string: &quot;selectIds&quot;" />
       <item value="unexpected end of subtree" />
       <item value="current Page" />
-      <item value="select Id List" />
-      <item value="added Id List" />
-      <item value="已添加" />
-      <item value="Returns a new {@link Collection} containing &lt;tt&gt;&lt;i&gt;a&lt;/i&gt; - &lt;i&gt;b&lt;/i&gt;&lt;/tt&gt;. * The cardinality of each element &lt;i&gt;e&lt;/i&gt; in the returned {@link Collection} * will be the cardinality of &lt;i&gt;e&lt;/i&gt; in &lt;i&gt;a&lt;/i&gt; minus the cardinality * of &lt;i&gt;e&lt;/i&gt; in &lt;i&gt;b&lt;/i&gt;, or zero, whichever is greater." />
-      <item value="subtract" />
-      <item value="code guide" />
     </histories>
   </component>
   <component name="Settings">

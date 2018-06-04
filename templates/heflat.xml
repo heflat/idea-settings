@@ -1,23 +1,23 @@
 <templateSet group="heflat">
-  <template name="strNotBlank" value="if (StringUtils.isNotBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isNotBlank();" toReformat="false" toShortenFQNames="true">
+  <template name="!blank" value="if (StringUtils.isNotBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isNotBlank()" toReformat="false" toShortenFQNames="true">
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="strBlank" value="if (StringUtils.isBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isBlank();" toReformat="false" toShortenFQNames="true">
+  <template name="blank" value="if (StringUtils.isBlank($args$)) {&#10;    $END$&#10;}" description="StringUtils.isBlank()" toReformat="false" toShortenFQNames="true">
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="listNotEmpty" value="if (CollectionUtils.isNotEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isNotEmpty();" toReformat="false" toShortenFQNames="true">
+  <template name="!empty" value="if (CollectionUtils.isNotEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isNotEmpty();" toReformat="false" toShortenFQNames="true">
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="listEmpty" value="if (CollectionUtils.isEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isEmpty();" toReformat="false" toShortenFQNames="true">
+  <template name="empty" value="if (CollectionUtils.isEmpty($args$)) {&#10;    $END$&#10;}" description="CollectionUtils.isEmpty()" toReformat="false" toShortenFQNames="true">
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
@@ -65,7 +65,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newArrayList" value="List&lt;$obj$&gt; $name$ = new ArrayList&lt;$obj$&gt;();" description="List&lt;Object&gt; list = new ArrayList&lt;Object&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="newArrayList" value="List&lt;$obj$&gt; $name$ = new ArrayList&lt;&gt;();" description="List&lt;Object&gt; list = new ArrayList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
     <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -80,13 +80,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newHashSet" value="Set $name$ = new HashSet();" description="Set $name$ = new HashSet();" toReformat="false" toShortenFQNames="true">
+  <template name="newHashSet" value="Set&lt;$obj$&gt; $name$ = new HashSet&lt;&gt;();" description="Set&lt;Object&gt; $name$ = new HashSet&lt;&gt;()" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newLinkedList" value="List&lt;$obj$&gt; $name$ = new LinkedList&lt;$obj$&gt;();" description="List&lt;User&gt; list = new LinkedList&lt;User&gt;();" toReformat="false" toShortenFQNames="true">
+  <template name="newLinkedList" value="List&lt;$obj$&gt; $name$ = new LinkedList&lt;&gt;();" description="List&lt;Object&gt; list = new LinkedList&lt;&gt;();" toReformat="false" toShortenFQNames="true">
     <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -116,6 +117,57 @@
   </template>
   <template name="null" value="if ($arg$ == null) {&#10;    $END$&#10;}" description="if (arg == null) {}" toReformat="false" toShortenFQNames="true">
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="main()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pfloat" value="/** $desc$ */&#10;private float $field$;$END$" description="private float field;" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="split" value="StringUtils.split($str$, $separatorChars$);" description="StringUtils.split($str$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="join" value="StringUtils.join($collection$, $separatorChars$);" description="StringUtils.join($collection$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+    <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="equals" value="StringUtils.equals($str1$, $str2$);" description="StringUtils.equals($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="equalsIgnoreCase" value="StringUtils.equalsIgnoreCase($str1$, $str2$);" description="StringUtils.equalsIgnoreCase($str1$, $str2$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="str2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="trim" value="StringUtils.trim($str$);" description="StringUtils.trim($str$)" toReformat="false" toShortenFQNames="true">
+    <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ept" value="StringUtils.EMPTY;" description="StringUtils.EMPTY" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
