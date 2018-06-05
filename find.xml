@@ -22,8 +22,8 @@
     <mask>*xml</mask>
     <mask>*Action.java</mask>
     <mask>*jsp</mask>
-    <mask>*</mask>
     <mask>*java</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
