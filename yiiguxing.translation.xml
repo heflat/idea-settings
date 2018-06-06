@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="run macro file" />
+      <item value="run_macro_file" />
       <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML" />
       <item value="顺序号" />
       <item value="orderby" />
@@ -49,8 +51,6 @@
       <item value="First Row" />
       <item value="SORT" />
       <item value="1. Fix Markdown line break does not work.  2. Fix bugs relates to SmartyPants.  3. Fix return key on tables.  4. Fix mirror styles and typos.  5. Remove default shortcut keys of &quot;typewriter&quot; mode to prevent user from activating it accidentally and does not know how to exit. " />
-      <item value="is Numeric Space" />
-      <item value="is Numeric" />
     </histories>
   </component>
   <component name="Settings">
