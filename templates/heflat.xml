@@ -164,4 +164,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pDate" value="/** $desc$ */&#10;private Date $field$;$END$" description="private Date field;" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

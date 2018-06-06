@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="顺序号" />
+      <item value="orderby" />
+      <item value="create Time" />
+      <item value="sort" />
+      <item value="sort Weight" />
+      <item value="排序权重" />
+      <item value="派校园权重" />
+      <item value="权重" />
+      <item value="优先级" />
+      <item value="sort Flag" />
+      <item value="10 line breaks" />
       <item value="should be mapped with insert=&quot;false&quot;" />
       <item value="Cannot resolve symbol 'equals'" />
       <item value="separator" />
@@ -40,17 +51,6 @@
       <item value="is Numeric Space" />
       <item value="is Numeric" />
       <item value="scanned" />
-      <item value="Plugin 'Struts Assistant' is incompatible with this installation" />
-      <item value="Quick Definition Lookup (Ctrl+Shift+I)" />
-      <item value="Goto Declaration(Ctrl+B)" />
-      <item value="Enhance navigation feature for Struts resources (Action, Form, Forward, Tiles, Jsp) under IDEA." />
-      <item value="should be mapped with insert=&quot;false&quot; update=&quot;false&quot;" />
-      <item value="article Release Time" />
-      <item value="published Time" />
-      <item value="出版时间" />
-      <item value="level" />
-      <item value="Folder" />
-      <item value="For input string: &quot;selectIds&quot;" />
     </histories>
   </component>
   <component name="Settings">
