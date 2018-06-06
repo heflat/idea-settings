@@ -49,4 +49,12 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="selo" value="select * from $table$ order by $columns$ $sc$$END$;" description="select * from table order by columns asc/desc" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="columns" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
