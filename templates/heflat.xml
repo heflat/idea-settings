@@ -159,7 +159,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="hept" value="StringUtils.EMPTY;" description="StringUtils.EMPTY" toReformat="false" toShortenFQNames="true">
+  <template name="hept" value="StringUtils.EMPTY" description="StringUtils.EMPTY" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
