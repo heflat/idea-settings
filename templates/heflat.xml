@@ -125,14 +125,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="hsplit" value="StringUtils.split($str$, $separatorChars$);" description="StringUtils.split($str$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+  <template name="hsplit" value="StringUtils.split($str$, $separatorChars$)" description="StringUtils.split($str$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="hjoin" value="StringUtils.join($collection$, $separatorChars$);" description="StringUtils.join($collection$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
+  <template name="hjoin" value="StringUtils.join($collection$, $separatorChars$)" description="StringUtils.join($collection$, $separatorChars$)" toReformat="false" toShortenFQNames="true">
     <variable name="collection" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="separatorChars" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -153,7 +153,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="htrim" value="StringUtils.trim($str$);" description="StringUtils.trim($str$)" toReformat="false" toShortenFQNames="true">
+  <template name="htrim" value="StringUtils.trim($str$)" description="StringUtils.trim($str$)" toReformat="false" toShortenFQNames="true">
     <variable name="str" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
