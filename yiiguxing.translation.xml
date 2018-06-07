@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="character" />
+      <item value="chars" />
+      <item value="char" />
+      <item value="complete" />
       <item value="IdeaVim Using the Ctrl+W shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
       <item value="judge" />
       <item value="Cannot find bean under name org.apache.struts.taglib.html.BEAN" />
@@ -47,10 +51,6 @@
       <item value="VIEWS" />
       <item value="ORDER BY SUBJECT SELECTED VIEWS" />
       <item value="浏览次数" />
-      <item value="assemble" />
-      <item value="拆分" />
-      <item value="Row" />
-      <item value="first Row" />
     </histories>
   </component>
   <component name="Settings">
