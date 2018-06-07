@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="judge" />
       <item value="Cannot find bean under name org.apache.struts.taglib.html.BEAN" />
       <item value="run macro file" />
       <item value="run_macro_file" />
@@ -50,7 +51,6 @@
       <item value="Row" />
       <item value="first Row" />
       <item value="First Row" />
-      <item value="SORT" />
     </histories>
   </component>
   <component name="Settings">
