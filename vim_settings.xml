@@ -19,6 +19,13 @@
         <mark key="^" line="21" column="2" />
         <mark key="." line="21" column="2" />
       </file>
+      <file name="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" timestamp="1528333458564">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="26" column="59" />
+        <mark key="." line="26" column="59" />
+        <mark key="^" line="26" column="59" />
+      </file>
       <file name="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" timestamp="1503623874504">
         <mark key="'" line="31" column="29" />
         <mark key="[" line="38" column="0" />
@@ -62,6 +69,16 @@
       <jump line="231" column="59" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
       <jump line="247" column="8" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
       <jump line="260" column="62" filename="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" />
+      <jump line="27" column="15" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="28" column="0" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="26" column="64" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="11" column="59" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="0" column="0" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="1" column="0" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="20" column="12" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="21" column="8" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="29" column="0" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="12" column="8" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -71,7 +88,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0ZVRpbWUudG9TdHJpbmcoZm9ybWF0U3RyKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyMiA9ICIiOwo=</text>
@@ -83,10 +100,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>set so=5</text>
+        <text>27</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>contentid\c</text>
@@ -113,6 +130,9 @@
         <entry>39</entry>
         <entry>34</entry>
         <entry>set so=5</entry>
+        <entry>22</entry>
+        <entry>27</entry>
+        <entry>!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -135,6 +155,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
