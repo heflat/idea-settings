@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subject" />
       <item value="character" />
       <item value="chars" />
       <item value="char" />
@@ -50,7 +51,6 @@
       <item value="view" />
       <item value="VIEWS" />
       <item value="ORDER BY SUBJECT SELECTED VIEWS" />
-      <item value="浏览次数" />
     </histories>
   </component>
   <component name="Settings">
