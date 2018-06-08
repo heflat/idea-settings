@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="article Flag" />
       <item value="journal Pic" />
       <item value="subject" />
       <item value="character" />
@@ -50,7 +51,6 @@
       <item value="Represents a failed index search." />
       <item value="views" />
       <item value="view" />
-      <item value="VIEWS" />
     </histories>
   </component>
   <component name="Settings">
