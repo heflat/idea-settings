@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="导出引用" />
       <item value="lang" />
       <item value="out . println (&quot;0&quot;);" />
       <item value="SELECT TYPE ARTICLE" />
@@ -50,7 +51,6 @@
       <item value="the position to start from, negative treated as zero" />
       <item value="the String to get the characters from, may be null" />
       <item value="pos" />
-      <item value="mid" />
     </histories>
   </component>
   <component name="Settings">
