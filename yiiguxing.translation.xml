@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="out . println (&quot;0&quot;);" />
       <item value="SELECT TYPE ARTICLE" />
       <item value="property references a null or transient value" />
       <item value="Property of an entity class or component, component-element, composite-id, etc. JavaBeans style properties are mapped to table columns." />
@@ -50,7 +51,6 @@
       <item value="pos" />
       <item value="mid" />
       <item value="ordinal Index Of" />
-      <item value="strip" />
     </histories>
   </component>
   <component name="Settings">
