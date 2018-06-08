@@ -13,6 +13,9 @@
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="67" />
       </file>
+      <file name="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-article-cn.xml" timestamp="1528440648497">
+        <mark key="'" line="40" column="22" />
+      </file>
       <file name="D:/idea/newwkxt3/test/java/com/main/Test.java" timestamp="1509410291403">
         <mark key="[" line="21" column="3" />
         <mark key="]" line="21" column="2" />
@@ -38,6 +41,9 @@
         <mark key="]" line="37" column="7" />
         <mark key="^" line="37" column="7" />
         <mark key="." line="37" column="7" />
+      </file>
+      <file name="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" timestamp="1528441401699">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" timestamp="1516000911030">
         <mark key="'" line="260" column="62" />
@@ -79,6 +85,11 @@
       <jump line="21" column="8" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
       <jump line="29" column="0" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
       <jump line="12" column="8" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" />
+      <jump line="40" column="22" filename="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-article-cn.xml" />
+      <jump line="25" column="13" filename="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" />
+      <jump line="39" column="8" filename="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" />
+      <jump line="57" column="20" filename="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" />
+      <jump line="0" column="0" filename="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
