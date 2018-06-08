@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish" />
+      <item value="出版" />
+      <item value="书刊名" />
+      <item value="书刊" />
       <item value="引用导出" />
       <item value="导出引用" />
       <item value="lang" />
@@ -47,10 +51,6 @@
       <item value="being" />
       <item value="Artifact is being deployed, please wait..." />
       <item value="handle" />
-      <item value="suggested Reading" />
-      <item value="the length of the required String, must be zero or positive" />
-      <item value="the position to start from, negative treated as zero" />
-      <item value="the String to get the characters from, may be null" />
     </histories>
   </component>
   <component name="Settings">
