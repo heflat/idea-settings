@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全选" />
+      <item value="For Selected" />
       <item value="is not an existing filename or project" />
       <item value="Please select" />
       <item value="Unresolved variable or type fasle more..." />
@@ -49,8 +51,6 @@
       <item value="逗号" />
       <item value="服务器" />
       <item value="Not all named parameters have been set" />
-      <item value="current" />
-      <item value="has finished" />
     </histories>
   </component>
   <component name="Settings">
