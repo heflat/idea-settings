@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shelve Changes" />
+      <item value="Shelve" />
+      <item value="虚拟专题" />
       <item value="全选" />
       <item value="For Selected" />
       <item value="is not an existing filename or project" />
@@ -48,9 +51,6 @@
       <item value="separator" />
       <item value="separator Chars" />
       <item value="locale" />
-      <item value="逗号" />
-      <item value="服务器" />
-      <item value="Not all named parameters have been set" />
     </histories>
   </component>
   <component name="Settings">
