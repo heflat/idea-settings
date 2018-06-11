@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot be resolved to a type" />
       <item value="Shelve Changes" />
       <item value="Shelve" />
       <item value="虚拟专题" />
@@ -50,7 +51,6 @@
       <item value="Cannot resolve symbol 'equals'" />
       <item value="separator" />
       <item value="separator Chars" />
-      <item value="locale" />
     </histories>
   </component>
   <component name="Settings">
