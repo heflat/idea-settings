@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please select" />
       <item value="Unresolved variable or type fasle more..." />
       <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML. " />
       <item value="publish" />
@@ -50,7 +51,6 @@
       <item value="current" />
       <item value="has finished" />
       <item value="Artifact" />
-      <item value="being" />
     </histories>
   </component>
   <component name="Settings">
