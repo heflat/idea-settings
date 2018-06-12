@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="candy wind" />
+      <item value="candy" />
       <item value="Declaration not allowed here" />
       <item value="locked working copy folders" />
       <item value="Error:svn: E155037: Previous operation has not finished; run 'cleanup' if it was interrupted" />
@@ -49,8 +51,6 @@
       <item value="顺序号" />
       <item value="orderby" />
       <item value="create Time" />
-      <item value="sort" />
-      <item value="sort Weight" />
     </histories>
   </component>
   <component name="Settings">
