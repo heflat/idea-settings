@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Commit finished with warning: 0 files committed, 1 file failed to commit:" />
+      <item value="Commit finished with warning: 0 files committed, 1 file failed to commit: 更新数据库修改文档" />
       <item value="Some files contain problems. 509 errors and 1,305 warnings found. Would you like to review them?" />
       <item value="cannot be resolved to a type" />
       <item value="Shelve Changes" />
@@ -49,8 +51,6 @@
       <item value="sort Flag" />
       <item value="10 line breaks" />
       <item value="should be mapped with insert=&quot;false&quot;" />
-      <item value="Cannot resolve symbol 'equals'" />
-      <item value="separator" />
     </histories>
   </component>
   <component name="Settings">
