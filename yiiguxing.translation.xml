@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Declaration not allowed here" />
       <item value="locked working copy folders" />
       <item value="Error:svn: E155037: Previous operation has not finished; run 'cleanup' if it was interrupted" />
       <item value="Could not read from remote repository." />
@@ -50,7 +51,6 @@
       <item value="create Time" />
       <item value="sort" />
       <item value="sort Weight" />
-      <item value="排序权重" />
     </histories>
   </component>
   <component name="Settings">
