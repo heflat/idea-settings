@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="locked working copy folders" />
+      <item value="Error:svn: E155037: Previous operation has not finished; run 'cleanup' if it was interrupted" />
       <item value="Could not read from remote repository." />
       <item value="Please make sure you have the correct access rights and the repository exists." />
       <item value="全局" />
@@ -49,8 +51,6 @@
       <item value="sort" />
       <item value="sort Weight" />
       <item value="排序权重" />
-      <item value="派校园权重" />
-      <item value="权重" />
     </histories>
   </component>
   <component name="Settings">
