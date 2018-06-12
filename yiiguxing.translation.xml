@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not read from remote repository." />
+      <item value="Please make sure you have the correct access rights and the repository exists." />
+      <item value="全局" />
+      <item value="Please make sure you have the correct access rights and the repository exists. " />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit:" />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit: 更新数据库修改文档" />
       <item value="Some files contain problems. 509 errors and 1,305 warnings found. Would you like to review them?" />
@@ -47,10 +51,6 @@
       <item value="排序权重" />
       <item value="派校园权重" />
       <item value="权重" />
-      <item value="优先级" />
-      <item value="sort Flag" />
-      <item value="10 line breaks" />
-      <item value="should be mapped with insert=&quot;false&quot;" />
     </histories>
   </component>
   <component name="Settings">

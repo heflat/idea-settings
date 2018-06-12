@@ -35,10 +35,8 @@
       <option name="SQL" value="true" />
     </context>
   </template>
-  <template name="del" value="DELETE FROM $table$ WHERE $column$ = $value$ $END$;" description="delete from table" toReformat="false" toShortenFQNames="false">
+  <template name="del" value="DELETE FROM $table$$END$;" description="delete from table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SQL" value="true" />
     </context>
@@ -53,6 +51,14 @@
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="columns" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="sc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="delw" value="DELETE FROM $table$ WHERE $column$ = $value$$END$;" description="delete from table where column_name" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SQL" value="true" />
     </context>
