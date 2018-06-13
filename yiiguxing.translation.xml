@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="No Such Method Error" />
+      <item value="NoSuchMethodError" />
       <item value="candy wind" />
       <item value="candy" />
       <item value="Declaration not allowed here" />
@@ -51,8 +51,6 @@
       <item value="run_macro_file" />
       <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML" />
       <item value="顺序号" />
-      <item value="orderby" />
-      <item value="create Time" />
     </histories>
   </component>
   <component name="Settings">
