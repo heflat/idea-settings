@@ -22,8 +22,8 @@
     <mask>*java</mask>
     <mask>*vm</mask>
     <mask>*jsp</mask>
-    <mask>*</mask>
     <mask>*xml</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
