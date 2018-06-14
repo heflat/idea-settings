@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="ENGLISH" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="issue" />
       <item value="平台" />
       <item value="browse" />
       <item value="期刊数量" />
@@ -52,7 +53,6 @@
       <item value="journal Pic" />
       <item value="subject" />
       <item value="character" />
-      <item value="chars" />
     </histories>
   </component>
   <component name="Settings">
