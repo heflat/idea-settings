@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Numbers Statistics" />
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError" />
       <item value="candy wind" />
@@ -50,7 +53,6 @@
       <item value="run macro file" />
       <item value="run_macro_file" />
       <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML" />
-      <item value="顺序号" />
     </histories>
   </component>
   <component name="Settings">
