@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="is Digit" />
+      <item value="数字" />
+      <item value="empty" />
+      <item value="非空" />
       <item value="Numbers Statistics" />
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError" />
@@ -49,10 +53,6 @@
       <item value="complete" />
       <item value="IdeaVim Using the Ctrl+W shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
       <item value="judge" />
-      <item value="Cannot find bean under name org.apache.struts.taglib.html.BEAN" />
-      <item value="run macro file" />
-      <item value="run_macro_file" />
-      <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML" />
     </histories>
   </component>
   <component name="Settings">
