@@ -77,7 +77,7 @@
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
