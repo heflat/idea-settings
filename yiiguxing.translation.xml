@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
     <histories>
+      <item value="平台" />
+      <item value="browse" />
+      <item value="期刊数量" />
       <item value="'a'  has private access in 'b'" />
       <item value="is Digit" />
       <item value="数字" />
@@ -50,9 +53,6 @@
       <item value="subject" />
       <item value="character" />
       <item value="chars" />
-      <item value="char" />
-      <item value="complete" />
-      <item value="IdeaVim Using the Ctrl+W shortcut for Vim emulation. You can redefine it as an IDE shortcut or configure its handler in Vim Emulation settings." />
     </histories>
   </component>
   <component name="Settings">
