@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="result" />
       <item value="Figure" />
       <item value="Lexeme Cnctst" />
       <item value="cnctst" />
@@ -52,7 +53,6 @@
       <item value="is not an existing filename or project" />
       <item value="Please select" />
       <item value="Unresolved variable or type fasle more..." />
-      <item value="Unescaped xml character less... (Ctrl+F1)  This inspection checks that the script tag content is valid XML. " />
     </histories>
   </component>
   <component name="Settings">
