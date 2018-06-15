@@ -29,7 +29,7 @@
     <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="selcw" value="SELECT COUNT(*) FROM $table$ WHERE $END$;" description="select the number of specific rows in a table" toReformat="false" toShortenFQNames="true">
+  <template name="selcw" value="SELECT COUNT(1) FROM $table$ WHERE $END$;" description="select the number of specific rows in a table" toReformat="false" toShortenFQNames="true">
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="SQL" value="true" />
