@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="'object' is an array. Use JSONArray instead" />
       <item value="result" />
       <item value="Figure" />
       <item value="Lexeme Cnctst" />
@@ -52,7 +53,6 @@
       <item value="For Selected" />
       <item value="is not an existing filename or project" />
       <item value="Please select" />
-      <item value="Unresolved variable or type fasle more..." />
     </histories>
   </component>
   <component name="Settings">
