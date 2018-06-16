@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
     <histories>
+      <item value="Vendor" />
       <item value="'object' is an array. Use JSONArray instead" />
       <item value="result" />
       <item value="Figure" />
@@ -52,7 +53,6 @@
       <item value="全选" />
       <item value="For Selected" />
       <item value="is not an existing filename or project" />
-      <item value="Please select" />
     </histories>
   </component>
   <component name="Settings">
