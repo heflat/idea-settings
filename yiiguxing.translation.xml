@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VSS project is valid" />
+      <item value="C:/heflat/workspace/idea/hep is not an existing filename or project" />
       <item value="add Instance" />
       <item value="COMMENT" />
       <item value="Vendor" />
@@ -49,8 +51,6 @@
       <item value="cannot be resolved to a type" />
       <item value="Shelve Changes" />
       <item value="Shelve" />
-      <item value="虚拟专题" />
-      <item value="全选" />
     </histories>
   </component>
   <component name="Settings">
