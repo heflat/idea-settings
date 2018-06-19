@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Instance" />
       <item value="COMMENT" />
       <item value="Vendor" />
       <item value="'object' is an array. Use JSONArray instead" />
@@ -50,7 +51,6 @@
       <item value="Shelve" />
       <item value="虚拟专题" />
       <item value="全选" />
-      <item value="For Selected" />
     </histories>
   </component>
   <component name="Settings">
