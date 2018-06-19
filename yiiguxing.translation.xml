@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="演示" />
+      <item value="压实" />
+      <item value="颜色" />
       <item value="VSS project is valid" />
       <item value="C:/heflat/workspace/idea/hep is not an existing filename or project" />
       <item value="add Instance" />
@@ -48,9 +51,6 @@
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit:" />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit: 更新数据库修改文档" />
       <item value="Some files contain problems. 509 errors and 1,305 warnings found. Would you like to review them?" />
-      <item value="cannot be resolved to a type" />
-      <item value="Shelve Changes" />
-      <item value="Shelve" />
     </histories>
   </component>
   <component name="Settings">
