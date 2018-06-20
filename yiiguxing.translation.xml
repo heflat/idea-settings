@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recent" />
       <item value="Split Vertically" />
       <item value="add abbreviation" />
       <item value="add mouse shortcut" />
@@ -50,7 +51,6 @@
       <item value="Numbers Statistics" />
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError" />
-      <item value="candy wind" />
     </histories>
   </component>
   <component name="Settings">
