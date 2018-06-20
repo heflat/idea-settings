@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Split Vertically" />
+      <item value="add abbreviation" />
+      <item value="add mouse shortcut" />
+      <item value="add keyboard shortcut" />
+      <item value="add keyboard" />
       <item value="item - number" />
       <item value="item" />
       <item value="物料号" />
@@ -46,11 +51,6 @@
       <item value="No Such Method Error" />
       <item value="NoSuchMethodError" />
       <item value="candy wind" />
-      <item value="candy" />
-      <item value="Declaration not allowed here" />
-      <item value="locked working copy folders" />
-      <item value="Error:svn: E155037: Previous operation has not finished; run 'cleanup' if it was interrupted" />
-      <item value="Could not read from remote repository." />
     </histories>
   </component>
   <component name="Settings">
