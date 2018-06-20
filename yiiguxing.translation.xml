@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cite" />
       <item value="演示" />
       <item value="压实" />
       <item value="颜色" />
@@ -50,7 +51,6 @@
       <item value="Please make sure you have the correct access rights and the repository exists. " />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit:" />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit: 更新数据库修改文档" />
-      <item value="Some files contain problems. 509 errors and 1,305 warnings found. Would you like to review them?" />
     </histories>
   </component>
   <component name="Settings">
