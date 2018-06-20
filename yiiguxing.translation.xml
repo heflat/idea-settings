@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error running 'hep': Unable to open debugger port (127.0.0.1:6203): java.net.BindException &quot;Address already in use: JVM_Bind&quot;" />
       <item value="cite" />
       <item value="演示" />
       <item value="压实" />
@@ -50,7 +51,6 @@
       <item value="全局" />
       <item value="Please make sure you have the correct access rights and the repository exists. " />
       <item value="Commit finished with warning: 0 files committed, 1 file failed to commit:" />
-      <item value="Commit finished with warning: 0 files committed, 1 file failed to commit: 更新数据库修改文档" />
     </histories>
   </component>
   <component name="Settings">
