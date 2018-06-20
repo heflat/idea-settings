@@ -86,6 +86,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="Vss.Diff">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
