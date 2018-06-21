@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="publish Unit" />
+      <item value="unit" />
+      <item value="单位" />
+      <item value="出版单位" />
       <item value="issue" />
       <item value="volume" />
       <item value="recent" />
@@ -47,10 +51,6 @@
       <item value="'a'  has private access in 'b'" />
       <item value="is Digit" />
       <item value="数字" />
-      <item value="empty" />
-      <item value="非空" />
-      <item value="Numbers Statistics" />
-      <item value="No Such Method Error" />
     </histories>
   </component>
   <component name="Settings">
