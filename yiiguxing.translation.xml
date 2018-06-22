@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trial" />
       <item value="Error:java: Compilation failed: internal java compiler error" />
       <item value="publish Unit" />
       <item value="unit" />
@@ -50,7 +51,6 @@
       <item value="browse" />
       <item value="期刊数量" />
       <item value="'a'  has private access in 'b'" />
-      <item value="is Digit" />
     </histories>
   </component>
   <component name="Settings">
