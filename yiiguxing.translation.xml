@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not applicable to field" />
+      <item value="In Coming" />
+      <item value="In Come" />
       <item value="trial" />
       <item value="Error:java: Compilation failed: internal java compiler error" />
       <item value="publish Unit" />
@@ -48,9 +51,6 @@
       <item value="Volumn" />
       <item value="Count" />
       <item value="平台" />
-      <item value="browse" />
-      <item value="期刊数量" />
-      <item value="'a'  has private access in 'b'" />
     </histories>
   </component>
   <component name="Settings">
