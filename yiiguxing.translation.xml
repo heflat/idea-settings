@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appender" />
       <item value="not applicable to field" />
       <item value="In Coming" />
       <item value="In Come" />
@@ -50,7 +51,6 @@
       <item value="Volume" />
       <item value="Volumn" />
       <item value="Count" />
-      <item value="平台" />
     </histories>
   </component>
   <component name="Settings">
