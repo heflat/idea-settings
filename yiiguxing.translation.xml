@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Titanic" />
       <item value="character Encoding" />
       <item value="appender" />
       <item value="not applicable to field" />
@@ -50,7 +51,6 @@
       <item value="Cited" />
       <item value="journal Cited Count" />
       <item value="Volume" />
-      <item value="Volumn" />
     </histories>
   </component>
   <component name="Settings">
