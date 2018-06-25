@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gateway" />
+      <item value="netmask" />
       <item value=" pathspec 'fitst commit' did not match any file(s) known to git." />
       <item value=" pathspec '首次提交' did not match any file(s) known to git." />
       <item value="The following untracked working tree files would be overwritten by merge" />
@@ -49,8 +51,6 @@
       <item value="C:/heflat/workspace/idea/hep is not an existing filename or project" />
       <item value="add Instance" />
       <item value="COMMENT" />
-      <item value="Vendor" />
-      <item value="'object' is an array. Use JSONArray instead" />
     </histories>
   </component>
   <component name="Settings">
