@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outer ignore rules" />
+      <item value="yet" />
+      <item value="no commits yet" />
+      <item value="Would you like to add unversioned files to the '.ignore' file?" />
+      <item value="File extension .ignore was reassigned to Ignore file Revert" />
       <item value="lookup parent from repository" />
       <item value="upgrade" />
       <item value="Titanic" />
@@ -46,11 +51,6 @@
       <item value="lexeme cnctst" />
       <item value="figure Count" />
       <item value="figure" />
-      <item value="词" />
-      <item value="platform Standard Word Count" />
-      <item value="规范词" />
-      <item value="规范" />
-      <item value="Cited" />
     </histories>
   </component>
   <component name="Settings">
