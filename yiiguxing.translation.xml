@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Color highlight the Bracket Pair in editor. Inspired" />
+      <item value="Highlight Bracket Pair" />
+      <item value="HighlightBracketPair" />
+      <item value="ONE STEP to navigate to service declaration" />
+      <item value="A toolkit for RESTful services development." />
+      <item value="Brackets" />
+      <item value="Rainbow Brackets" />
+      <item value="A must have plugin for working with Maven." />
       <item value=".ignore is a plugin for .gitignore (Git), .hgignore (Mercurial), .npmignore (NPM), .dockerignore (Docker), .chefignore (Chef), .cvsignore (CVS), .bzrignore (Bazaar), .boringignore (Darcs), .mtn-ignore (Monotone), ignore-glob (Fossil), .jshintignore (JSHint), .tfignore (Team Foundation), .p4ignore (Perforce), .prettierignore (Prettier), .flooignore (Floobits), .eslintignore (ESLint), .cfignore (Cloud Foundry), .jpmignore (Jetpack), .stylelintignore (StyleLint), .stylintignore (Stylint), .swagger-codegen-ignore (Swagger Codegen), .helmignore (Kubernetes Helm), .upignore (Up), .prettierignore (Prettier), .ebignore (ElasticBeanstalk) files in your project" />
       <item value="Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)" />
       <item value="Ethernet HWaddr" />
@@ -43,14 +51,6 @@
       <item value="Split Vertically" />
       <item value="add abbreviation" />
       <item value="add mouse shortcut" />
-      <item value="add keyboard shortcut" />
-      <item value="add keyboard" />
-      <item value="item - number" />
-      <item value="item" />
-      <item value="物料号" />
-      <item value="Item number" />
-      <item value="演示" />
-      <item value="Error running 'hep': Unable to open debugger port (127.0.0.1:6203): java.net.BindException &quot;Address already in use: JVM_Bind&quot;" />
     </histories>
   </component>
   <component name="Settings">
