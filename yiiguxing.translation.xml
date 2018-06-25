@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ethernet HWaddr" />
+      <item value="broadcast" />
+      <item value="无线网卡" />
+      <item value="网卡" />
       <item value="repository" />
       <item value="gateway" />
       <item value="netmask" />
@@ -47,10 +51,6 @@
       <item value="Error running 'hep': Unable to open debugger port (127.0.0.1:6203): java.net.BindException &quot;Address already in use: JVM_Bind&quot;" />
       <item value="cite" />
       <item value="压实" />
-      <item value="颜色" />
-      <item value="VSS project is valid" />
-      <item value="C:/heflat/workspace/idea/hep is not an existing filename or project" />
-      <item value="add Instance" />
     </histories>
   </component>
   <component name="Settings">
