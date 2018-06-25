@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upgrade" />
       <item value="Titanic" />
       <item value="character Encoding" />
       <item value="appender" />
@@ -50,7 +51,6 @@
       <item value="规范" />
       <item value="Cited" />
       <item value="journal Cited Count" />
-      <item value="Volume" />
     </histories>
   </component>
   <component name="Settings">
