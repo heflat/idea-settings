@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product" />
+      <item value="开发" />
+      <item value="生产" />
       <item value="Color highlight the Bracket Pair in editor. Inspired" />
       <item value="Highlight Bracket Pair" />
       <item value="HighlightBracketPair" />
@@ -48,9 +51,6 @@
       <item value="issue" />
       <item value="volume" />
       <item value="recent" />
-      <item value="Split Vertically" />
-      <item value="add abbreviation" />
-      <item value="add mouse shortcut" />
     </histories>
   </component>
   <component name="Settings">
