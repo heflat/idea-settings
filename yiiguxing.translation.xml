@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repository" />
       <item value="gateway" />
       <item value="netmask" />
       <item value=" pathspec 'fitst commit' did not match any file(s) known to git." />
@@ -50,7 +51,6 @@
       <item value="VSS project is valid" />
       <item value="C:/heflat/workspace/idea/hep is not an existing filename or project" />
       <item value="add Instance" />
-      <item value="COMMENT" />
     </histories>
   </component>
   <component name="Settings">
