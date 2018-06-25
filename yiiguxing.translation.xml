@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mtj" />
       <item value="outer ignore rules" />
       <item value="yet" />
       <item value="no commits yet" />
@@ -50,7 +51,6 @@
       <item value="lexeme" />
       <item value="lexeme cnctst" />
       <item value="figure Count" />
-      <item value="figure" />
     </histories>
   </component>
   <component name="Settings">
