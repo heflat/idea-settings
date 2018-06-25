@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lookup parent from repository" />
       <item value="upgrade" />
       <item value="Titanic" />
       <item value="character Encoding" />
@@ -50,7 +51,6 @@
       <item value="规范词" />
       <item value="规范" />
       <item value="Cited" />
-      <item value="journal Cited Count" />
     </histories>
   </component>
   <component name="Settings">
