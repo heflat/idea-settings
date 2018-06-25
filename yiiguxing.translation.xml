@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" pathspec 'fitst commit' did not match any file(s) known to git." />
+      <item value=" pathspec '首次提交' did not match any file(s) known to git." />
+      <item value="The following untracked working tree files would be overwritten by merge" />
+      <item value="The authenticity of host 'gitee.com (120.55.226.24)' can't be established. ECDSA key fingerprint is SHA256:FQGC9Kn/eye1W8icdBgrQp+KkGYoFgbVr17bmjey0Wc. Are you sure you want to continue connecting (yes/no)? yes Warning: Permanently added 'gitee.com,120.55.226.24' (ECDSA) to the list of known hosts. git@gitee.com: Permission denied (publickey). fatal: Could not read from remote repository. " />
+      <item value="failed to push some refs to 'git@gitee.com:heflat/sell.git' " />
+      <item value="src refspec master does not match any" />
+      <item value="README" />
       <item value="mtj" />
       <item value="outer ignore rules" />
       <item value="yet" />
@@ -44,13 +51,6 @@
       <item value="COMMENT" />
       <item value="Vendor" />
       <item value="'object' is an array. Use JSONArray instead" />
-      <item value="result" />
-      <item value="Figure" />
-      <item value="Lexeme Cnctst" />
-      <item value="cnctst" />
-      <item value="lexeme" />
-      <item value="lexeme cnctst" />
-      <item value="figure Count" />
     </histories>
   </component>
   <component name="Settings">
