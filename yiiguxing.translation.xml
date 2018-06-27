@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="lombok" />
       <item value="说明" />
       <item value="Key" />
@@ -50,7 +51,6 @@
       <item value="publish Unit" />
       <item value="unit" />
       <item value="单位" />
-      <item value="出版单位" />
     </histories>
   </component>
   <component name="Settings">
