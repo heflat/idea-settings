@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
       <item value="Key" />
       <item value="broadcast" />
       <item value="product" />
@@ -50,7 +51,6 @@
       <item value="单位" />
       <item value="出版单位" />
       <item value="issue" />
-      <item value="volume" />
     </histories>
   </component>
   <component name="Settings">
