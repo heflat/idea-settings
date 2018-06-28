@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cut Image" />
+      <item value="剪切" />
+      <item value="Operate Image" />
       <item value="Empty region!" />
       <item value="cut-image" />
       <item value="cut" />
@@ -48,9 +51,6 @@
       <item value="netmask" />
       <item value=" pathspec 'fitst commit' did not match any file(s) known to git." />
       <item value=" pathspec '首次提交' did not match any file(s) known to git." />
-      <item value="The following untracked working tree files would be overwritten by merge" />
-      <item value="The authenticity of host 'gitee.com (120.55.226.24)' can't be established. ECDSA key fingerprint is SHA256:FQGC9Kn/eye1W8icdBgrQp+KkGYoFgbVr17bmjey0Wc. Are you sure you want to continue connecting (yes/no)? yes Warning: Permanently added 'gitee.com,120.55.226.24' (ECDSA) to the list of known hosts. git@gitee.com: Permission denied (publickey). fatal: Could not read from remote repository. " />
-      <item value="failed to push some refs to 'git@gitee.com:heflat/sell.git' " />
     </histories>
   </component>
   <component name="Settings">
