@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deduplication" />
       <item value="Resolving" />
       <item value="str To Array" />
       <item value="MOBILE PHONE LENGTH" />
@@ -50,7 +51,6 @@
       <item value="mtj" />
       <item value="outer ignore rules" />
       <item value="yet" />
-      <item value="no commits yet" />
     </histories>
   </component>
   <component name="Settings">
