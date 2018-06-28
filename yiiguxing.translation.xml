@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resolving" />
       <item value="str To Array" />
       <item value="MOBILE PHONE LENGTH" />
       <item value="phone Number" />
@@ -50,7 +51,6 @@
       <item value="outer ignore rules" />
       <item value="yet" />
       <item value="no commits yet" />
-      <item value="Would you like to add unversioned files to the '.ignore' file?" />
     </histories>
   </component>
   <component name="Settings">
