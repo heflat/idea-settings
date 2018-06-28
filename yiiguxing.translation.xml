@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="str To Array" />
       <item value="MOBILE PHONE LENGTH" />
       <item value="phone Number" />
       <item value="mobile Phone" />
@@ -50,7 +51,6 @@
       <item value="yet" />
       <item value="no commits yet" />
       <item value="Would you like to add unversioned files to the '.ignore' file?" />
-      <item value="File extension .ignore was reassigned to Ignore file Revert" />
     </histories>
   </component>
   <component name="Settings">
