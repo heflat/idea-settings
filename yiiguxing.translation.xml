@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1 process running" />
+      <item value="Resolving dependencies of 'cut-image'" />
+      <item value="Thumbnails" />
       <item value="Cut Image" />
       <item value="剪切" />
       <item value="Operate Image" />
@@ -48,9 +51,6 @@
       <item value="网卡" />
       <item value="repository" />
       <item value="gateway" />
-      <item value="netmask" />
-      <item value=" pathspec 'fitst commit' did not match any file(s) known to git." />
-      <item value=" pathspec '首次提交' did not match any file(s) known to git." />
     </histories>
   </component>
   <component name="Settings">
