@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upstream" />
+      <item value="添加" />
+      <item value="scale" />
+      <item value="比例" />
+      <item value="zoom Out" />
+      <item value="zoom In" />
+      <item value="Zoom in" />
+      <item value="Zoom" />
+      <item value="缩小" />
       <item value="缩略图" />
       <item value="目标" />
       <item value="1 process running" />
@@ -42,15 +51,6 @@
       <item value="Highlight Bracket Pair" />
       <item value="HighlightBracketPair" />
       <item value="ONE STEP to navigate to service declaration" />
-      <item value="A toolkit for RESTful services development." />
-      <item value="Brackets" />
-      <item value="Rainbow Brackets" />
-      <item value="A must have plugin for working with Maven." />
-      <item value=".ignore is a plugin for .gitignore (Git), .hgignore (Mercurial), .npmignore (NPM), .dockerignore (Docker), .chefignore (Chef), .cvsignore (CVS), .bzrignore (Bazaar), .boringignore (Darcs), .mtn-ignore (Monotone), ignore-glob (Fossil), .jshintignore (JSHint), .tfignore (Team Foundation), .p4ignore (Perforce), .prettierignore (Prettier), .flooignore (Floobits), .eslintignore (ESLint), .cfignore (Cloud Foundry), .jpmignore (Jetpack), .stylelintignore (StyleLint), .stylintignore (Stylint), .swagger-codegen-ignore (Swagger Codegen), .helmignore (Kubernetes Helm), .upignore (Up), .prettierignore (Prettier), .ebignore (ElasticBeanstalk) files in your project" />
-      <item value="Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display)" />
-      <item value="Ethernet HWaddr" />
-      <item value="无线网卡" />
-      <item value="网卡" />
     </histories>
   </component>
   <component name="Settings">
