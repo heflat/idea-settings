@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create mode" />
+      <item value="insertions" />
+      <item value="Fast-forward" />
+      <item value="statementsstatements" />
       <item value="statements" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="lombok" />
@@ -47,10 +51,6 @@
       <item value="not applicable to field" />
       <item value="In Coming" />
       <item value="In Come" />
-      <item value="trial" />
-      <item value="Error:java: Compilation failed: internal java compiler error" />
-      <item value="publish Unit" />
-      <item value="unit" />
     </histories>
   </component>
   <component name="Settings">
