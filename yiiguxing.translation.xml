@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rebel" />
       <item value="create mode" />
       <item value="insertions" />
       <item value="Fast-forward" />
@@ -50,7 +51,6 @@
       <item value="appender" />
       <item value="not applicable to field" />
       <item value="In Coming" />
-      <item value="In Come" />
     </histories>
   </component>
   <component name="Settings">
