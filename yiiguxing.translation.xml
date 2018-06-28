@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MOBILE PHONE LENGTH" />
+      <item value="phone Number" />
+      <item value="mobile Phone" />
+      <item value="the CharSequence to check, may be null" />
+      <item value="is Numeric Space" />
+      <item value="数字" />
+      <item value=".idea folder already exists in C:\heflat\workspace\idea\utils. Its content may be overwritten. Continue?" />
       <item value="rebel" />
       <item value="create mode" />
       <item value="insertions" />
@@ -44,13 +51,6 @@
       <item value="no commits yet" />
       <item value="Would you like to add unversioned files to the '.ignore' file?" />
       <item value="File extension .ignore was reassigned to Ignore file Revert" />
-      <item value="lookup parent from repository" />
-      <item value="upgrade" />
-      <item value="Titanic" />
-      <item value="character Encoding" />
-      <item value="appender" />
-      <item value="not applicable to field" />
-      <item value="In Coming" />
     </histories>
   </component>
   <component name="Settings">
