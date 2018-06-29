@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not a JPEG file: starts with 0x47 0x49" />
       <item value="dependency" />
       <item value="Illegal base64 character 3a" />
       <item value="upstream" />
@@ -50,7 +51,6 @@
       <item value="开发" />
       <item value="生产" />
       <item value="Color highlight the Bracket Pair in editor. Inspired" />
-      <item value="Highlight Bracket Pair" />
     </histories>
   </component>
   <component name="Settings">
