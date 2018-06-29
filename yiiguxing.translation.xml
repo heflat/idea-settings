@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependency" />
       <item value="Illegal base64 character 3a" />
       <item value="upstream" />
       <item value="添加" />
@@ -50,7 +51,6 @@
       <item value="生产" />
       <item value="Color highlight the Bracket Pair in editor. Inspired" />
       <item value="Highlight Bracket Pair" />
-      <item value="HighlightBracketPair" />
     </histories>
   </component>
   <component name="Settings">

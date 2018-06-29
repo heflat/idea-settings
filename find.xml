@@ -22,9 +22,9 @@
     <mask>*jsp</mask>
     <mask>*xml</mask>
     <mask>*vm</mask>
-    <mask>*</mask>
     <mask>*java</mask>
     <mask>*pom.xml</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
