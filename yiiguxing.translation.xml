@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal base64 character 3a" />
       <item value="upstream" />
       <item value="添加" />
       <item value="scale" />
@@ -50,7 +51,6 @@
       <item value="Color highlight the Bracket Pair in editor. Inspired" />
       <item value="Highlight Bracket Pair" />
       <item value="HighlightBracketPair" />
-      <item value="ONE STEP to navigate to service declaration" />
     </histories>
   </component>
   <component name="Settings">
