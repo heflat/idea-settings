@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increase Stock" />
+      <item value="increase Stok" />
       <item value="exist" />
       <item value="EXIST" />
       <item value="form" />
@@ -49,8 +51,6 @@
       <item value="insertions" />
       <item value="Fast-forward" />
       <item value="statementsstatements" />
-      <item value="statements" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
     </histories>
   </component>
   <component name="Settings">
