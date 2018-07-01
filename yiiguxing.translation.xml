@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enumeration used with {@link JsonSerialize#include} property * to define which properties * of Java Beans are to be included in serialization" />
+      <item value="Serializer" />
       <item value="increase Stock" />
       <item value="increase Stok" />
       <item value="exist" />
@@ -49,8 +51,6 @@
       <item value="rebel" />
       <item value="create mode" />
       <item value="insertions" />
-      <item value="Fast-forward" />
-      <item value="statementsstatements" />
     </histories>
   </component>
   <component name="Settings">
