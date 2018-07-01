@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Context path of the application." />
       <item value="Enumeration used with {@link JsonSerialize#include} property * to define which properties * of Java Beans are to be included in serialization" />
       <item value="Serializer" />
       <item value="increase Stock" />
@@ -50,7 +51,6 @@
       <item value=".idea folder already exists in C:\heflat\workspace\idea\utils. Its content may be overwritten. Continue?" />
       <item value="rebel" />
       <item value="create mode" />
-      <item value="insertions" />
     </histories>
   </component>
   <component name="Settings">
