@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="numeric" />
+      <item value="FIX" />
+      <item value="FIXME" />
+      <item value=" Exiting with failure status due to previous errors " />
       <item value="selection" />
       <item value="detach" />
       <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
@@ -47,10 +51,6 @@
       <item value="Zoom" />
       <item value="缩小" />
       <item value="缩略图" />
-      <item value="目标" />
-      <item value="1 process running" />
-      <item value="Resolving dependencies of 'cut-image'" />
-      <item value="Thumbnails" />
     </histories>
   </component>
   <component name="Settings">
