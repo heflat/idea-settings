@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="demo" />
       <item value="synchronized" />
       <item value="s" />
       <item value="synchronize" />
@@ -50,7 +51,6 @@
       <item value="deduplication" />
       <item value="Resolving" />
       <item value="str To Array" />
-      <item value="MOBILE PHONE LENGTH" />
     </histories>
   </component>
   <component name="Settings">
