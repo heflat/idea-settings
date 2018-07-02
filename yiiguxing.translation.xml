@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Application" />
       <item value="demo" />
       <item value="synchronized" />
       <item value="s" />
@@ -50,7 +51,6 @@
       <item value="裁剪" />
       <item value="deduplication" />
       <item value="Resolving" />
-      <item value="str To Array" />
     </histories>
   </component>
   <component name="Settings">
