@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comma Index" />
       <item value="schema change not implemented" />
       <item value="commit" />
       <item value="Context path of the application." />
@@ -50,7 +51,6 @@
       <item value="the CharSequence to check, may be null" />
       <item value="is Numeric Space" />
       <item value="数字" />
-      <item value=".idea folder already exists in C:\heflat\workspace\idea\utils. Its content may be overwritten. Continue?" />
     </histories>
   </component>
   <component name="Settings">
