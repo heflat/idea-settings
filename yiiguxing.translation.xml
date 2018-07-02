@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Desc" />
+      <item value="reformat according to style" />
+      <item value="reformat" />
+      <item value="enable live templates" />
+      <item value="enable " />
       <item value="Hello-World" />
       <item value="Type 'svn help' for usage." />
       <item value="Application" />
@@ -46,11 +51,6 @@
       <item value="Cut Image" />
       <item value="剪切" />
       <item value="Operate Image" />
-      <item value="Empty region!" />
-      <item value="cut-image" />
-      <item value="cut" />
-      <item value="Clipping" />
-      <item value="裁剪" />
     </histories>
   </component>
   <component name="Settings">
