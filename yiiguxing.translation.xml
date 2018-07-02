@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Type 'svn help' for usage." />
       <item value="Application" />
       <item value="demo" />
       <item value="synchronized" />
@@ -50,7 +51,6 @@
       <item value="Clipping" />
       <item value="裁剪" />
       <item value="deduplication" />
-      <item value="Resolving" />
     </histories>
   </component>
   <component name="Settings">
