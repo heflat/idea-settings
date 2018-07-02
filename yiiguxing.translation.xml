@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Storage" />
+      <item value="authorize" />
       <item value="warning: LF will be replaced by CRLF in pom.xml. The file will have its original line endings in your working directory. g " />
       <item value="numeric" />
       <item value="FIX" />
@@ -49,8 +51,6 @@
       <item value="zoom Out" />
       <item value="zoom In" />
       <item value="Zoom in" />
-      <item value="Zoom" />
-      <item value="缩小" />
     </histories>
   </component>
   <component name="Settings">
