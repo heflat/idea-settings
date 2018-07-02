@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
       <item value="Desc" />
       <item value="reformat according to style" />
       <item value="reformat" />
@@ -50,7 +51,6 @@
       <item value="Thumbnails" />
       <item value="Cut Image" />
       <item value="剪切" />
-      <item value="Operate Image" />
     </histories>
   </component>
   <component name="Settings">
