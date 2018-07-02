@@ -1,12 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synchronized" />
+      <item value="s" />
+      <item value="synchronize" />
+      <item value="serialize" />
+      <item value="serializer" />
+      <item value="Serializer" />
       <item value="comma Index" />
       <item value="schema change not implemented" />
       <item value="commit" />
       <item value="Context path of the application." />
       <item value="Enumeration used with {@link JsonSerialize#include} property * to define which properties * of Java Beans are to be included in serialization" />
-      <item value="Serializer" />
       <item value="increase Stock" />
       <item value="increase Stok" />
       <item value="exist" />
@@ -46,11 +51,6 @@
       <item value="Resolving" />
       <item value="str To Array" />
       <item value="MOBILE PHONE LENGTH" />
-      <item value="phone Number" />
-      <item value="mobile Phone" />
-      <item value="the CharSequence to check, may be null" />
-      <item value="is Numeric Space" />
-      <item value="数字" />
     </histories>
   </component>
   <component name="Settings">
