@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disable the “Settings Repository” plugin to sync IDE settings." />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="The name of a supported" />
       <item value="to be translated." />
@@ -50,7 +51,6 @@
       <item value="EXIST" />
       <item value="form" />
       <item value="from" />
-      <item value="Transient" />
     </histories>
   </component>
   <component name="Settings">
