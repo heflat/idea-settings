@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decimal" />
+      <item value="numeric" />
       <item value="coverage" />
       <item value="cover" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -8,7 +10,6 @@
       <item value="Storage" />
       <item value="authorize" />
       <item value="warning: LF will be replaced by CRLF in pom.xml. The file will have its original line endings in your working directory. g " />
-      <item value="numeric" />
       <item value="FIX" />
       <item value="FIXME" />
       <item value=" Exiting with failure status due to previous errors " />
@@ -50,7 +51,6 @@
       <item value="Illegal base64 character 3a" />
       <item value="upstream" />
       <item value="添加" />
-      <item value="scale" />
     </histories>
   </component>
   <component name="Settings">
