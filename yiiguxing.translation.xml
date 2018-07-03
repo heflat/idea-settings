@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
+      <item value="resolving" />
       <item value="Storage" />
       <item value="authorize" />
       <item value="warning: LF will be replaced by CRLF in pom.xml. The file will have its original line endings in your working directory. g " />
@@ -49,8 +51,6 @@
       <item value="scale" />
       <item value="比例" />
       <item value="zoom Out" />
-      <item value="zoom In" />
-      <item value="Zoom in" />
     </histories>
   </component>
   <component name="Settings">
