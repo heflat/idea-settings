@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The name of a supported" />
+      <item value="to be translated." />
       <item value="authorize" />
       <item value="METADATA" />
       <item value="31. 用户输入的 SQL 参数严格使用参数绑定或者 METADATA " />
@@ -49,8 +51,6 @@
       <item value="from" />
       <item value="Transient" />
       <item value="ids for this class must be manually assigned before calling save():" />
-      <item value="file from non-actice changelist is modified" />
-      <item value="Failed to read artifact descriptor for commons-fileupload:commons-fileupload:jar:1.3" />
     </histories>
   </component>
   <component name="Settings">
