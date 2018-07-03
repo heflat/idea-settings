@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Image Base 64 Util" />
       <item value="Writes a byte array to a file creating the file if it does not exist." />
       <item value="Decodes a Base64 String into octets." />
       <item value="Returns the index within this string of the first occurrence of the" />
@@ -50,7 +51,6 @@
       <item value="Serializer" />
       <item value="comma Index" />
       <item value="schema change not implemented" />
-      <item value="commit" />
     </histories>
   </component>
   <component name="Settings">
