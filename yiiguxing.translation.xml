@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Writes a byte array to a file creating the file if it does not exist." />
+      <item value="Decodes a Base64 String into octets." />
+      <item value="Returns the index within this string of the first occurrence of the" />
+      <item value="扩展名" />
+      <item value="extension" />
+      <item value="image Name" />
+      <item value="dest" />
+      <item value="comma" />
       <item value="Disable the “Settings Repository” plugin to sync IDE settings." />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="The name of a supported" />
@@ -43,14 +51,6 @@
       <item value="comma Index" />
       <item value="schema change not implemented" />
       <item value="commit" />
-      <item value="Context path of the application." />
-      <item value="Enumeration used with {@link JsonSerialize#include} property * to define which properties * of Java Beans are to be included in serialization" />
-      <item value="increase Stock" />
-      <item value="increase Stok" />
-      <item value="exist" />
-      <item value="EXIST" />
-      <item value="form" />
-      <item value="from" />
     </histories>
   </component>
   <component name="Settings">
