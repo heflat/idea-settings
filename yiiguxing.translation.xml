@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="separator Chars" />
       <item value="Warning: Permanently added the RSA host key for IP address '13.229.188.59' to the list of known hosts. " />
       <item value="Image Base 64 Util" />
       <item value="Writes a byte array to a file creating the file if it does not exist." />
@@ -49,8 +51,6 @@
       <item value="synchronize" />
       <item value="serialize" />
       <item value="serializer" />
-      <item value="Serializer" />
-      <item value="comma Index" />
     </histories>
   </component>
   <component name="Settings">
