@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coverage" />
+      <item value="cover" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="resolving" />
       <item value="Storage" />
@@ -49,8 +51,6 @@
       <item value="upstream" />
       <item value="添加" />
       <item value="scale" />
-      <item value="比例" />
-      <item value="zoom Out" />
     </histories>
   </component>
   <component name="Settings">
