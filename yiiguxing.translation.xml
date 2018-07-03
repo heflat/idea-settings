@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="The name of a supported" />
       <item value="to be translated." />
       <item value="authorize" />
@@ -50,7 +51,6 @@
       <item value="form" />
       <item value="from" />
       <item value="Transient" />
-      <item value="ids for this class must be manually assigned before calling save():" />
     </histories>
   </component>
   <component name="Settings">
