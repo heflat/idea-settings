@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reversion" />
+      <item value="Error:svn: E195002: Path 'C:\heflat\workspace\idea\svn\wkxt-pc\tags\3.3.1\wkxt3\src\main\test\java\com\magtech\heflat\LocalTest.java' has no committed revision" />
+      <item value="file from non-active changelist is modified" />
       <item value="dictionaries" />
       <item value="dic" />
       <item value="WECHAT" />
@@ -48,9 +51,6 @@
       <item value="Storage" />
       <item value="warning: LF will be replaced by CRLF in pom.xml. The file will have its original line endings in your working directory. g " />
       <item value="FIX" />
-      <item value="FIXME" />
-      <item value=" Exiting with failure status due to previous errors " />
-      <item value="selection" />
     </histories>
   </component>
   <component name="Settings">
