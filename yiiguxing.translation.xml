@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="great" />
       <item value="Contents" />
       <item value="mingw" />
       <item value="mingwin" />
@@ -50,7 +51,6 @@
       <item value="Magtech code standard" />
       <item value="decimal" />
       <item value="coverage" />
-      <item value="cover" />
     </histories>
   </component>
   <component name="Settings">
