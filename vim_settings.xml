@@ -22,6 +22,9 @@
         <mark key="^" line="21" column="2" />
         <mark key="." line="21" column="2" />
       </file>
+      <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/BrowseJournalListAction.java" timestamp="1530666800445">
+        <mark key="'" line="47" column="73" />
+      </file>
       <file name="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-subject-cn.xml" timestamp="1528333458564">
         <mark key="'" line="12" column="8" />
         <mark key="[" line="26" column="60" />
@@ -132,6 +135,9 @@
       <jump line="2" column="0" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/item/Item.java" />
       <jump line="23" column="53" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" />
       <jump line="57" column="0" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" />
+      <jump line="139" column="13" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/BrowseJournalListAction.java" />
+      <jump line="27" column="0" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/BrowseJournalListAction.java" />
+      <jump line="47" column="73" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/BrowseJournalListAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -141,7 +147,7 @@
         <text>HashMap();</text>
       </register>
       <register name="/" type="4">
-        <text>contentid\c</text>
+        <text>Sort</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeS5zYXZlKHByb2R1Y3QpOwo=</text>
@@ -175,9 +181,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contentid\c</last-search>
+      <last-search>Sort</last-search>
       <last-offset />
-      <last-pattern>contentid\c</last-pattern>
+      <last-pattern>Sort</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -187,6 +193,7 @@
         <entry>自定义视图</entry>
         <entry>contentid</entry>
         <entry>contentid\c</entry>
+        <entry>Sort</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -198,6 +205,7 @@
         <entry>22</entry>
         <entry>27</entry>
         <entry>!</entry>
+        <entry>k</entry>
       </history-cmd>
       <history-expr />
       <history-input />
