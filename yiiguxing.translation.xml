@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="an error occurred while processing this directive" />
       <item value="great" />
       <item value="Contents" />
       <item value="mingw" />
@@ -50,7 +51,6 @@
       <item value="lowerCamelCase" />
       <item value="Magtech code standard" />
       <item value="decimal" />
-      <item value="coverage" />
     </histories>
   </component>
   <component name="Settings">
