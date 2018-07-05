@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" timestamp="1515998941062">
@@ -80,8 +80,8 @@
       <file name="D:/Workspace/idea/hep/src/com/wkxt/article/web/action/GetTxtFilesAction.java" timestamp="1528441401699">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" timestamp="1530669737856">
-        <mark key="'" line="17" column="65" />
+      <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" timestamp="1530749079649">
+        <mark key="'" line="41" column="8" />
         <mark key="." line="29" column="63" />
       </file>
     </filemarks>
@@ -152,6 +152,7 @@
       <jump line="17" column="65" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" />
       <jump line="139" column="21" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/WebContent/WEB-INF/web.xml" />
       <jump line="122" column="8" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/WebContent/WEB-INF/web.xml" />
+      <jump line="41" column="8" filename="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
