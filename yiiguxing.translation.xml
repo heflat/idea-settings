@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Active Journal Ids" />
       <item value="Unhandled" />
       <item value="计算" />
       <item value="Connect to server" />
@@ -50,7 +51,6 @@
       <item value="to be translated." />
       <item value="authorize" />
       <item value="METADATA" />
-      <item value="31. 用户输入的 SQL 参数严格使用参数绑定或者 METADATA " />
     </histories>
   </component>
   <component name="Settings">
