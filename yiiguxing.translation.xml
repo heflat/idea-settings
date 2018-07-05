@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portable" />
+      <item value="nomal" />
       <item value="get Active Journal Ids" />
       <item value="Unhandled" />
       <item value="计算" />
@@ -49,8 +51,6 @@
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="The name of a supported" />
       <item value="to be translated." />
-      <item value="authorize" />
-      <item value="METADATA" />
     </histories>
   </component>
   <component name="Settings">

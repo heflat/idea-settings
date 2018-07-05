@@ -23,8 +23,8 @@
     <mask>*xml</mask>
     <mask>*vm</mask>
     <mask>*pom.xml</mask>
-    <mask>*</mask>
     <mask>*java</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
