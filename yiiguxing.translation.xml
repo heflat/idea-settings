@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependencies" />
       <item value="bottom" />
       <item value="middle" />
       <item value="中间" />
@@ -50,7 +51,6 @@
       <item value="Returns the index within this string of the first occurrence of the" />
       <item value="扩展名" />
       <item value="extension" />
-      <item value="image Name" />
     </histories>
   </component>
   <component name="Settings">
