@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="dependencies" />
       <item value="bottom" />
       <item value="middle" />
@@ -50,7 +51,6 @@
       <item value="Decodes a Base64 String into octets." />
       <item value="Returns the index within this string of the first occurrence of the" />
       <item value="扩展名" />
-      <item value="extension" />
     </histories>
   </component>
   <component name="Settings">
