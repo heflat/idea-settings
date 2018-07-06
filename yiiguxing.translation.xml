@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compare with SourceSafe Version...' action is not available while IDEA is updating indices" />
       <item value="初始化" />
       <item value="notify" />
       <item value="portable" />
@@ -50,7 +51,6 @@
       <item value="dest" />
       <item value="comma" />
       <item value="Disable the “Settings Repository” plugin to sync IDE settings." />
-      <item value="Method breakpoints may dramatically slow down debugging" />
     </histories>
   </component>
   <component name="Settings">
