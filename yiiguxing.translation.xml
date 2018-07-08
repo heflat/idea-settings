@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="immutable" />
+      <item value="guava" />
       <item value="Thread Safe" />
       <item value="annotation" />
       <item value="Not a git repository (or any of the parent directories): .git" />
@@ -49,8 +51,6 @@
       <item value="singleton List" />
       <item value="separator" />
       <item value="separator Chars" />
-      <item value="Warning: Permanently added the RSA host key for IP address '13.229.188.59' to the list of known hosts. " />
-      <item value="Image Base 64 Util" />
     </histories>
   </component>
   <component name="Settings">
