@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拦截器" />
+      <item value="过滤器" />
       <item value="group Id" />
       <item value="last Match" />
       <item value="get Permission Group Id By Url" />
@@ -49,8 +51,6 @@
       <item value="develop" />
       <item value="development" />
       <item value="开发" />
-      <item value="singleton List" />
-      <item value="separator" />
     </histories>
   </component>
   <component name="Settings">
