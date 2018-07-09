@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="group Id" />
       <item value="last Match" />
       <item value="get Permission Group Id By Url" />
       <item value="Thread Safe" />
@@ -50,7 +51,6 @@
       <item value="开发" />
       <item value="singleton List" />
       <item value="separator" />
-      <item value="separator Chars" />
     </histories>
   </component>
   <component name="Settings">
