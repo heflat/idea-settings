@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integrate To Branch" />
+      <item value="Integrate to branch" />
+      <item value="Integrate" />
+      <item value="compare subversion properties" />
       <item value="Invalid" />
       <item value="Pattern expected" />
       <item value="拦截器" />
@@ -47,10 +51,6 @@
       <item value="figure" />
       <item value="numeric" />
       <item value="数字" />
-      <item value="number" />
-      <item value="测试" />
-      <item value="dev" />
-      <item value="develop" />
     </histories>
   </component>
   <component name="Settings">
