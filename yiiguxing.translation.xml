@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Edit template variables" />
+      <item value="skip if defined" />
+      <item value="STOP SHIP" />
+      <item value="STOPSHIP" />
+      <item value="indicate that a method does not have any operations" />
       <item value="example" />
       <item value="Lexeme" />
       <item value="Lexeme Cnctst" />
@@ -46,11 +51,6 @@
       <item value="get Active Journal Ids" />
       <item value="Unhandled" />
       <item value="计算" />
-      <item value="Connect to server" />
-      <item value="Connected to server" />
-      <item value="an error occurred while processing this directive" />
-      <item value="great" />
-      <item value="Contents" />
     </histories>
   </component>
   <component name="Settings">

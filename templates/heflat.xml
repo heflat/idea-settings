@@ -171,4 +171,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="cdesc" value="/**&#10; * $desc$&#10; * &#10; * @author heflat&#10; * @date $date$&#10; */" description="add a doc description" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd HH:mm&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
