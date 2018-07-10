@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="example" />
       <item value="Lexeme" />
       <item value="Lexeme Cnctst" />
       <item value="Cannot merge into mixed-revision working copy [1007:1008]; try updating first Changelist(s) : 958 " />
@@ -50,7 +51,6 @@
       <item value="an error occurred while processing this directive" />
       <item value="great" />
       <item value="Contents" />
-      <item value="mingw" />
     </histories>
   </component>
   <component name="Settings">
