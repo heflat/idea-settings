@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pattern expected" />
       <item value="拦截器" />
       <item value="过滤器" />
       <item value="group Id" />
@@ -50,7 +51,6 @@
       <item value="dev" />
       <item value="develop" />
       <item value="development" />
-      <item value="开发" />
     </histories>
   </component>
   <component name="Settings">
