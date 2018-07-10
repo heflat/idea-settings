@@ -1,8 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Single repetition" />
+      <item value="Error:https://192.168.0.3/svn/wkxt-pc/tags/3.3.1/wkxt3@HEAD not found in {/tags/3.3.1=org.jetbrains.idea.svn.history.LogEntryPath@112e2de9, /tags/3.4=org.jetbrains.idea.svn.history.LogEntryPath@e3e23c8}" />
+      <item value="idea Integrate To Branch" />
+      <item value="Can not start integration: target directory is not under Subversion control or does not belong to the selected branch." />
       <item value="Integrate To Branch" />
+      <item value="select branch to integrate to" />
+      <item value="select branch to integrate to ..." />
+      <item value="select branch to integrte to ..." />
+      <item value="select branch to" />
+      <item value="select " />
+      <item value="Single repetition" />
       <item value="Integrate to branch" />
       <item value="Integrate" />
       <item value="compare subversion properties" />
@@ -43,14 +51,6 @@
       <item value="Error:svn: E195002: Path 'C:\heflat\workspace\idea\svn\wkxt-pc\tags\3.3.1\wkxt3\src\main\test\java\com\magtech\heflat\LocalTest.java' has no committed revision" />
       <item value="file from non-active changelist is modified" />
       <item value="dictionaries" />
-      <item value="dic" />
-      <item value="WECHAT" />
-      <item value="Live" />
-      <item value="Live Templates" />
-      <item value="spelling" />
-      <item value="digit" />
-      <item value="figure" />
-      <item value="numeric" />
     </histories>
   </component>
   <component name="Settings">
