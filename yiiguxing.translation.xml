@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Single repetition" />
       <item value="Integrate To Branch" />
       <item value="Integrate to branch" />
       <item value="Integrate" />
@@ -50,7 +51,6 @@
       <item value="digit" />
       <item value="figure" />
       <item value="numeric" />
-      <item value="数字" />
     </histories>
   </component>
   <component name="Settings">
