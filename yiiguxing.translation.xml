@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trade" />
+      <item value="unifiedorder" />
+      <item value="ANORDER" />
+      <item value="PLACE ANORDER URL" />
+      <item value="PLACEANORDER" />
       <item value="No identifier specified for entity" />
       <item value="product Stock" />
       <item value="Tomcat may not be running." />
@@ -46,11 +51,6 @@
       <item value="annotation" />
       <item value="Not a git repository (or any of the parent directories): .git" />
       <item value="concurrency" />
-      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="dependencies" />
-      <item value="bottom" />
-      <item value="middle" />
-      <item value="中间" />
     </histories>
   </component>
   <component name="Settings">
