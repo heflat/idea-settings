@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No identifier specified for entity" />
       <item value="product Stock" />
       <item value="Tomcat may not be running." />
       <item value="be" />
@@ -50,7 +51,6 @@
       <item value="bottom" />
       <item value="middle" />
       <item value="中间" />
-      <item value="Compare with SourceSafe Version...' action is not available while IDEA is updating indices" />
     </histories>
   </component>
   <component name="Settings">
