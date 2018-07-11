@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integrate to branch" />
+      <item value="Moments" />
+      <item value="Revision #1011 Committed by hp Moments ago Merged from 3.3.1" />
+      <item value="Cannot merge into mixed-revision working copy [1007:1009]" />
+      <item value="try updating first Changelist" />
       <item value="Request method 'POST' not supported" />
       <item value="Paid" />
       <item value="pay Is Success" />
@@ -45,12 +50,7 @@
       <item value="select branch to" />
       <item value="select " />
       <item value="Single repetition" />
-      <item value="Integrate to branch" />
       <item value="Integrate" />
-      <item value="compare subversion properties" />
-      <item value="Invalid" />
-      <item value="Pattern expected" />
-      <item value="拦截器" />
     </histories>
   </component>
   <component name="Settings">
