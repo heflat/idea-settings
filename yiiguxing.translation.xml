@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The given id must not be null!" />
       <item value="Buy now" />
       <item value="Trade" />
       <item value="unifiedorder" />
@@ -50,7 +51,6 @@
       <item value="get Permission Group Id By Url" />
       <item value="Thread Safe" />
       <item value="annotation" />
-      <item value="Not a git repository (or any of the parent directories): .git" />
     </histories>
   </component>
   <component name="Settings">
