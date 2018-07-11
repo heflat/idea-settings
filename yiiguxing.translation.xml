@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre" />
+      <item value="Native" />
       <item value="Choose Skip to skip the media test and start the installation" />
       <item value="to begin testing the media before installation press OK" />
       <item value="immutable" />
@@ -49,8 +51,6 @@
       <item value="dev" />
       <item value="develop" />
       <item value="development" />
-      <item value="开发" />
-      <item value="singleton List" />
     </histories>
   </component>
   <component name="Settings">
