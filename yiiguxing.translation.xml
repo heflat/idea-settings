@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid total_fee" />
+      <item value="notify" />
       <item value="native" />
       <item value="The given id must not be null!" />
       <item value="Buy now" />
@@ -49,8 +51,6 @@
       <item value="过滤器" />
       <item value="group Id" />
       <item value="last Match" />
-      <item value="get Permission Group Id By Url" />
-      <item value="Thread Safe" />
     </histories>
   </component>
   <component name="Settings">
