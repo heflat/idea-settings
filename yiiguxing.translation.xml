@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request method 'POST' not supported" />
+      <item value="Paid" />
+      <item value="pay Is Success" />
       <item value="invalid total_fee" />
       <item value="notify" />
       <item value="native" />
@@ -48,9 +51,6 @@
       <item value="Invalid" />
       <item value="Pattern expected" />
       <item value="拦截器" />
-      <item value="过滤器" />
-      <item value="group Id" />
-      <item value="last Match" />
     </histories>
   </component>
   <component name="Settings">
