@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Buy now" />
       <item value="Trade" />
       <item value="unifiedorder" />
       <item value="ANORDER" />
@@ -50,7 +51,6 @@
       <item value="Thread Safe" />
       <item value="annotation" />
       <item value="Not a git repository (or any of the parent directories): .git" />
-      <item value="concurrency" />
     </histories>
   </component>
   <component name="Settings">
