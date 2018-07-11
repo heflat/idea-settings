@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can't be less than 1.3" />
+      <item value="dangerously hacky" />
       <item value="Edit template variables" />
       <item value="skip if defined" />
       <item value="STOP SHIP" />
@@ -49,8 +51,6 @@
       <item value="portable" />
       <item value="nomal" />
       <item value="get Active Journal Ids" />
-      <item value="Unhandled" />
-      <item value="计算" />
     </histories>
   </component>
   <component name="Settings">
