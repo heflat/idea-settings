@@ -16,7 +16,6 @@
     <mask>*TaskServiceImpl.java</mask>
     <mask>*.ftl</mask>
     <mask>*js</mask>
-    <mask>*ftl</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*impl.java</mask>
@@ -27,6 +26,7 @@
     <mask>*pom.xml</mask>
     <mask>*java</mask>
     <mask>*</mask>
+    <mask>*ftl</mask>
     <mask>*</mask>
   </component>
 </application>
