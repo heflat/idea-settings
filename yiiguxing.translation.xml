@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="native" />
       <item value="The given id must not be null!" />
       <item value="Buy now" />
       <item value="Trade" />
@@ -50,7 +51,6 @@
       <item value="last Match" />
       <item value="get Permission Group Id By Url" />
       <item value="Thread Safe" />
-      <item value="annotation" />
     </histories>
   </component>
   <component name="Settings">
