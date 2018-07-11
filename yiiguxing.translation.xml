@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Stock" />
+      <item value="Tomcat may not be running." />
+      <item value="be" />
+      <item value="be running" />
+      <item value="may" />
       <item value="Can't be less than 1.3" />
       <item value="dangerously hacky" />
       <item value="Edit template variables" />
@@ -46,11 +51,6 @@
       <item value="middle" />
       <item value="中间" />
       <item value="Compare with SourceSafe Version...' action is not available while IDEA is updating indices" />
-      <item value="初始化" />
-      <item value="notify" />
-      <item value="portable" />
-      <item value="nomal" />
-      <item value="get Active Journal Ids" />
     </histories>
   </component>
   <component name="Settings">
