@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Depth" />
       <item value="Pause" />
       <item value="Pause break" />
       <item value="break" />
@@ -50,7 +51,6 @@
       <item value="Integrate To Branch" />
       <item value="select branch to integrate to" />
       <item value="select branch to integrate to ..." />
-      <item value="select branch to integrte to ..." />
     </histories>
   </component>
   <component name="Settings">
