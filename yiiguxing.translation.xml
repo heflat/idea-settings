@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pause" />
+      <item value="Pause break" />
+      <item value="break" />
       <item value="Post meta display settings" />
       <item value="Integrate to branch" />
       <item value="Moments" />
@@ -48,9 +51,6 @@
       <item value="select branch to integrate to" />
       <item value="select branch to integrate to ..." />
       <item value="select branch to integrte to ..." />
-      <item value="select branch to" />
-      <item value="select " />
-      <item value="Single repetition" />
     </histories>
   </component>
   <component name="Settings">
