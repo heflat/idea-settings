@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Donate comment here" />
       <item value="Depth" />
       <item value="Pause" />
       <item value="Pause break" />
@@ -50,7 +51,6 @@
       <item value="Can not start integration: target directory is not under Subversion control or does not belong to the selected branch." />
       <item value="Integrate To Branch" />
       <item value="select branch to integrate to" />
-      <item value="select branch to integrate to ..." />
     </histories>
   </component>
   <component name="Settings">
