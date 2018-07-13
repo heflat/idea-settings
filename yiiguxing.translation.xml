@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blog" />
+      <item value="blog create date" />
       <item value="Whitelist" />
       <item value="Donate comment here" />
       <item value="Depth" />
@@ -49,8 +51,6 @@
       <item value="get Parameter" />
       <item value="Error:https://192.168.0.3/svn/wkxt-pc/tags/3.3.1/wkxt3@HEAD not found in {/tags/3.3.1=org.jetbrains.idea.svn.history.LogEntryPath@112e2de9, /tags/3.4=org.jetbrains.idea.svn.history.LogEntryPath@e3e23c8}" />
       <item value="idea Integrate To Branch" />
-      <item value="Can not start integration: target directory is not under Subversion control or does not belong to the selected branch." />
-      <item value="Integrate To Branch" />
     </histories>
   </component>
   <component name="Settings">
