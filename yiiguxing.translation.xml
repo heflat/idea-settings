@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="键盘" />
       <item value="counter" />
       <item value="count" />
       <item value="blog" />
@@ -50,7 +51,6 @@
       <item value="Error:svn: E195020: Cannot merge into mixed-revision working copy [1007:1008]; try updating first Changelist(s) : 958 (1. 数字统计 提取到公共类;|2. 期刊浏览添加文章统计) merging faced problems Skipped changelists: 958 " />
       <item value="Error:svn: E195020: Cannot merge into mixed-revision working copy [1007:1008]; try updating first Changelist(s) : 958 (1. 数字统计 提取到公共类;|2. 期刊浏览添加文章统计) merging faced problems Skipped changelists: 958 (1. 数字统计 提取到公共类;|2. 期刊浏览添加文章统计)" />
       <item value="conflict" />
-      <item value="get Parameter" />
     </histories>
   </component>
   <component name="Settings">
