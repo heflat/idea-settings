@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transport" />
       <item value="via" />
       <item value="Minor update to make the plugin better" />
       <item value="Updated plugin 'MyBatis plugin' is disabled. Disabled plugins won't be activated after restart. Would you like to enable updated plugin?" />
@@ -50,7 +51,6 @@
       <item value="Edit template variables" />
       <item value="skip if defined" />
       <item value="STOP SHIP" />
-      <item value="STOPSHIP" />
     </histories>
   </component>
   <component name="Settings">
