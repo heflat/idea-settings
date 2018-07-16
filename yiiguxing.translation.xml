@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Life is short, should be fun!" />
       <item value="transport" />
       <item value="via" />
       <item value="Minor update to make the plugin better" />
@@ -50,7 +51,6 @@
       <item value="dangerously hacky" />
       <item value="Edit template variables" />
       <item value="skip if defined" />
-      <item value="STOP SHIP" />
     </histories>
   </component>
   <component name="Settings">
