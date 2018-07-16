@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unreachable statement" />
       <item value="zero Through Ten" />
       <item value="Presentation Mode" />
       <item value="Page Rule validation failed: See messages for details. (Code: 1004)" />
@@ -50,7 +51,6 @@
       <item value="indicate that a method does not have any operations" />
       <item value="example" />
       <item value="Lexeme" />
-      <item value="Lexeme Cnctst" />
     </histories>
   </component>
   <component name="Settings">
