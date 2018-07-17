@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="code message" />
+      <item value="Code" />
+      <item value="custom exception" />
       <item value="template" />
       <item value="care" />
       <item value="在乎" />
@@ -48,9 +51,6 @@
       <item value="Cannot merge into mixed-revision working copy [1007:1009]" />
       <item value="try updating first Changelist" />
       <item value="Request method 'POST' not supported" />
-      <item value="Paid" />
-      <item value="pay Is Success" />
-      <item value="invalid total_fee" />
     </histories>
   </component>
   <component name="Settings">
