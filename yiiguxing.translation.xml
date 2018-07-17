@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 32 path $" />
+      <item value="pretty printing" />
+      <item value="Print" />
+      <item value="PRETTY" />
+      <item value="DEFAULT PRETTY PRINT" />
       <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;}" />
       <item value="ROUND HALF UP" />
       <item value="stat" />
@@ -46,11 +51,6 @@
       <item value="blog create date" />
       <item value="Whitelist" />
       <item value="Donate comment here" />
-      <item value="Depth" />
-      <item value="Pause" />
-      <item value="Pause break" />
-      <item value="break" />
-      <item value="Post meta display settings" />
     </histories>
   </component>
   <component name="Settings">
