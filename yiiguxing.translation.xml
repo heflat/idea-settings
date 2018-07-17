@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stat" />
+      <item value="Add a custom exception" />
+      <item value="Add custom exception" />
+      <item value="添加自定义异常" />
       <item value="code message" />
       <item value="Code" />
       <item value="custom exception" />
@@ -47,10 +51,6 @@
       <item value="Post meta display settings" />
       <item value="Integrate to branch" />
       <item value="Moments" />
-      <item value="Revision #1011 Committed by hp Moments ago Merged from 3.3.1" />
-      <item value="Cannot merge into mixed-revision working copy [1007:1009]" />
-      <item value="try updating first Changelist" />
-      <item value="Request method 'POST' not supported" />
     </histories>
   </component>
   <component name="Settings">
