@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digits" />
+      <item value="random" />
+      <item value="verification Code" />
+      <item value="验证码" />
       <item value="i" />
       <item value="Generate" />
       <item value="pattern specification" />
@@ -47,10 +51,6 @@
       <item value="ANORDER" />
       <item value="PLACE ANORDER URL" />
       <item value="PLACEANORDER" />
-      <item value="No identifier specified for entity" />
-      <item value="product Stock" />
-      <item value="Tomcat may not be running." />
-      <item value="be" />
     </histories>
   </component>
   <component name="Settings">
