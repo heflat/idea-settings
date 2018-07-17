@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;}" />
+      <item value="ROUND HALF UP" />
       <item value="stat" />
       <item value="Add a custom exception" />
       <item value="Add custom exception" />
@@ -49,8 +51,6 @@
       <item value="Pause break" />
       <item value="break" />
       <item value="Post meta display settings" />
-      <item value="Integrate to branch" />
-      <item value="Moments" />
     </histories>
   </component>
   <component name="Settings">

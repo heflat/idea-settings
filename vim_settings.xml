@@ -80,6 +80,9 @@
         <mark key="." line="32" column="17" />
         <mark key="^" line="32" column="17" />
       </file>
+      <file name="D:/workspace/idea/utils/src/main/java/com/heflat/utils/util/BigDecimalUtil.java" timestamp="1531811122583">
+        <mark key="'" line="36" column="7" />
+      </file>
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/Journal.java" timestamp="1530755124833">
         <mark key="'" line="545" column="0" />
       </file>
@@ -184,6 +187,7 @@
       <jump line="22" column="0" filename="D:/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/java/com/magtech/heflat/test/LocalTest.java" />
       <jump line="0" column="0" filename="D:/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/java/com/magtech/heflat/test/LocalTest.java" />
       <jump line="18" column="0" filename="D:/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/java/com/magtech/heflat/test/LocalTest.java" />
+      <jump line="36" column="7" filename="D:/workspace/idea/utils/src/main/java/com/heflat/utils/util/BigDecimalUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
