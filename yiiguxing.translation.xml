@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template" />
       <item value="care" />
       <item value="在乎" />
       <item value="case" />
@@ -50,7 +51,6 @@
       <item value="Paid" />
       <item value="pay Is Success" />
       <item value="invalid total_fee" />
-      <item value="notify" />
     </histories>
   </component>
   <component name="Settings">
