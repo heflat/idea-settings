@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STANDARD FORMAT" />
+      <item value="pattern specification" />
       <item value="format" />
       <item value="example" />
       <item value="Life is short, should be fun!" />
@@ -49,8 +51,6 @@
       <item value="be" />
       <item value="be running" />
       <item value="may" />
-      <item value="Can't be less than 1.3" />
-      <item value="dangerously hacky" />
     </histories>
   </component>
   <component name="Settings">
