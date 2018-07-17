@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="care" />
+      <item value="在乎" />
+      <item value="case" />
+      <item value="argument" />
+      <item value="Returns the value of the first argument raised to the power of the second argument. Special cases" />
+      <item value="the exponent" />
+      <item value="the base." />
+      <item value="pow" />
       <item value="digits" />
       <item value="random" />
       <item value="verification Code" />
@@ -43,14 +51,6 @@
       <item value="pay Is Success" />
       <item value="invalid total_fee" />
       <item value="notify" />
-      <item value="native" />
-      <item value="The given id must not be null!" />
-      <item value="Buy now" />
-      <item value="Trade" />
-      <item value="unifiedorder" />
-      <item value="ANORDER" />
-      <item value="PLACE ANORDER URL" />
-      <item value="PLACEANORDER" />
     </histories>
   </component>
   <component name="Settings">
