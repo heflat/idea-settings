@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="example" />
       <item value="Life is short, should be fun!" />
       <item value="transport" />
       <item value="via" />
@@ -50,7 +51,6 @@
       <item value="Can't be less than 1.3" />
       <item value="dangerously hacky" />
       <item value="Edit template variables" />
-      <item value="skip if defined" />
     </histories>
   </component>
   <component name="Settings">
