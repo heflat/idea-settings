@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="STANDARD FORMAT" />
+      <item value="Generate" />
       <item value="pattern specification" />
+      <item value="STANDARD FORMAT" />
       <item value="format" />
       <item value="example" />
       <item value="Life is short, should be fun!" />
@@ -50,7 +51,6 @@
       <item value="Tomcat may not be running." />
       <item value="be" />
       <item value="be running" />
-      <item value="may" />
     </histories>
   </component>
   <component name="Settings">
