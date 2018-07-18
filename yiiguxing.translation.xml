@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="postion" />
       <item value="METHOD" />
       <item value="验证码" />
       <item value="framework" />
@@ -49,8 +51,6 @@
       <item value="Unreachable statement" />
       <item value="zero Through Ten" />
       <item value="Presentation Mode" />
-      <item value="Page Rule validation failed: See messages for details. (Code: 1004)" />
-      <item value="Purchase" />
     </histories>
   </component>
   <component name="Settings">
