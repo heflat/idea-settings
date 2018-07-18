@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证码" />
+      <item value="framework" />
+      <item value="frame" />
       <item value="call Super" />
       <item value="reference" />
       <item value="references" />
@@ -31,7 +34,6 @@
       <item value="digits" />
       <item value="random" />
       <item value="verification Code" />
-      <item value="验证码" />
       <item value="i" />
       <item value="Generate" />
       <item value="pattern specification" />
@@ -49,8 +51,6 @@
       <item value="Page Rule validation failed: See messages for details. (Code: 1004)" />
       <item value="Purchase" />
       <item value="键盘" />
-      <item value="counter" />
-      <item value="count" />
     </histories>
   </component>
   <component name="Settings">
