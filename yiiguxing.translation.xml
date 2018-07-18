@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference" />
+      <item value="references" />
       <item value="Java utils summary" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 32 path $" />
       <item value="pretty printing" />
@@ -49,8 +51,6 @@
       <item value="counter" />
       <item value="count" />
       <item value="blog" />
-      <item value="blog create date" />
-      <item value="Whitelist" />
     </histories>
   </component>
   <component name="Settings">
