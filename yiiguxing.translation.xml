@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="METHOD" />
       <item value="验证码" />
       <item value="framework" />
       <item value="frame" />
@@ -50,7 +51,6 @@
       <item value="Presentation Mode" />
       <item value="Page Rule validation failed: See messages for details. (Code: 1004)" />
       <item value="Purchase" />
-      <item value="键盘" />
     </histories>
   </component>
   <component name="Settings">
