@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tail" />
       <item value="position" />
       <item value="postion" />
       <item value="METHOD" />
@@ -50,7 +51,6 @@
       <item value="Updated plugin 'MyBatis plugin' is disabled. Disabled plugins won't be activated after restart. Would you like to enable updated plugin?" />
       <item value="Unreachable statement" />
       <item value="zero Through Ten" />
-      <item value="Presentation Mode" />
     </histories>
   </component>
   <component name="Settings">
