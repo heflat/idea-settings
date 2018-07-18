@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="call Super" />
       <item value="reference" />
       <item value="references" />
       <item value="Java utils summary" />
@@ -50,7 +51,6 @@
       <item value="键盘" />
       <item value="counter" />
       <item value="count" />
-      <item value="blog" />
     </histories>
   </component>
   <component name="Settings">
