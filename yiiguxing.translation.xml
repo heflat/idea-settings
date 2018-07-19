@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can’t perform that action at this time." />
       <item value="blog" />
       <item value="example" />
       <item value="Fiddler" />
@@ -50,7 +51,6 @@
       <item value="Life is short, should be fun!" />
       <item value="transport" />
       <item value="via" />
-      <item value="Minor update to make the plugin better" />
     </histories>
   </component>
   <component name="Settings">
