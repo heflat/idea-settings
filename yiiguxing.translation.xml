@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property" />
+      <item value="get Property" />
+      <item value="READ PROPERTIES FILE ERROR" />
+      <item value="Properties" />
       <item value="comment" />
       <item value="You can’t perform that action at this time." />
       <item value="blog" />
@@ -47,10 +51,6 @@
       <item value="i" />
       <item value="Generate" />
       <item value="pattern specification" />
-      <item value="STANDARD FORMAT" />
-      <item value="format" />
-      <item value="Life is short, should be fun!" />
-      <item value="transport" />
     </histories>
   </component>
   <component name="Settings">
