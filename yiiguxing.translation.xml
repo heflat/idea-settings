@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="container" />
       <item value="moonsome" />
       <item value="moon some" />
       <item value="moon" />
@@ -50,7 +51,6 @@
       <item value="在乎" />
       <item value="case" />
       <item value="argument" />
-      <item value="Returns the value of the first argument raised to the power of the second argument. Special cases" />
     </histories>
   </component>
   <component name="Settings">
