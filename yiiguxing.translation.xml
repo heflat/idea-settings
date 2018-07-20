@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="透支" />
+      <item value="信用" />
       <item value="calc Accounts" />
       <item value="calcAccounts" />
       <item value="calc Account" />
@@ -49,8 +51,6 @@
       <item value="stat" />
       <item value="Add a custom exception" />
       <item value="Add custom exception" />
-      <item value="添加自定义异常" />
-      <item value="code message" />
     </histories>
   </component>
   <component name="Settings">
