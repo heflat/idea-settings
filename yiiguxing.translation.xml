@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="moonsome" />
+      <item value="moon some" />
+      <item value="moon" />
       <item value="mom" />
       <item value="An update packge is available,do you want to download it?" />
       <item value="An update packge is available" />
@@ -48,9 +51,6 @@
       <item value="case" />
       <item value="argument" />
       <item value="Returns the value of the first argument raised to the power of the second argument. Special cases" />
-      <item value="the exponent" />
-      <item value="the base." />
-      <item value="pow" />
     </histories>
   </component>
   <component name="Settings">
