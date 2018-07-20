@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="九" />
+      <item value="减法" />
+      <item value="减" />
       <item value="add Amount" />
       <item value="container" />
       <item value="moonsome" />
@@ -48,9 +51,6 @@
       <item value="Code" />
       <item value="custom exception" />
       <item value="template" />
-      <item value="care" />
-      <item value="在乎" />
-      <item value="case" />
     </histories>
   </component>
   <component name="Settings">
