@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不正确" />
       <item value="透支" />
       <item value="信用" />
       <item value="calc Accounts" />
@@ -50,7 +51,6 @@
       <item value="ROUND HALF UP" />
       <item value="stat" />
       <item value="Add a custom exception" />
-      <item value="Add custom exception" />
     </histories>
   </component>
   <component name="Settings">
