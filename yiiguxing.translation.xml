@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mom" />
       <item value="An update packge is available,do you want to download it?" />
       <item value="An update packge is available" />
       <item value="fatal: pathspec 'modified:' did not match any files" />
@@ -50,7 +51,6 @@
       <item value="the exponent" />
       <item value="the base." />
       <item value="pow" />
-      <item value="digits" />
     </histories>
   </component>
   <component name="Settings">
