@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have their access modifier narrowed down. " />
+      <item value="Access can be private" />
       <item value="Property" />
       <item value="get Property" />
       <item value="READ PROPERTIES FILE ERROR" />
@@ -49,8 +51,6 @@
       <item value="random" />
       <item value="verification Code" />
       <item value="i" />
-      <item value="Generate" />
-      <item value="pattern specification" />
     </histories>
   </component>
   <component name="Settings">
