@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attribute default-amount is not allowed here" />
+      <item value="额度" />
+      <item value="Def value" />
+      <item value="Def" />
+      <item value="def" />
       <item value="不正确" />
       <item value="透支" />
       <item value="信用" />
@@ -46,11 +51,6 @@
       <item value="pretty printing" />
       <item value="Print" />
       <item value="PRETTY" />
-      <item value="DEFAULT PRETTY PRINT" />
-      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;}" />
-      <item value="ROUND HALF UP" />
-      <item value="stat" />
-      <item value="Add a custom exception" />
     </histories>
   </component>
   <component name="Settings">
