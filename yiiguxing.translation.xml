@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Amount" />
       <item value="container" />
       <item value="moonsome" />
       <item value="moon some" />
@@ -50,7 +51,6 @@
       <item value="care" />
       <item value="在乎" />
       <item value="case" />
-      <item value="argument" />
     </histories>
   </component>
   <component name="Settings">
