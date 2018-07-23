@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="improved system stability,Optimized system performance" />
+      <item value="stability" />
+      <item value="improved system stability" />
+      <item value="improved " />
       <item value="weekly" />
       <item value="week" />
       <item value="usage" />
@@ -47,10 +51,6 @@
       <item value="This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have their access modifier narrowed down. " />
       <item value="Access can be private" />
       <item value="Property" />
-      <item value="get Property" />
-      <item value="READ PROPERTIES FILE ERROR" />
-      <item value="Properties" />
-      <item value="comment" />
     </histories>
   </component>
   <component name="Settings">
