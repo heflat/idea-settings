@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weekly" />
+      <item value="week" />
       <item value="usage" />
       <item value="sublim" />
       <item value="access" />
@@ -49,8 +51,6 @@
       <item value="READ PROPERTIES FILE ERROR" />
       <item value="Properties" />
       <item value="comment" />
-      <item value="You can’t perform that action at this time." />
-      <item value="blog" />
     </histories>
   </component>
   <component name="Settings">
