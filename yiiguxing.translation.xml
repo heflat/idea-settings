@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sublim" />
+      <item value="access" />
+      <item value="favorite" />
+      <item value="favorites" />
+      <item value="power save mode" />
+      <item value="power" />
+      <item value="tail" />
+      <item value="structure" />
+      <item value="structrue" />
+      <item value="build" />
+      <item value="refactor" />
+      <item value="analyze" />
+      <item value="code" />
+      <item value="navigate" />
+      <item value="view" />
+      <item value="edit" />
       <item value="File Structure" />
       <item value="Attribute default-amount is not allowed here" />
       <item value="额度" />
@@ -35,22 +51,6 @@
       <item value="You can’t perform that action at this time." />
       <item value="blog" />
       <item value="example" />
-      <item value="Fiddler" />
-      <item value="develop" />
-      <item value="tail" />
-      <item value="position" />
-      <item value="postion" />
-      <item value="METHOD" />
-      <item value="验证码" />
-      <item value="framework" />
-      <item value="frame" />
-      <item value="call Super" />
-      <item value="reference" />
-      <item value="references" />
-      <item value="Java utils summary" />
-      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 32 path $" />
-      <item value="pretty printing" />
-      <item value="Print" />
     </histories>
   </component>
   <component name="Settings">
