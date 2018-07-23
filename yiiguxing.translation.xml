@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="File Structure" />
       <item value="Attribute default-amount is not allowed here" />
       <item value="额度" />
       <item value="Def value" />
@@ -50,7 +51,6 @@
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 32 path $" />
       <item value="pretty printing" />
       <item value="Print" />
-      <item value="PRETTY" />
     </histories>
   </component>
   <component name="Settings">
