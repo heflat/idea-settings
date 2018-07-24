@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="major" />
+      <item value="important" />
+      <item value="i home" />
+      <item value="ihome" />
+      <item value="apps" />
+      <item value="app" />
+      <item value="dupl apps" />
+      <item value="dupl" />
+      <item value="复制" />
+      <item value="daul" />
+      <item value="dual" />
+      <item value="检测" />
+      <item value="translate" />
+      <item value="translation" />
+      <item value="card" />
+      <item value="internal" />
+      <item value="internet" />
+      <item value="intenet" />
+      <item value="intenal" />
+      <item value="dial" />
+      <item value="space" />
+      <item value="step" />
+      <item value="steps" />
+      <item value="setps" />
+      <item value="setp" />
       <item value="camera" />
       <item value="camere" />
       <item value="camare" />
@@ -26,31 +51,6 @@
       <item value="improved " />
       <item value="weekly" />
       <item value="week" />
-      <item value="usage" />
-      <item value="sublim" />
-      <item value="access" />
-      <item value="favorite" />
-      <item value="favorites" />
-      <item value="power save mode" />
-      <item value="power" />
-      <item value="tail" />
-      <item value="structure" />
-      <item value="structrue" />
-      <item value="build" />
-      <item value="refactor" />
-      <item value="analyze" />
-      <item value="code" />
-      <item value="navigate" />
-      <item value="view" />
-      <item value="edit" />
-      <item value="File Structure" />
-      <item value="Attribute default-amount is not allowed here" />
-      <item value="额度" />
-      <item value="Def value" />
-      <item value="Def" />
-      <item value="def" />
-      <item value="不正确" />
-      <item value="透支" />
     </histories>
   </component>
   <component name="Settings">
