@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="top-up" />
+      <item value="top" />
+      <item value="top up" />
       <item value="major" />
       <item value="important" />
       <item value="i home" />
@@ -48,9 +51,6 @@
       <item value="improved system stability,Optimized system performance" />
       <item value="stability" />
       <item value="improved system stability" />
-      <item value="improved " />
-      <item value="weekly" />
-      <item value="week" />
     </histories>
   </component>
   <component name="Settings">
