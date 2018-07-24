@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="camera" />
+      <item value="camere" />
+      <item value="camare" />
+      <item value="No identifier specified for entity" />
+      <item value="right" />
+      <item value="right now" />
       <item value="a minute ago" />
       <item value="minute" />
       <item value="complete" />
@@ -45,12 +51,6 @@
       <item value="def" />
       <item value="不正确" />
       <item value="透支" />
-      <item value="信用" />
-      <item value="calc Accounts" />
-      <item value="calcAccounts" />
-      <item value="calc Account" />
-      <item value="九" />
-      <item value="减法" />
     </histories>
   </component>
   <component name="Settings">
