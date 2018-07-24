@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diag" />
+      <item value="sysdiag" />
       <item value="Main menu | Code | Show Reformat File Dialog" />
       <item value="improved system stability,Optimized system performance" />
       <item value="stability" />
@@ -49,8 +51,6 @@
       <item value="An update packge is available,do you want to download it?" />
       <item value="An update packge is available" />
       <item value="fatal: pathspec 'modified:' did not match any files" />
-      <item value="This inspection reports all fields, methods or classes, found in the specified inspection scope, that may have their access modifier narrowed down. " />
-      <item value="Access can be private" />
     </histories>
   </component>
   <component name="Settings">
