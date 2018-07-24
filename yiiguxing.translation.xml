@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
+      <item value="postpone" />
+      <item value="pone" />
+      <item value="post pone" />
+      <item value="post" />
+      <item value="postbone" />
+      <item value="restart" />
+      <item value="start" />
       <item value="diag" />
       <item value="sysdiag" />
       <item value="Main menu | Code | Show Reformat File Dialog" />
@@ -43,14 +51,6 @@
       <item value="减法" />
       <item value="减" />
       <item value="add Amount" />
-      <item value="container" />
-      <item value="moonsome" />
-      <item value="moon some" />
-      <item value="moon" />
-      <item value="mom" />
-      <item value="An update packge is available,do you want to download it?" />
-      <item value="An update packge is available" />
-      <item value="fatal: pathspec 'modified:' did not match any files" />
     </histories>
   </component>
   <component name="Settings">
