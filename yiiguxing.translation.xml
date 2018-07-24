@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escape Char Replacement" />
+      <item value="dollar Replacement" />
       <item value="top-up" />
       <item value="top" />
       <item value="top up" />
@@ -49,8 +51,6 @@
       <item value="sysdiag" />
       <item value="Main menu | Code | Show Reformat File Dialog" />
       <item value="improved system stability,Optimized system performance" />
-      <item value="stability" />
-      <item value="improved system stability" />
     </histories>
   </component>
   <component name="Settings">
