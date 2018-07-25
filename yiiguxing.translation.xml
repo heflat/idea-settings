@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="captain" />
+      <item value="船长" />
+      <item value="caption" />
+      <item value="notification" />
+      <item value="notifications" />
+      <item value="notify" />
+      <item value="notif" />
+      <item value="the value to check against unexpected" />
+      <item value="the value to check against &lt;code&gt;unexpected&lt;/code&gt;" />
+      <item value="unexpected value to check" />
+      <item value="unexpected" />
       <item value="product Stock" />
       <item value="product Id" />
       <item value="操作" />
@@ -40,17 +51,6 @@
       <item value="steps" />
       <item value="setps" />
       <item value="setp" />
-      <item value="camera" />
-      <item value="camere" />
-      <item value="camare" />
-      <item value="No identifier specified for entity" />
-      <item value="right" />
-      <item value="right now" />
-      <item value="a minute ago" />
-      <item value="minute" />
-      <item value="complete" />
-      <item value="postpone" />
-      <item value="pone" />
     </histories>
   </component>
   <component name="Settings">
