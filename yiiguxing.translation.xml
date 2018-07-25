@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
+      <item value="store" />
+      <item value="ant" />
+      <item value="蚂蚁" />
+      <item value="Ant" />
+      <item value="ant targets" />
+      <item value="plugins" />
+      <item value="pluginss" />
+      <item value="plug-ins" />
+      <item value="quick lists" />
+      <item value="remote external tool" />
+      <item value="external" />
+      <item value="latin" />
+      <item value="everything" />
+      <item value="everthing" />
+      <item value="everyting" />
+      <item value="one" />
+      <item value="every one" />
+      <item value="every day" />
+      <item value="every" />
+      <item value="daily" />
+      <item value="dail" />
       <item value="available" />
       <item value="no update available" />
       <item value="contacts" />
@@ -29,28 +51,6 @@
       <item value="cloudy great" />
       <item value="cloud" />
       <item value="escape Char Replacement" />
-      <item value="dollar Replacement" />
-      <item value="top-up" />
-      <item value="top" />
-      <item value="top up" />
-      <item value="major" />
-      <item value="important" />
-      <item value="i home" />
-      <item value="ihome" />
-      <item value="apps" />
-      <item value="app" />
-      <item value="dupl apps" />
-      <item value="dupl" />
-      <item value="复制" />
-      <item value="daul" />
-      <item value="dual" />
-      <item value="检测" />
-      <item value="translate" />
-      <item value="translation" />
-      <item value="card" />
-      <item value="internal" />
-      <item value="internet" />
-      <item value="intenet" />
     </histories>
   </component>
   <component name="Settings">
