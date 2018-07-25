@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="available" />
+      <item value="no update available" />
       <item value="contacts" />
       <item value="parameter" />
       <item value="param" />
@@ -49,8 +51,6 @@
       <item value="internal" />
       <item value="internet" />
       <item value="intenet" />
-      <item value="intenal" />
-      <item value="dial" />
     </histories>
   </component>
   <component name="Settings">
