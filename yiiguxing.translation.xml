@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="booking" />
+      <item value="forever" />
+      <item value="been forever" />
+      <item value="beenforever" />
+      <item value="beenf" />
+      <item value="been" />
+      <item value="allow" />
+      <item value="recent files" />
+      <item value="recent" />
+      <item value="Get started with JRebel" />
+      <item value="Get started" />
+      <item value="Get starter" />
+      <item value="trial" />
+      <item value="activate your JRebel trial" />
       <item value="pass" />
       <item value="passed" />
       <item value="shift" />
@@ -37,20 +51,6 @@
       <item value="dail" />
       <item value="available" />
       <item value="no update available" />
-      <item value="contacts" />
-      <item value="parameter" />
-      <item value="param" />
-      <item value="Param" />
-      <item value="Request" />
-      <item value="captain" />
-      <item value="船长" />
-      <item value="caption" />
-      <item value="notification" />
-      <item value="notifications" />
-      <item value="notify" />
-      <item value="notif" />
-      <item value="the value to check against unexpected" />
-      <item value="the value to check against &lt;code&gt;unexpected&lt;/code&gt;" />
     </histories>
   </component>
   <component name="Settings">
