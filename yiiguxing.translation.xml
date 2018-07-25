@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contacts" />
       <item value="parameter" />
       <item value="param" />
       <item value="Param" />
@@ -50,7 +51,6 @@
       <item value="intenet" />
       <item value="intenal" />
       <item value="dial" />
-      <item value="space" />
     </histories>
   </component>
   <component name="Settings">
