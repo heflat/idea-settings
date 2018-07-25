@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the name coder for the target format" />
+      <item value="the driver instance" />
       <item value="cloudy great" />
       <item value="cloud" />
       <item value="escape Char Replacement" />
@@ -49,8 +51,6 @@
       <item value="postbone" />
       <item value="restart" />
       <item value="start" />
-      <item value="diag" />
-      <item value="sysdiag" />
     </histories>
   </component>
   <component name="Settings">
