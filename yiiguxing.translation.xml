@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product Stock" />
+      <item value="product Id" />
+      <item value="操作" />
+      <item value="操" />
+      <item value="查找" />
       <item value="the name coder for the target format" />
       <item value="the driver instance" />
       <item value="cloudy great" />
@@ -46,11 +51,6 @@
       <item value="complete" />
       <item value="postpone" />
       <item value="pone" />
-      <item value="post pone" />
-      <item value="post" />
-      <item value="postbone" />
-      <item value="restart" />
-      <item value="start" />
     </histories>
   </component>
   <component name="Settings">
