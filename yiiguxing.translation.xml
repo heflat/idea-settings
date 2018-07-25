@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimized system Performance" />
+      <item value="Performance" />
+      <item value="fix" />
+      <item value="fix bug" />
+      <item value="fixbug" />
+      <item value="fixed bugs" />
+      <item value="fixed" />
       <item value="paid" />
       <item value="Preorder" />
       <item value="Pre Order" />
@@ -44,13 +51,6 @@
       <item value="plug-ins" />
       <item value="quick lists" />
       <item value="remote external tool" />
-      <item value="external" />
-      <item value="latin" />
-      <item value="everything" />
-      <item value="everthing" />
-      <item value="everyting" />
-      <item value="one" />
-      <item value="every one" />
     </histories>
   </component>
   <component name="Settings">
