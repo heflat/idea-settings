@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pass" />
+      <item value="passed" />
+      <item value="shift" />
+      <item value="control" />
+      <item value="controller" />
+      <item value="ctrl" />
+      <item value="Ctrl" />
+      <item value="Move Statement Up" />
+      <item value="assert" />
+      <item value="asser" />
+      <item value="evolution" />
+      <item value="进化" />
       <item value="restore" />
       <item value="store" />
       <item value="ant" />
@@ -39,18 +51,6 @@
       <item value="notif" />
       <item value="the value to check against unexpected" />
       <item value="the value to check against &lt;code&gt;unexpected&lt;/code&gt;" />
-      <item value="unexpected value to check" />
-      <item value="unexpected" />
-      <item value="product Stock" />
-      <item value="product Id" />
-      <item value="操作" />
-      <item value="操" />
-      <item value="查找" />
-      <item value="the name coder for the target format" />
-      <item value="the driver instance" />
-      <item value="cloudy great" />
-      <item value="cloud" />
-      <item value="escape Char Replacement" />
     </histories>
   </component>
   <component name="Settings">
