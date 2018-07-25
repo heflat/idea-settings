@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preorder" />
+      <item value="Pre Order" />
+      <item value="TRADE TYPE NATIVE" />
+      <item value="TRADE TYPE" />
+      <item value="TRADE" />
       <item value="booking" />
       <item value="forever" />
       <item value="been forever" />
@@ -46,11 +51,6 @@
       <item value="one" />
       <item value="every one" />
       <item value="every day" />
-      <item value="every" />
-      <item value="daily" />
-      <item value="dail" />
-      <item value="available" />
-      <item value="no update available" />
     </histories>
   </component>
   <component name="Settings">
