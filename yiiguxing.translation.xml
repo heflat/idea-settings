@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameter" />
+      <item value="param" />
+      <item value="Param" />
+      <item value="Request" />
       <item value="captain" />
       <item value="船长" />
       <item value="caption" />
@@ -47,10 +51,6 @@
       <item value="intenal" />
       <item value="dial" />
       <item value="space" />
-      <item value="step" />
-      <item value="steps" />
-      <item value="setps" />
-      <item value="setp" />
     </histories>
   </component>
   <component name="Settings">
