@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paid" />
       <item value="Preorder" />
       <item value="Pre Order" />
       <item value="TRADE TYPE NATIVE" />
@@ -50,7 +51,6 @@
       <item value="everyting" />
       <item value="one" />
       <item value="every one" />
-      <item value="every day" />
     </histories>
   </component>
   <component name="Settings">
