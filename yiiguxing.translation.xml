@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No property A found for type String" />
+      <item value="No property A found for type String! Traversed path: FullText.paperid." />
       <item value="result returns more than one elements" />
       <item value="Validation failed for query for method public abstract" />
       <item value="could not extract ResultSet" />
@@ -49,8 +51,6 @@
       <item value="assert" />
       <item value="asser" />
       <item value="evolution" />
-      <item value="进化" />
-      <item value="restore" />
     </histories>
   </component>
   <component name="Settings">
