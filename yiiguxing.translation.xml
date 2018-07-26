@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="result returns more than one elements" />
       <item value="Validation failed for query for method public abstract" />
       <item value="could not extract ResultSet" />
       <item value="Unable to create initial connections of pool." />
@@ -50,7 +51,6 @@
       <item value="evolution" />
       <item value="进化" />
       <item value="restore" />
-      <item value="store" />
     </histories>
   </component>
   <component name="Settings">
