@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="received" />
       <item value="create File Exclusively" />
       <item value="No property A found for type String" />
       <item value="No property A found for type String! Traversed path: FullText.paperid." />
@@ -50,7 +51,6 @@
       <item value="Ctrl" />
       <item value="Move Statement Up" />
       <item value="assert" />
-      <item value="asser" />
     </histories>
   </component>
   <component name="Settings">
