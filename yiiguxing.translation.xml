@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notify" />
       <item value="already" />
       <item value="pre" />
       <item value="Native" />
@@ -19,7 +20,6 @@
       <item value="中间" />
       <item value="Compare with SourceSafe Version...' action is not available while IDEA is updating indices" />
       <item value="初始化" />
-      <item value="notify" />
       <item value="portable" />
       <item value="nomal" />
       <item value="get Active Journal Ids" />
