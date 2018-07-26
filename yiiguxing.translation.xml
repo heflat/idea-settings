@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unified" />
       <item value="Optimized system Performance" />
       <item value="Performance" />
       <item value="fix" />
@@ -50,7 +51,6 @@
       <item value="pluginss" />
       <item value="plug-ins" />
       <item value="quick lists" />
-      <item value="remote external tool" />
     </histories>
   </component>
   <component name="Settings">
