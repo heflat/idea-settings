@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="piccode" />
+      <item value="resolving" />
       <item value="received" />
       <item value="create File Exclusively" />
       <item value="No property A found for type String" />
@@ -49,8 +51,6 @@
       <item value="controller" />
       <item value="ctrl" />
       <item value="Ctrl" />
-      <item value="Move Statement Up" />
-      <item value="assert" />
     </histories>
   </component>
   <component name="Settings">
