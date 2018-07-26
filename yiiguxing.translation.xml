@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reference" />
+      <item value="References" />
+      <item value="参考文献" />
+      <item value="草考文献" />
+      <item value="全文" />
       <item value="unified" />
       <item value="Optimized system Performance" />
       <item value="Performance" />
@@ -46,11 +51,6 @@
       <item value="ant" />
       <item value="蚂蚁" />
       <item value="Ant" />
-      <item value="ant targets" />
-      <item value="plugins" />
-      <item value="pluginss" />
-      <item value="plug-ins" />
-      <item value="quick lists" />
     </histories>
   </component>
   <component name="Settings">
