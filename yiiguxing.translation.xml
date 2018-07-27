@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exception" />
+      <item value="develop" />
       <item value="search" />
       <item value="piccode" />
       <item value="resolving" />
@@ -49,8 +51,6 @@
       <item value="passed" />
       <item value="shift" />
       <item value="control" />
-      <item value="controller" />
-      <item value="ctrl" />
     </histories>
   </component>
   <component name="Settings">
