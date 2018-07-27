@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a string representation of the object." />
+      <item value="stay" />
+      <item value="stay on '1'" />
+      <item value="stay on" />
       <item value="exception" />
       <item value="develop" />
       <item value="search" />
@@ -47,10 +51,6 @@
       <item value="Get starter" />
       <item value="trial" />
       <item value="activate your JRebel trial" />
-      <item value="pass" />
-      <item value="passed" />
-      <item value="shift" />
-      <item value="control" />
     </histories>
   </component>
   <component name="Settings">
