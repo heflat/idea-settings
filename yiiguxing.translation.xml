@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search" />
       <item value="piccode" />
       <item value="resolving" />
       <item value="received" />
@@ -50,7 +51,6 @@
       <item value="control" />
       <item value="controller" />
       <item value="ctrl" />
-      <item value="Ctrl" />
     </histories>
   </component>
   <component name="Settings">
