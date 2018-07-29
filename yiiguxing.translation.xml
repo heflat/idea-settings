@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refund" />
       <item value="MONEY RANGE" />
       <item value="RANGE" />
       <item value="WECHAT PAY NOTIFY MONEY VERIFY ERROR" />
@@ -50,7 +51,6 @@
       <item value="spelling" />
       <item value="digit" />
       <item value="figure" />
-      <item value="numeric" />
     </histories>
   </component>
   <component name="Settings">
