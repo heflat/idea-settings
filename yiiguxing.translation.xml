@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="animation" />
+      <item value="动画" />
       <item value="seller" />
       <item value="refund" />
       <item value="MONEY RANGE" />
@@ -49,8 +51,6 @@
       <item value="WECHAT" />
       <item value="Live" />
       <item value="Live Templates" />
-      <item value="spelling" />
-      <item value="digit" />
     </histories>
   </component>
   <component name="Settings">
