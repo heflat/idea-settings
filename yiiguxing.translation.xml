@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MONEY RANGE" />
+      <item value="RANGE" />
+      <item value="WECHAT PAY NOTIFY MONEY VERIFY ERROR" />
+      <item value="verify" />
       <item value="See the 'Note about fast-forwards' in 'git push --help' for details. " />
       <item value="notify" />
       <item value="already" />
@@ -47,10 +51,6 @@
       <item value="digit" />
       <item value="figure" />
       <item value="numeric" />
-      <item value="数字" />
-      <item value="number" />
-      <item value="测试" />
-      <item value="dev" />
     </histories>
   </component>
   <component name="Settings">
