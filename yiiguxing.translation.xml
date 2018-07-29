@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seller" />
       <item value="refund" />
       <item value="MONEY RANGE" />
       <item value="RANGE" />
@@ -50,7 +51,6 @@
       <item value="Live Templates" />
       <item value="spelling" />
       <item value="digit" />
-      <item value="figure" />
     </histories>
   </component>
   <component name="Settings">
