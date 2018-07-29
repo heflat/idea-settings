@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="See the 'Note about fast-forwards' in 'git push --help' for details. " />
       <item value="notify" />
       <item value="already" />
       <item value="pre" />
@@ -50,7 +51,6 @@
       <item value="number" />
       <item value="测试" />
       <item value="dev" />
-      <item value="develop" />
     </histories>
   </component>
   <component name="Settings">
