@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="md 5 Encode" />
+      <item value="Encode" />
       <item value="salt" />
       <item value="Asserts that a condition is true. If it isn't it throws an 'Error' with the given message." />
       <item value="Asserts that a condition is true. If it isn't it throws an" />
@@ -49,8 +51,6 @@
       <item value="fixed" />
       <item value="paid" />
       <item value="Preorder" />
-      <item value="Pre Order" />
-      <item value="TRADE TYPE NATIVE" />
     </histories>
   </component>
   <component name="Settings">
