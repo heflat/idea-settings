@@ -1,6 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asserts that a condition is true. If it isn't it throws an 'Error' with the given message." />
+      <item value="Asserts that a condition is true. If it isn't it throws an" />
+      <item value="the identifying message for the null" />
+      <item value="condition to be checked" />
+      <item value="the identifying message for the {@link AssertionError} (&lt;code&gt;null&lt;/code&gt;" />
+      <item value="disabled" />
+      <item value="disable" />
+      <item value="停用" />
+      <item value="正常" />
+      <item value="消费者" />
+      <item value="普通" />
+      <item value="客户" />
+      <item value="用户" />
+      <item value="Const" />
+      <item value="Generate" />
       <item value="a string representation of the object." />
       <item value="stay" />
       <item value="stay on '1'" />
@@ -36,21 +51,6 @@
       <item value="Pre Order" />
       <item value="TRADE TYPE NATIVE" />
       <item value="TRADE TYPE" />
-      <item value="TRADE" />
-      <item value="booking" />
-      <item value="forever" />
-      <item value="been forever" />
-      <item value="beenforever" />
-      <item value="beenf" />
-      <item value="been" />
-      <item value="allow" />
-      <item value="recent files" />
-      <item value="recent" />
-      <item value="Get started with JRebel" />
-      <item value="Get started" />
-      <item value="Get starter" />
-      <item value="trial" />
-      <item value="activate your JRebel trial" />
     </histories>
   </component>
   <component name="Settings">
