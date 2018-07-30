@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the entity instance completely." />
+      <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the" />
+      <item value="is User" />
+      <item value="USER EXISTED" />
+      <item value="EXISTED" />
+      <item value="USER EXIST" />
+      <item value="exist" />
       <item value="md 5 Encode" />
       <item value="Encode" />
       <item value="salt" />
@@ -44,13 +51,6 @@
       <item value="unified" />
       <item value="Optimized system Performance" />
       <item value="Performance" />
-      <item value="fix" />
-      <item value="fix bug" />
-      <item value="fixbug" />
-      <item value="fixed bugs" />
-      <item value="fixed" />
-      <item value="paid" />
-      <item value="Preorder" />
     </histories>
   </component>
   <component name="Settings">
