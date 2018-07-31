@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="data" />
+      <item value="success" />
+      <item value="error" />
+      <item value="was not installed" />
       <item value="字符编码" />
       <item value="CHARACTER" />
       <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the entity instance completely." />
@@ -47,10 +51,6 @@
       <item value="Unable to create initial connections of pool." />
       <item value="Reference" />
       <item value="References" />
-      <item value="参考文献" />
-      <item value="草考文献" />
-      <item value="全文" />
-      <item value="unified" />
     </histories>
   </component>
   <component name="Settings">

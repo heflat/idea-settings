@@ -5,6 +5,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="$ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="$ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -55,6 +58,9 @@
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Editor ShowInstantTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt minus" />
