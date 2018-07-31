@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duck" />
       <item value="data" />
       <item value="success" />
       <item value="error" />
@@ -50,7 +51,6 @@
       <item value="could not extract ResultSet" />
       <item value="Unable to create initial connections of pool." />
       <item value="Reference" />
-      <item value="References" />
     </histories>
   </component>
   <component name="Settings">
