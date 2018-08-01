@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selected Rows" />
       <item value="color scheme font" />
       <item value="scheme" />
       <item value="show only monospaced fonts" />
@@ -50,7 +51,6 @@
       <item value="the identifying message for the {@link AssertionError} (&lt;code&gt;null&lt;/code&gt;" />
       <item value="disabled" />
       <item value="disable" />
-      <item value="停用" />
     </histories>
   </component>
   <component name="Settings">
