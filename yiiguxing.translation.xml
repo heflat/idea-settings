@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verfiy" />
+      <item value="verify" />
       <item value="duck" />
       <item value="data" />
       <item value="success" />
@@ -49,8 +51,6 @@
       <item value="result returns more than one elements" />
       <item value="Validation failed for query for method public abstract" />
       <item value="could not extract ResultSet" />
-      <item value="Unable to create initial connections of pool." />
-      <item value="Reference" />
     </histories>
   </component>
   <component name="Settings">
