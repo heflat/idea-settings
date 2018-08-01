@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize" />
       <item value="verfiy" />
       <item value="verify" />
       <item value="duck" />
@@ -50,7 +51,6 @@
       <item value="No property A found for type String! Traversed path: FullText.paperid." />
       <item value="result returns more than one elements" />
       <item value="Validation failed for query for method public abstract" />
-      <item value="could not extract ResultSet" />
     </histories>
   </component>
   <component name="Settings">
