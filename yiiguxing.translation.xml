@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The application is running" />
       <item value="Indexes Special System Folders" />
       <item value="Adds the system path to your index" />
       <item value="An advanced calulator to replace the bundled calcy plugin. Try it, it's very nice." />
@@ -50,7 +51,6 @@
       <item value="search" />
       <item value="piccode" />
       <item value="resolving" />
-      <item value="received" />
     </histories>
   </component>
   <component name="Settings">
