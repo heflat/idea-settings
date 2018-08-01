@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="color scheme font" />
+      <item value="scheme" />
+      <item value="show only monospaced fonts" />
+      <item value="fallback font" />
+      <item value="fallback " />
+      <item value="fall" />
+      <item value="recommended" />
+      <item value="match" />
+      <item value="matche" />
+      <item value="matches" />
+      <item value="Auto-generated catch block" />
+      <item value="done" />
+      <item value="说过" />
+      <item value="做过" />
+      <item value="try" />
+      <item value="catch" />
       <item value="The application is running" />
       <item value="Indexes Special System Folders" />
       <item value="Adds the system path to your index" />
@@ -35,22 +51,6 @@
       <item value="disabled" />
       <item value="disable" />
       <item value="停用" />
-      <item value="正常" />
-      <item value="消费者" />
-      <item value="普通" />
-      <item value="客户" />
-      <item value="用户" />
-      <item value="Const" />
-      <item value="Generate" />
-      <item value="a string representation of the object." />
-      <item value="stay" />
-      <item value="stay on '1'" />
-      <item value="stay on" />
-      <item value="exception" />
-      <item value="develop" />
-      <item value="search" />
-      <item value="piccode" />
-      <item value="resolving" />
     </histories>
   </component>
   <component name="Settings">
