@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indexes Special System Folders" />
+      <item value="Adds the system path to your index" />
+      <item value="An advanced calulator to replace the bundled calcy plugin. Try it, it's very nice." />
+      <item value="Lets you kill running tasks." />
+      <item value="Let" />
       <item value="initialize" />
       <item value="verfiy" />
       <item value="verify" />
@@ -46,11 +51,6 @@
       <item value="piccode" />
       <item value="resolving" />
       <item value="received" />
-      <item value="create File Exclusively" />
-      <item value="No property A found for type String" />
-      <item value="No property A found for type String! Traversed path: FullText.paperid." />
-      <item value="result returns more than one elements" />
-      <item value="Validation failed for query for method public abstract" />
     </histories>
   </component>
   <component name="Settings">
