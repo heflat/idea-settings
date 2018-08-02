@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fly" />
       <item value="Album" />
       <item value="Track" />
       <item value="member" />
@@ -50,7 +51,6 @@
       <item value="Asserts that a condition is true. If it isn't it throws an 'Error' with the given message." />
       <item value="Asserts that a condition is true. If it isn't it throws an" />
       <item value="the identifying message for the null" />
-      <item value="condition to be checked" />
     </histories>
   </component>
   <component name="Settings">
