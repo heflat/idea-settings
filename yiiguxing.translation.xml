@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduce" />
+      <item value="writable" />
       <item value="digit" />
       <item value="bigit" />
       <item value="orange" />
@@ -49,8 +51,6 @@
       <item value="USER EXISTED" />
       <item value="EXISTED" />
       <item value="USER EXIST" />
-      <item value="exist" />
-      <item value="md 5 Encode" />
     </histories>
   </component>
   <component name="Settings">
