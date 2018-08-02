@@ -72,7 +72,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newHashMap" value="Map&lt;$key$, $value$&gt; $name$ = new HashMap();" description="Map&lt;Object, Object&gt; map = new HashedMap();" toReformat="false" toShortenFQNames="true">
+  <template name="newHashMap" value="Map&lt;$key$, $value$&gt; $name$ = new HashMap&lt;&gt;();" description="Map&lt;Object, Object&gt; map = new HashedMap();" toReformat="false" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
