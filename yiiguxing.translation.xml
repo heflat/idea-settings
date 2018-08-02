@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tests passed" />
+      <item value="tests pass" />
+      <item value="tests" />
+      <item value="test" />
       <item value="reduce" />
       <item value="writable" />
       <item value="digit" />
@@ -47,10 +51,6 @@
       <item value="CHARACTER" />
       <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the entity instance completely." />
       <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the" />
-      <item value="is User" />
-      <item value="USER EXISTED" />
-      <item value="EXISTED" />
-      <item value="USER EXIST" />
     </histories>
   </component>
   <component name="Settings">
