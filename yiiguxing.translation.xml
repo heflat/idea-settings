@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digit" />
+      <item value="bigit" />
+      <item value="orange" />
       <item value="stream" />
       <item value="str" />
       <item value="fly" />
@@ -48,9 +51,6 @@
       <item value="USER EXIST" />
       <item value="exist" />
       <item value="md 5 Encode" />
-      <item value="Encode" />
-      <item value="salt" />
-      <item value="Asserts that a condition is true. If it isn't it throws an 'Error' with the given message." />
     </histories>
   </component>
   <component name="Settings">
