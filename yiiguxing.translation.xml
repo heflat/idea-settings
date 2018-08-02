@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Album" />
+      <item value="Track" />
+      <item value="member" />
       <item value="Selected Rows" />
       <item value="color scheme font" />
       <item value="scheme" />
@@ -48,9 +51,6 @@
       <item value="Asserts that a condition is true. If it isn't it throws an" />
       <item value="the identifying message for the null" />
       <item value="condition to be checked" />
-      <item value="the identifying message for the {@link AssertionError} (&lt;code&gt;null&lt;/code&gt;" />
-      <item value="disabled" />
-      <item value="disable" />
     </histories>
   </component>
   <component name="Settings">
