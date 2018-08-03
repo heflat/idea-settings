@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="any" />
+      <item value="distance" />
+      <item value="delta" />
       <item value="DEFAULT CHARACTER" />
       <item value="编码" />
       <item value="USER NOT PERMISSIONS" />
@@ -48,9 +51,6 @@
       <item value="catch" />
       <item value="The application is running" />
       <item value="Indexes Special System Folders" />
-      <item value="Adds the system path to your index" />
-      <item value="An advanced calulator to replace the bundled calcy plugin. Try it, it's very nice." />
-      <item value="Lets you kill running tasks." />
     </histories>
   </component>
   <component name="Settings">
