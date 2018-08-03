@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Manage" />
       <item value="do login" />
       <item value="to login" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -50,7 +51,6 @@
       <item value="Auto-generated catch block" />
       <item value="done" />
       <item value="说过" />
-      <item value="做过" />
     </histories>
   </component>
   <component name="Settings">
