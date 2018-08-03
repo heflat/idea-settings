@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do login" />
+      <item value="to login" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Bye Stability,Morning My Life" />
       <item value="any" />
@@ -49,8 +51,6 @@
       <item value="done" />
       <item value="说过" />
       <item value="做过" />
-      <item value="try" />
-      <item value="catch" />
     </histories>
   </component>
   <component name="Settings">
