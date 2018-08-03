@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Bye Stability,Morning My Life" />
       <item value="any" />
       <item value="distance" />
@@ -50,7 +51,6 @@
       <item value="做过" />
       <item value="try" />
       <item value="catch" />
-      <item value="The application is running" />
     </histories>
   </component>
   <component name="Settings">
