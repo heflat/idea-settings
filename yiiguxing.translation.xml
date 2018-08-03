@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forbidden" />
+      <item value="handler Authorize Exception" />
+      <item value="interceptor" />
       <item value="tests passed" />
       <item value="tests pass" />
       <item value="tests" />
@@ -48,9 +51,6 @@
       <item value="error" />
       <item value="was not installed" />
       <item value="字符编码" />
-      <item value="CHARACTER" />
-      <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the entity instance completely." />
-      <item value="Saves a given entity. Use the returned instance for further operations as the save operation might have changed the" />
     </histories>
   </component>
   <component name="Settings">
