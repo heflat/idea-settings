@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DEFAULT CHARACTER" />
+      <item value="编码" />
+      <item value="USER NOT PERMISSIONS" />
+      <item value="USER NOT PERMISSION" />
+      <item value="EXISTED" />
+      <item value="permission" />
+      <item value="permissions" />
+      <item value="权限" />
       <item value="Cannot resolve 'message'" />
       <item value="Cannot resolve 'message" />
       <item value="Forbidden" />
@@ -43,14 +51,6 @@
       <item value="Adds the system path to your index" />
       <item value="An advanced calulator to replace the bundled calcy plugin. Try it, it's very nice." />
       <item value="Lets you kill running tasks." />
-      <item value="Let" />
-      <item value="initialize" />
-      <item value="verfiy" />
-      <item value="verify" />
-      <item value="duck" />
-      <item value="data" />
-      <item value="success" />
-      <item value="error" />
     </histories>
   </component>
   <component name="Settings">
