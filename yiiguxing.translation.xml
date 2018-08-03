@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot resolve 'message'" />
+      <item value="Cannot resolve 'message" />
       <item value="Forbidden" />
       <item value="handler Authorize Exception" />
       <item value="interceptor" />
@@ -49,8 +51,6 @@
       <item value="data" />
       <item value="success" />
       <item value="error" />
-      <item value="was not installed" />
-      <item value="字符编码" />
     </histories>
   </component>
   <component name="Settings">
