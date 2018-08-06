@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="given" />
       <item value="USER NOT EXIST" />
       <item value="result returns more than one elements" />
       <item value="Deprecated" />
@@ -50,7 +51,6 @@
       <item value="recommended" />
       <item value="match" />
       <item value="matche" />
-      <item value="matches" />
     </histories>
   </component>
   <component name="Settings">
