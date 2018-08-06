@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCI" />
+      <item value="OPTICS" />
       <item value="given" />
       <item value="USER NOT EXIST" />
       <item value="result returns more than one elements" />
@@ -49,8 +51,6 @@
       <item value="fallback " />
       <item value="fall" />
       <item value="recommended" />
-      <item value="match" />
-      <item value="matche" />
     </histories>
   </component>
   <component name="Settings">
