@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="user Manage" />
       <item value="do login" />
       <item value="to login" />
@@ -50,7 +51,6 @@
       <item value="matches" />
       <item value="Auto-generated catch block" />
       <item value="done" />
-      <item value="说过" />
     </histories>
   </component>
   <component name="Settings">
