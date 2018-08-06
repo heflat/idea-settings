@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
+      <item value="Defaulting to no-operation (NOP) logger implementation" />
       <item value="SCI" />
       <item value="OPTICS" />
       <item value="given" />
@@ -49,8 +51,6 @@
       <item value="show only monospaced fonts" />
       <item value="fallback font" />
       <item value="fallback " />
-      <item value="fall" />
-      <item value="recommended" />
     </histories>
   </component>
   <component name="Settings">
