@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="USER NOT EXIST" />
+      <item value="result returns more than one elements" />
       <item value="Deprecated" />
       <item value="user Manage" />
       <item value="do login" />
@@ -49,8 +51,6 @@
       <item value="match" />
       <item value="matche" />
       <item value="matches" />
-      <item value="Auto-generated catch block" />
-      <item value="done" />
     </histories>
   </component>
   <component name="Settings">
