@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Preferences" />
+      <item value="preferences" />
+      <item value="references" />
       <item value="hex" />
       <item value="latest" />
       <item value="广告" />
@@ -48,9 +51,6 @@
       <item value="handler Authorize Exception" />
       <item value="interceptor" />
       <item value="tests passed" />
-      <item value="tests pass" />
-      <item value="tests" />
-      <item value="test" />
     </histories>
   </component>
   <component name="Settings">
