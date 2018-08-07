@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variables are not available" />
+      <item value="available" />
+      <item value="This class is used to read entries from a zip file." />
       <item value="起始页" />
       <item value="issue" />
       <item value="volume" />
@@ -48,9 +51,6 @@
       <item value="An empty message object is created." />
       <item value="Expected '=', got &quot;null&quot;" />
       <item value="Expected" />
-      <item value="Main menu | Code | Surround With..." />
-      <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
-      <item value="Defaulting to no-operation (NOP) logger implementation" />
     </histories>
   </component>
   <component name="Settings">
