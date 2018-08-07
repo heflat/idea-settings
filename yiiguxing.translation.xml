@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hex" />
+      <item value="latest" />
+      <item value="广告" />
+      <item value="ad" />
+      <item value="Ad" />
+      <item value="Add" />
+      <item value="add" />
       <item value="catch" />
       <item value="CHARACTER" />
       <item value="you" />
@@ -44,13 +51,6 @@
       <item value="tests pass" />
       <item value="tests" />
       <item value="test" />
-      <item value="reduce" />
-      <item value="writable" />
-      <item value="digit" />
-      <item value="bigit" />
-      <item value="orange" />
-      <item value="stream" />
-      <item value="str" />
     </histories>
   </component>
   <component name="Settings">
