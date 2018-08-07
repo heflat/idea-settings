@@ -1,8 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="alternatives" />
+      <item value="起始页" />
+      <item value="issue" />
+      <item value="volume" />
+      <item value="resume" />
+      <item value="reume" />
+      <item value="presentation" />
+      <item value="presentation mode" />
+      <item value="publisher" />
+      <item value="publish" />
+      <item value="publication" />
+      <item value="citation Count" />
+      <item value="cite Count" />
+      <item value="cite" />
       <item value="citation" />
+      <item value="not Search Remark" />
+      <item value="not Search Reason" />
+      <item value="publisher Address" />
+      <item value="begin Page" />
+      <item value="编号" />
+      <item value="lookup" />
+      <item value="native" />
+      <item value="alternatives" />
       <item value="annotate" />
       <item value="xml To Object" />
       <item value="读取到" />
@@ -31,26 +51,6 @@
       <item value="Main menu | Code | Surround With..." />
       <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
       <item value="Defaulting to no-operation (NOP) logger implementation" />
-      <item value="SCI" />
-      <item value="OPTICS" />
-      <item value="given" />
-      <item value="USER NOT EXIST" />
-      <item value="result returns more than one elements" />
-      <item value="Deprecated" />
-      <item value="user Manage" />
-      <item value="do login" />
-      <item value="to login" />
-      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="Bye Stability,Morning My Life" />
-      <item value="any" />
-      <item value="distance" />
-      <item value="delta" />
-      <item value="DEFAULT CHARACTER" />
-      <item value="编码" />
-      <item value="USER NOT PERMISSIONS" />
-      <item value="USER NOT PERMISSION" />
-      <item value="EXISTED" />
-      <item value="permission" />
     </histories>
   </component>
   <component name="Settings">
