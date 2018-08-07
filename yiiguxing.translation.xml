@@ -1,7 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected '=', got &quot;null&quot;" />
       <item value="Expected" />
+      <item value="Main menu | Code | Surround With..." />
       <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
       <item value="Defaulting to no-operation (NOP) logger implementation" />
       <item value="SCI" />
@@ -49,8 +51,6 @@
       <item value="Selected Rows" />
       <item value="color scheme font" />
       <item value="scheme" />
-      <item value="show only monospaced fonts" />
-      <item value="fallback font" />
     </histories>
   </component>
   <component name="Settings">
