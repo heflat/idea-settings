@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alternatives" />
+      <item value="citation" />
       <item value="annotate" />
       <item value="xml To Object" />
       <item value="读取到" />
@@ -49,8 +51,6 @@
       <item value="USER NOT PERMISSION" />
       <item value="EXISTED" />
       <item value="permission" />
-      <item value="permissions" />
-      <item value="权限" />
     </histories>
   </component>
   <component name="Settings">
