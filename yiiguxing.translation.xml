@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CHARACTER" />
       <item value="you" />
       <item value="your" />
       <item value="your password" />
@@ -50,7 +51,6 @@
       <item value="stream" />
       <item value="str" />
       <item value="fly" />
-      <item value="Album" />
     </histories>
   </component>
   <component name="Settings">
