@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="catch" />
       <item value="CHARACTER" />
       <item value="you" />
       <item value="your" />
@@ -50,7 +51,6 @@
       <item value="orange" />
       <item value="stream" />
       <item value="str" />
-      <item value="fly" />
     </histories>
   </component>
   <component name="Settings">
