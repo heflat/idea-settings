@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xml To Object" />
+      <item value="读取到" />
+      <item value="读取" />
+      <item value="xml Read Object" />
+      <item value="Readed" />
       <item value="Preferences" />
       <item value="preferences" />
       <item value="references" />
@@ -46,11 +51,6 @@
       <item value="permissions" />
       <item value="权限" />
       <item value="Cannot resolve 'message'" />
-      <item value="Cannot resolve 'message" />
-      <item value="Forbidden" />
-      <item value="handler Authorize Exception" />
-      <item value="interceptor" />
-      <item value="tests passed" />
     </histories>
   </component>
   <component name="Settings">
