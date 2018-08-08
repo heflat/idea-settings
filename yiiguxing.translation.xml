@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Xml Files" />
       <item value="variables are not available" />
       <item value="available" />
       <item value="This class is used to read entries from a zip file." />
@@ -50,7 +51,6 @@
       <item value="you password" />
       <item value="An empty message object is created." />
       <item value="Expected '=', got &quot;null&quot;" />
-      <item value="Expected" />
     </histories>
   </component>
   <component name="Settings">
