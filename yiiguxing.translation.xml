@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="surname" />
+      <item value="citation" />
+      <item value="Child" />
       <item value="get Xml Files" />
       <item value="variables are not available" />
       <item value="available" />
@@ -18,7 +21,6 @@
       <item value="citation Count" />
       <item value="cite Count" />
       <item value="cite" />
-      <item value="citation" />
       <item value="not Search Remark" />
       <item value="not Search Reason" />
       <item value="publisher Address" />
@@ -49,8 +51,6 @@
       <item value="your" />
       <item value="your password" />
       <item value="you password" />
-      <item value="An empty message object is created." />
-      <item value="Expected '=', got &quot;null&quot;" />
     </histories>
   </component>
   <component name="Settings">
