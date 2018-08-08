@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supplement" />
       <item value="方式" />
       <item value="surname" />
       <item value="citation" />
@@ -50,7 +51,6 @@
       <item value="CHARACTER" />
       <item value="you" />
       <item value="your" />
-      <item value="your password" />
     </histories>
   </component>
   <component name="Settings">
