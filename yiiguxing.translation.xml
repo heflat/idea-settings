@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SKIP" />
+      <item value="Wait search" />
+      <item value="searched" />
+      <item value="正常" />
+      <item value="Reference" />
       <item value="to discard changes in working directory" />
       <item value="to update what will be committed" />
       <item value="Changes not staged for commit" />
@@ -46,11 +51,6 @@
       <item value="not Search Reason" />
       <item value="publisher Address" />
       <item value="begin Page" />
-      <item value="编号" />
-      <item value="lookup" />
-      <item value="native" />
-      <item value="alternatives" />
-      <item value="annotate" />
     </histories>
   </component>
   <component name="Settings">
