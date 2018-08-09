@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="started" />
+      <item value="Tomcat started" />
+      <item value="Tomcat started." />
       <item value="surname" />
       <item value="given" />
       <item value="kid" />
@@ -48,9 +51,6 @@
       <item value="广告" />
       <item value="ad" />
       <item value="Ad" />
-      <item value="Add" />
-      <item value="add" />
-      <item value="catch" />
     </histories>
   </component>
   <component name="Settings">
