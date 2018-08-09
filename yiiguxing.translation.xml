@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contrast" />
       <item value="any" />
       <item value="CHARACTER ENCODE" />
       <item value="CHARACTER ENCODING" />
@@ -50,7 +51,6 @@
       <item value="publication" />
       <item value="citation Count" />
       <item value="cite Count" />
-      <item value="cite" />
     </histories>
   </component>
   <component name="Settings">
