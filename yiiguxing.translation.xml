@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chinese Or Letters" />
+      <item value="Chinese Or Letter" />
+      <item value="is Chinese Or Letters" />
+      <item value="letter" />
+      <item value="字母" />
+      <item value="between" />
+      <item value="Chinese" />
       <item value="started" />
       <item value="Tomcat started" />
       <item value="Tomcat started." />
@@ -44,13 +51,6 @@
       <item value="xml Read Object" />
       <item value="Readed" />
       <item value="Preferences" />
-      <item value="preferences" />
-      <item value="references" />
-      <item value="hex" />
-      <item value="latest" />
-      <item value="广告" />
-      <item value="ad" />
-      <item value="Ad" />
     </histories>
   </component>
   <component name="Settings">
