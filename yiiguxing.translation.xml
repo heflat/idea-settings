@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="any" />
       <item value="CHARACTER ENCODE" />
       <item value="CHARACTER ENCODING" />
       <item value="SEARCHING" />
@@ -50,7 +51,6 @@
       <item value="citation Count" />
       <item value="cite Count" />
       <item value="cite" />
-      <item value="not Search Remark" />
     </histories>
   </component>
   <component name="Settings">
