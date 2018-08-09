@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts all of the characters in this {@code String} to lower" />
+      <item value="to Lower Case" />
       <item value="contrast" />
       <item value="any" />
       <item value="CHARACTER ENCODE" />
@@ -49,8 +51,6 @@
       <item value="publisher" />
       <item value="publish" />
       <item value="publication" />
-      <item value="citation Count" />
-      <item value="cite Count" />
     </histories>
   </component>
   <component name="Settings">
