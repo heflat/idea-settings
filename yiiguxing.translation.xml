@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to discard changes in working directory" />
+      <item value="to update what will be committed" />
+      <item value="Changes not staged for commit" />
+      <item value="stage" />
+      <item value="unstage" />
+      <item value="Changes to be committed:" />
       <item value="Chinese Or Letters" />
       <item value="Chinese Or Letter" />
       <item value="is Chinese Or Letters" />
@@ -45,12 +51,6 @@
       <item value="native" />
       <item value="alternatives" />
       <item value="annotate" />
-      <item value="xml To Object" />
-      <item value="读取到" />
-      <item value="读取" />
-      <item value="xml Read Object" />
-      <item value="Readed" />
-      <item value="Preferences" />
     </histories>
   </component>
   <component name="Settings">
