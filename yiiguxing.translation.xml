@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SEARCHING" />
       <item value="SKIP" />
       <item value="Wait search" />
       <item value="searched" />
@@ -50,7 +51,6 @@
       <item value="not Search Remark" />
       <item value="not Search Reason" />
       <item value="publisher Address" />
-      <item value="begin Page" />
     </histories>
   </component>
   <component name="Settings">
