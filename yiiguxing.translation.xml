@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kid" />
       <item value="using" />
       <item value="supplement" />
       <item value="方式" />
@@ -50,7 +51,6 @@
       <item value="add" />
       <item value="catch" />
       <item value="CHARACTER" />
-      <item value="you" />
     </histories>
   </component>
   <component name="Settings">
