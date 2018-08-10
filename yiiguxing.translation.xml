@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名称" />
       <item value="Converts all of the characters in this {@code String} to lower" />
       <item value="to Lower Case" />
       <item value="contrast" />
@@ -50,7 +51,6 @@
       <item value="presentation mode" />
       <item value="publisher" />
       <item value="publish" />
-      <item value="publication" />
     </histories>
   </component>
   <component name="Settings">
