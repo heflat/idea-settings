@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Native" />
       <item value="digits" />
       <item value="the initial capacity" />
       <item value="all other fields defaulted" />
@@ -50,7 +51,6 @@
       <item value="volume" />
       <item value="resume" />
       <item value="reume" />
-      <item value="presentation" />
     </histories>
   </component>
   <component name="Settings">
