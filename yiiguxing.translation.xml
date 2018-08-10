@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digits" />
       <item value="the initial capacity" />
       <item value="all other fields defaulted" />
       <item value="名称" />
@@ -50,7 +51,6 @@
       <item value="resume" />
       <item value="reume" />
       <item value="presentation" />
-      <item value="presentation mode" />
     </histories>
   </component>
   <component name="Settings">
