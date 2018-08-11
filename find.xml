@@ -14,15 +14,15 @@
     <mask>*TaskServiceImpl.java</mask>
     <mask>*.ftl</mask>
     <mask>*js</mask>
-    <mask>*ftl</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*impl.java</mask>
     <mask>*Action.java</mask>
-    <mask>*jsp</mask>
     <mask>*xml</mask>
-    <mask>*vm</mask>
     <mask>*pom.xml</mask>
+    <mask>*ftl</mask>
+    <mask>*jsp</mask>
+    <mask>*vm</mask>
     <mask>*java</mask>
     <mask>*</mask>
     <mask>*</mask>

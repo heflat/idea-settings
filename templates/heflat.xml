@@ -72,7 +72,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="newHashMap" value="Map&lt;$key$, $value$&gt; $name$ = new HashMap();" description="Map&lt;Object, Object&gt; map = new HashedMap();" toReformat="false" toShortenFQNames="true">
+  <template name="newHashMap" value="Map&lt;$key$, $value$&gt; $name$ = new HashMap&lt;&gt;();" description="Map&lt;Object, Object&gt; map = new HashedMap();" toReformat="false" toShortenFQNames="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
@@ -167,6 +167,13 @@
   <template name="pDate" value="/** $desc$ */&#10;private Date $field$;$END$" description="private Date field;" toReformat="false" toShortenFQNames="true">
     <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cdesc" value="/**&#10; * $desc$&#10; * &#10; * @author heflat&#10; * @date $date$&#10; */" description="add a doc description" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd HH:mm&quot;)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
