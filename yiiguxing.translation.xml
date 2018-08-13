@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="charts" />
+      <item value="echarts" />
       <item value="The server host key for the host gitee.com:22 has changed to e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4 (type ssh-rsa). Do you want to accept the changed key?" />
       <item value="Native" />
       <item value="digits" />
@@ -49,8 +51,6 @@
       <item value="This class is used to read entries from a zip file." />
       <item value="起始页" />
       <item value="issue" />
-      <item value="volume" />
-      <item value="resume" />
     </histories>
   </component>
   <component name="Settings">
