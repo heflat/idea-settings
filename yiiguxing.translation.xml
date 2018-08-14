@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mixed Citation" />
       <item value="sigkill" />
       <item value="charts" />
       <item value="echarts" />
@@ -50,7 +51,6 @@
       <item value="variables are not available" />
       <item value="available" />
       <item value="This class is used to read entries from a zip file." />
-      <item value="起始页" />
     </histories>
   </component>
   <component name="Settings">
