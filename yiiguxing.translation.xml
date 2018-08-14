@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cost Time" />
+      <item value="mode" />
+      <item value="finish Rate" />
+      <item value="进度" />
+      <item value="finish Time" />
       <item value="Mixed Citation" />
       <item value="sigkill" />
       <item value="charts" />
@@ -46,11 +51,6 @@
       <item value="supplement" />
       <item value="方式" />
       <item value="citation" />
-      <item value="Child" />
-      <item value="get Xml Files" />
-      <item value="variables are not available" />
-      <item value="available" />
-      <item value="This class is used to read entries from a zip file." />
     </histories>
   </component>
   <component name="Settings">
