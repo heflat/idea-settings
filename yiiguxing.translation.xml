@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="export" />
+      <item value="导出" />
       <item value="Normal" />
       <item value="Modifier 'public' is redundant for inner classes of interfaces" />
       <item value="NORMAL" />
@@ -49,8 +51,6 @@
       <item value="between" />
       <item value="Chinese" />
       <item value="started" />
-      <item value="Tomcat started" />
-      <item value="Tomcat started." />
     </histories>
   </component>
   <component name="Settings">
