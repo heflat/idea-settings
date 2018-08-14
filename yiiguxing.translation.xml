@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Normal" />
+      <item value="Modifier 'public' is redundant for inner classes of interfaces" />
       <item value="NORMAL" />
       <item value="DELETED" />
       <item value="DELETE" />
@@ -49,8 +51,6 @@
       <item value="started" />
       <item value="Tomcat started" />
       <item value="Tomcat started." />
-      <item value="surname" />
-      <item value="given" />
     </histories>
   </component>
   <component name="Settings">
