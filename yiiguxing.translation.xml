@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NORMAL" />
+      <item value="DELETED" />
+      <item value="DELETE" />
+      <item value="DISABLED" />
+      <item value="DISABLE" />
       <item value="cost Time" />
       <item value="mode" />
       <item value="finish Rate" />
@@ -46,11 +51,6 @@
       <item value="Tomcat started." />
       <item value="surname" />
       <item value="given" />
-      <item value="kid" />
-      <item value="using" />
-      <item value="supplement" />
-      <item value="方式" />
-      <item value="citation" />
     </histories>
   </component>
   <component name="Settings">
