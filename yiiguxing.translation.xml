@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Start Task" />
+      <item value="start Task" />
+      <item value="is" />
       <item value="export" />
       <item value="导出" />
       <item value="Normal" />
@@ -48,9 +51,6 @@
       <item value="is Chinese Or Letters" />
       <item value="letter" />
       <item value="字母" />
-      <item value="between" />
-      <item value="Chinese" />
-      <item value="started" />
     </histories>
   </component>
   <component name="Settings">
