@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Plugin 'Lombok Plugin' is incompatible with this installation" />
       <item value="separated with space" />
       <item value="separated" />
       <item value="Pad" />
@@ -50,7 +51,6 @@
       <item value="Changes not staged for commit" />
       <item value="stage" />
       <item value="unstage" />
-      <item value="Changes to be committed:" />
     </histories>
   </component>
   <component name="Settings">
