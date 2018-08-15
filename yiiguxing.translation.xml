@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separated with space" />
+      <item value="separated" />
+      <item value="Pad" />
+      <item value="verify_code" />
+      <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
+      <item value="is Start Task" />
+      <item value="start Task" />
+      <item value="is" />
+      <item value="export" />
+      <item value="导出" />
+      <item value="Normal" />
+      <item value="Modifier 'public' is redundant for inner classes of interfaces" />
+      <item value="NORMAL" />
+      <item value="DELETED" />
+      <item value="DELETE" />
+      <item value="DISABLED" />
+      <item value="DISABLE" />
+      <item value="cost Time" />
+      <item value="mode" />
+      <item value="finish Rate" />
+      <item value="进度" />
+      <item value="finish Time" />
+      <item value="Mixed Citation" />
+      <item value="sigkill" />
+      <item value="charts" />
+      <item value="echarts" />
+      <item value="The server host key for the host gitee.com:22 has changed to e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4 (type ssh-rsa). Do you want to accept the changed key?" />
       <item value="Native" />
       <item value="digits" />
       <item value="the initial capacity" />
@@ -24,33 +51,6 @@
       <item value="stage" />
       <item value="unstage" />
       <item value="Changes to be committed:" />
-      <item value="Chinese Or Letters" />
-      <item value="Chinese Or Letter" />
-      <item value="is Chinese Or Letters" />
-      <item value="letter" />
-      <item value="字母" />
-      <item value="between" />
-      <item value="Chinese" />
-      <item value="started" />
-      <item value="Tomcat started" />
-      <item value="Tomcat started." />
-      <item value="surname" />
-      <item value="given" />
-      <item value="kid" />
-      <item value="using" />
-      <item value="supplement" />
-      <item value="方式" />
-      <item value="citation" />
-      <item value="Child" />
-      <item value="get Xml Files" />
-      <item value="variables are not available" />
-      <item value="available" />
-      <item value="This class is used to read entries from a zip file." />
-      <item value="起始页" />
-      <item value="issue" />
-      <item value="volume" />
-      <item value="resume" />
-      <item value="reume" />
     </histories>
   </component>
   <component name="Settings">
