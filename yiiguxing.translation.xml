@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pad" />
       <item value="verify_code" />
       <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
       <item value="is Start Task" />
@@ -50,7 +51,6 @@
       <item value="Changes to be committed:" />
       <item value="Chinese Or Letters" />
       <item value="Chinese Or Letter" />
-      <item value="is Chinese Or Letters" />
     </histories>
   </component>
   <component name="Settings">
