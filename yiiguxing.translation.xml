@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transfer To" />
+      <item value="the destination file (typically absolute)" />
+      <item value="destination" />
+      <item value="destruction" />
+      <item value="dest" />
       <item value="Plugin 'Lombok Plugin' is incompatible with this installation" />
       <item value="separated with space" />
       <item value="separated" />
@@ -46,11 +51,6 @@
       <item value="searched" />
       <item value="正常" />
       <item value="Reference" />
-      <item value="to discard changes in working directory" />
-      <item value="to update what will be committed" />
-      <item value="Changes not staged for commit" />
-      <item value="stage" />
-      <item value="unstage" />
     </histories>
   </component>
   <component name="Settings">
