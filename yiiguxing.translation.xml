@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dest required is directory" />
       <item value="transfer To" />
       <item value="the destination file (typically absolute)" />
       <item value="destination" />
@@ -50,7 +51,6 @@
       <item value="Wait search" />
       <item value="searched" />
       <item value="正常" />
-      <item value="Reference" />
     </histories>
   </component>
   <component name="Settings">
