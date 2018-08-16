@@ -1,13 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="The new abstract pathname for the named file" />
-      <item value="description" />
-      <item value="Regular" />
-      <item value="limit" />
-      <item value="login pages" />
-      <item value="login page" />
-      <item value="界面" />
+      <item value="Plugin 'Lombok Plugin' is incompatible with this installation" />
       <item value="separated with space" />
       <item value="separated" />
       <item value="Pad" />
@@ -51,6 +45,12 @@
       <item value="Wait search" />
       <item value="searched" />
       <item value="正常" />
+      <item value="Reference" />
+      <item value="to discard changes in working directory" />
+      <item value="to update what will be committed" />
+      <item value="Changes not staged for commit" />
+      <item value="stage" />
+      <item value="unstage" />
     </histories>
   </component>
   <component name="Settings">
