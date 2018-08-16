@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数字" />
+      <item value="s" />
+      <item value="Getter" />
+      <item value="Number" />
+      <item value="zero" />
+      <item value="百分比" />
       <item value="dest required is directory" />
       <item value="transfer To" />
       <item value="the destination file (typically absolute)" />
@@ -45,12 +51,6 @@
       <item value="contrast" />
       <item value="any" />
       <item value="CHARACTER ENCODE" />
-      <item value="CHARACTER ENCODING" />
-      <item value="SEARCHING" />
-      <item value="SKIP" />
-      <item value="Wait search" />
-      <item value="searched" />
-      <item value="正常" />
     </histories>
   </component>
   <component name="Settings">
