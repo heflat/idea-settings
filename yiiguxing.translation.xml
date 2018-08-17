@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="page - number" />
+      <item value="specified" />
+      <item value="指定" />
       <item value="解析" />
       <item value="bounce" />
       <item value="数字" />
@@ -48,9 +51,6 @@
       <item value="the initial capacity" />
       <item value="all other fields defaulted" />
       <item value="名称" />
-      <item value="Converts all of the characters in this {@code String} to lower" />
-      <item value="to Lower Case" />
-      <item value="contrast" />
     </histories>
   </component>
   <component name="Settings">
