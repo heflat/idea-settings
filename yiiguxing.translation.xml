@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bounce" />
       <item value="数字" />
       <item value="s" />
       <item value="Getter" />
@@ -50,7 +51,6 @@
       <item value="to Lower Case" />
       <item value="contrast" />
       <item value="any" />
-      <item value="CHARACTER ENCODE" />
     </histories>
   </component>
   <component name="Settings">
