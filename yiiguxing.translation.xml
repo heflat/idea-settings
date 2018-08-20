@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="converter" />
       <item value="Unit not found." />
       <item value="This account is currently not available" />
       <item value="cannot be cast to" />
@@ -49,8 +51,6 @@
       <item value="Mixed Citation" />
       <item value="sigkill" />
       <item value="charts" />
-      <item value="echarts" />
-      <item value="The server host key for the host gitee.com:22 has changed to e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4 (type ssh-rsa). Do you want to accept the changed key?" />
     </histories>
   </component>
   <component name="Settings">
