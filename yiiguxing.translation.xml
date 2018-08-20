@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paging query needs to have a Pageable parameter! Offending method public abstract" />
+      <item value="Paging query needs to have a Pageable parameter" />
       <item value="page - number" />
       <item value="specified" />
       <item value="指定" />
@@ -49,8 +51,6 @@
       <item value="Native" />
       <item value="digits" />
       <item value="the initial capacity" />
-      <item value="all other fields defaulted" />
-      <item value="名称" />
     </histories>
   </component>
   <component name="Settings">
