@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rerun" />
+      <item value="Suspend" />
       <item value="Swagger" />
       <item value="The value 0, with a scale of 0." />
       <item value="convert" />
@@ -49,9 +51,13 @@
       <item value="mode" />
       <item value="finish Rate" />
       <item value="进度" />
-      <item value="finish Time" />
-      <item value="Mixed Citation" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="showStatusIcon" value="false" />
