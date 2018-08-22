@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Export declarations are not supported by current JavaScript version" />
+      <item value="导出" />
+      <item value="export" />
       <item value="rerun" />
       <item value="Suspend" />
       <item value="Swagger" />
@@ -38,8 +41,6 @@
       <item value="is Start Task" />
       <item value="start Task" />
       <item value="is" />
-      <item value="export" />
-      <item value="导出" />
       <item value="Normal" />
       <item value="Modifier 'public' is redundant for inner classes of interfaces" />
       <item value="NORMAL" />
@@ -50,12 +51,11 @@
       <item value="cost Time" />
       <item value="mode" />
       <item value="finish Rate" />
-      <item value="进度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
