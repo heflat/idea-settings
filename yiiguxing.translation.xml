@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags" />
       <item value="Swagger" />
       <item value="The value 0, with a scale of 0." />
       <item value="convert" />
@@ -50,7 +51,6 @@
       <item value="finish Rate" />
       <item value="进度" />
       <item value="finish Time" />
-      <item value="Mixed Citation" />
     </histories>
   </component>
   <component name="Settings">
