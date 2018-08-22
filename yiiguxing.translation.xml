@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sections" />
+      <item value="Main Section" />
+      <item value="Preloader" />
+      <item value="Coder" />
+      <item value="A Java Coder" />
+      <item value="Hire Me" />
+      <item value="Discover More" />
+      <item value="A Friend, Dude and Buddy From Earth" />
+      <item value="Page Borders" />
+      <item value="Portfolio" />
+      <item value="Contact" />
       <item value="配色" />
       <item value="Export declarations are not supported by current JavaScript version" />
       <item value="导出" />
@@ -40,22 +51,11 @@
       <item value="verify_code" />
       <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
       <item value="is Start Task" />
-      <item value="start Task" />
-      <item value="is" />
-      <item value="Normal" />
-      <item value="Modifier 'public' is redundant for inner classes of interfaces" />
-      <item value="NORMAL" />
-      <item value="DELETED" />
-      <item value="DELETE" />
-      <item value="DISABLED" />
-      <item value="DISABLE" />
-      <item value="cost Time" />
-      <item value="mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
