@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visual" />
+      <item value="visualVM" />
       <item value="Sections" />
       <item value="Main Section" />
       <item value="Preloader" />
@@ -49,12 +51,10 @@
       <item value="separated" />
       <item value="Pad" />
       <item value="verify_code" />
-      <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
-      <item value="is Start Task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
