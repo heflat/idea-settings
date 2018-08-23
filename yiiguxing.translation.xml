@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magic" />
       <item value="executable" />
       <item value="references" />
       <item value="java.net.BindException &quot;Address already in use: JVM_Bind&quot;" />
@@ -50,7 +51,6 @@
       <item value="dest required is directory" />
       <item value="transfer To" />
       <item value="the destination file (typically absolute)" />
-      <item value="destination" />
     </histories>
     <option name="languageScores">
       <map>
