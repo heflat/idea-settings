@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="javascript" />
       <item value="magic" />
       <item value="executable" />
       <item value="references" />
@@ -50,12 +51,11 @@
       <item value="百分比" />
       <item value="dest required is directory" />
       <item value="transfer To" />
-      <item value="the destination file (typically absolute)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
