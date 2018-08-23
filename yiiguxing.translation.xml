@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
+      <item value="Pre Remove" />
+      <item value="Pre Persist" />
+      <item value="Persist" />
+      <item value="modifie" />
+      <item value="nullable" />
       <item value="The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags" />
       <item value="Swagger" />
       <item value="The value 0, with a scale of 0." />
@@ -45,19 +51,7 @@
       <item value="DELETED" />
       <item value="DELETE" />
       <item value="DISABLED" />
-      <item value="DISABLE" />
-      <item value="cost Time" />
-      <item value="mode" />
-      <item value="finish Rate" />
-      <item value="进度" />
-      <item value="finish Time" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
-      </map>
-    </option>
   </component>
   <component name="Settings">
     <option name="showStatusIcon" value="false" />
