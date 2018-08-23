@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="literature" />
+      <item value="modification" />
+      <item value="modification_literature" />
       <item value="visual" />
       <item value="visualVM" />
       <item value="Sections" />
@@ -48,9 +51,6 @@
       <item value="dest" />
       <item value="Plugin 'Lombok Plugin' is incompatible with this installation" />
       <item value="separated with space" />
-      <item value="separated" />
-      <item value="Pad" />
-      <item value="verify_code" />
     </histories>
     <option name="languageScores">
       <map>
