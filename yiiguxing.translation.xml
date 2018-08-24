@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名称" />
       <item value="Optimize imports on the fly(for current project)" />
       <item value="Optimize imports on the fly " />
       <item value="add unambiguous imports on the fly" />
@@ -50,12 +51,11 @@
       <item value="separated" />
       <item value="Pad" />
       <item value="verify_code" />
-      <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
