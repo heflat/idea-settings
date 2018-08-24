@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimize imports on the fly(for current project)" />
+      <item value="Optimize imports on the fly " />
+      <item value="add unambiguous imports on the fly" />
+      <item value="add unambiguous imports" />
+      <item value="add unambiguous" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="LATER START" />
       <item value="NOW START" />
@@ -46,11 +51,6 @@
       <item value="Pad" />
       <item value="verify_code" />
       <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
-      <item value="is Start Task" />
-      <item value="start Task" />
-      <item value="is" />
-      <item value="export" />
-      <item value="导出" />
     </histories>
     <option name="languageScores">
       <map>
