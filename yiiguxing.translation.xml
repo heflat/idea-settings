@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="Criteria" />
       <item value="Pre Remove" />
       <item value="Pre Persist" />
@@ -50,7 +51,6 @@
       <item value="NORMAL" />
       <item value="DELETED" />
       <item value="DELETE" />
-      <item value="DISABLED" />
     </histories>
   </component>
   <component name="Settings">
