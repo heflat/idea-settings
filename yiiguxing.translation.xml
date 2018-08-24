@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LATER START" />
+      <item value="NOW START" />
+      <item value="执行" />
+      <item value="稍后" />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="Criteria" />
       <item value="Pre Remove" />
@@ -47,11 +51,13 @@
       <item value="export" />
       <item value="导出" />
       <item value="Normal" />
-      <item value="Modifier 'public' is redundant for inner classes of interfaces" />
-      <item value="NORMAL" />
-      <item value="DELETED" />
-      <item value="DELETE" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="showStatusIcon" value="false" />
