@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normal Msg" />
+      <item value="REQUEST" />
       <item value="Criteria" />
       <item value="Pre Remove" />
       <item value="Pre Persist" />
@@ -49,8 +51,6 @@
       <item value="Modifier 'public' is redundant for inner classes of interfaces" />
       <item value="NORMAL" />
       <item value="DELETED" />
-      <item value="DELETE" />
-      <item value="DISABLED" />
     </histories>
   </component>
   <component name="Settings">
