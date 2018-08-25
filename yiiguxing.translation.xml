@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bound" />
+      <item value="bit" />
+      <item value="last Day" />
+      <item value="Redis Validate Code Processor" />
+      <item value="Processor" />
       <item value="normal Msg" />
       <item value="REQUEST" />
       <item value="Criteria" />
@@ -46,12 +51,13 @@
       <item value="start Task" />
       <item value="is" />
       <item value="export" />
-      <item value="导出" />
-      <item value="Normal" />
-      <item value="Modifier 'public' is redundant for inner classes of interfaces" />
-      <item value="NORMAL" />
-      <item value="DELETED" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="showStatusIcon" value="false" />
