@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="license" />
+      <item value="contact Name" />
+      <item value="swagger" />
       <item value="bound" />
       <item value="bit" />
       <item value="last Day" />
@@ -48,14 +51,11 @@
       <item value="verify_code" />
       <item value="the request was rejected because its size (31719074) exceeds the configured maximum (10485760)" />
       <item value="is Start Task" />
-      <item value="start Task" />
-      <item value="is" />
-      <item value="export" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
