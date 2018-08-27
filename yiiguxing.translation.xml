@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="存在" />
+      <item value="TASK NOT_" />
       <item value="数量" />
       <item value="未开始" />
       <item value="WAIT" />
@@ -49,13 +51,11 @@
       <item value="dest required is directory" />
       <item value="transfer To" />
       <item value="the destination file (typically absolute)" />
-      <item value="destination" />
-      <item value="destruction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
