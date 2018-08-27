@@ -1,26 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="存在" />
-      <item value="TASK NOT_" />
-      <item value="数量" />
-      <item value="未开始" />
-      <item value="WAIT" />
-      <item value="Portable" />
-      <item value="便携" />
-      <item value="编写" />
-      <item value="名称" />
-      <item value="Optimize imports on the fly(for current project)" />
-      <item value="Optimize imports on the fly " />
-      <item value="add unambiguous imports on the fly" />
-      <item value="add unambiguous imports" />
-      <item value="add unambiguous" />
-      <item value="Variable used in lambda expression should be final or effectively final" />
-      <item value="LATER START" />
-      <item value="NOW START" />
-      <item value="执行" />
-      <item value="稍后" />
-      <item value="Method breakpoints may dramatically slow down debugging" />
+      <item value="10 MB" />
+      <item value="Lostell" />
+      <item value="license" />
+      <item value="contact Name" />
+      <item value="swagger" />
+      <item value="bound" />
+      <item value="bit" />
+      <item value="last Day" />
+      <item value="Redis Validate Code Processor" />
+      <item value="Processor" />
+      <item value="normal Msg" />
+      <item value="REQUEST" />
       <item value="Criteria" />
       <item value="Pre Remove" />
       <item value="Pre Persist" />
@@ -51,11 +43,19 @@
       <item value="dest required is directory" />
       <item value="transfer To" />
       <item value="the destination file (typically absolute)" />
+      <item value="destination" />
+      <item value="destruction" />
+      <item value="dest" />
+      <item value="Plugin 'Lombok Plugin' is incompatible with this installation" />
+      <item value="separated with space" />
+      <item value="separated" />
+      <item value="Pad" />
+      <item value="verify_code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
