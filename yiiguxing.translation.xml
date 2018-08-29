@@ -1,61 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="who is going to learn english with me" />
+      <item value="who is who going to learn english with me" />
+      <item value="谁打算跟我一起学英语" />
+      <item value="我看起来紧张吗？" />
+      <item value="谁" />
+      <item value="what changed him" />
+      <item value="what did change him" />
+      <item value="what did what change him" />
+      <item value="came" />
+      <item value="come" />
+      <item value="who camed yesterday" />
+      <item value="who came yesterday" />
+      <item value="who did came yesterday" />
+      <item value="昨天谁来了" />
+      <item value="who did who come yesterday" />
+      <item value="who did who come yesteday" />
+      <item value="who finded me" />
+      <item value="who did find me" />
+      <item value="who did who find me" />
+      <item value="找我" />
+      <item value="with learning english who do who to me" />
+      <item value="with english who do who learning to me" />
+      <item value="who do who learning to english " />
+      <item value="who do who learning to english for me" />
+      <item value="who do who learning to english" />
+      <item value="who do who learn to english" />
+      <item value="学" />
+      <item value="打算" />
+      <item value="who said" />
+      <item value="who did who say" />
+      <item value="who do who said" />
+      <item value="who do who say" />
+      <item value="说的" />
+      <item value="are not you eat at home" />
+      <item value="are you " />
+      <item value="do i look tension" />
+      <item value="tension" />
+      <item value="紧张" />
+      <item value="你不想吃饭吗？" />
+      <item value="do not you want eat" />
+      <item value="how does he look?" />
+      <item value="how does he look" />
+      <item value="how do he look" />
+      <item value="how is he look" />
+      <item value="how is he look for" />
+      <item value="how do he look for" />
       <item value="Missing git support, install posh-git with 'Install-Module posh-git' and restart cmder." />
       <item value="小偷" />
       <item value="汇报" />
       <item value="优先" />
-      <item value="优先列表" />
-      <item value="10 MB" />
-      <item value="Lostell" />
-      <item value="license" />
-      <item value="contact Name" />
-      <item value="swagger" />
-      <item value="bound" />
-      <item value="bit" />
-      <item value="last Day" />
-      <item value="Redis Validate Code Processor" />
-      <item value="Processor" />
-      <item value="normal Msg" />
-      <item value="REQUEST" />
-      <item value="Criteria" />
-      <item value="Pre Remove" />
-      <item value="Pre Persist" />
-      <item value="Persist" />
-      <item value="modifie" />
-      <item value="nullable" />
-      <item value="The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags" />
-      <item value="Swagger" />
-      <item value="The value 0, with a scale of 0." />
-      <item value="convert" />
-      <item value="converter" />
-      <item value="Unit not found." />
-      <item value="This account is currently not available" />
-      <item value="cannot be cast to" />
-      <item value="Paging query needs to have a Pageable parameter! Offending method public abstract" />
-      <item value="Paging query needs to have a Pageable parameter" />
-      <item value="page - number" />
-      <item value="specified" />
-      <item value="指定" />
-      <item value="解析" />
-      <item value="bounce" />
-      <item value="数字" />
-      <item value="s" />
-      <item value="Getter" />
-      <item value="Number" />
-      <item value="zero" />
-      <item value="百分比" />
-      <item value="dest required is directory" />
-      <item value="transfer To" />
-      <item value="the destination file (typically absolute)" />
-      <item value="destination" />
-      <item value="destruction" />
-      <item value="dest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
   </component>
