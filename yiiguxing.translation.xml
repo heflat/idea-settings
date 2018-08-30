@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compilation completed with 1 error and 0 warnings in 3 s 514 ms (moments ago)" />
       <item value="row" />
       <item value="行" />
       <item value="repeat" />
@@ -50,11 +51,10 @@
       <item value="who did came yesterday" />
       <item value="昨天谁来了" />
       <item value="who did who come yesterday" />
-      <item value="who did who come yesteday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
+        <entry key="CHINESE" value="21" />
         <entry key="ENGLISH" value="21" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
