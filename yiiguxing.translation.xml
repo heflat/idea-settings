@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hot Spot Intrinsic Candidate" />
       <item value="existing mapping for key" />
       <item value="FIXME change it to the project's website" />
       <item value="Compilation completed with 1 error and 0 warnings in 3 s 514 ms (moments ago)" />
@@ -50,12 +51,11 @@
       <item value="come" />
       <item value="who camed yesterday" />
       <item value="who came yesterday" />
-      <item value="who did came yesterday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
