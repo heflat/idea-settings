@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sale" />
       <item value="Autowired" />
       <item value="tmr" />
       <item value="Hot Spot Intrinsic Candidate" />
@@ -50,7 +51,6 @@
       <item value="what did change him" />
       <item value="what did what change him" />
       <item value="came" />
-      <item value="come" />
     </histories>
     <option name="languageScores">
       <map>
