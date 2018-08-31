@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable logging of SQL statements." />
+      <item value="priority Link" />
+      <item value="default Parameter" />
       <item value="sale" />
       <item value="Autowired" />
       <item value="tmr" />
@@ -48,14 +51,11 @@
       <item value="我看起来紧张吗？" />
       <item value="谁" />
       <item value="what changed him" />
-      <item value="what did change him" />
-      <item value="what did what change him" />
-      <item value="came" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
