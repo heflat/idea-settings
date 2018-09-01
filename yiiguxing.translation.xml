@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
       <item value="Probe" />
       <item value="Enable logging of SQL statements." />
       <item value="priority Link" />
@@ -50,12 +51,11 @@
       <item value="who is who going to learn english with me" />
       <item value="谁打算跟我一起学英语" />
       <item value="我看起来紧张吗？" />
-      <item value="谁" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
