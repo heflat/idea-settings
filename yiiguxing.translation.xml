@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connection.get Do Input()" />
+      <item value="!connection.get Do Output()" />
       <item value="factor" />
       <item value="refactor" />
       <item value="refactory" />
@@ -49,13 +51,11 @@
       <item value="who intends learn english with me" />
       <item value="who does intend learn english with me" />
       <item value="who does who intend learn english with me" />
-      <item value="who does who intend " />
-      <item value="who does who " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
