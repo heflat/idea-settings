@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="factor" />
+      <item value="refactor" />
+      <item value="refactory" />
       <item value="二进制" />
       <item value="十六进制" />
       <item value="八进制" />
@@ -48,13 +51,10 @@
       <item value="who does who intend learn english with me" />
       <item value="who does who intend " />
       <item value="who does who " />
-      <item value="who is who want learning english with me" />
-      <item value="who  who want learning english with me" />
-      <item value="who  who want learn english with me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
+        <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="30" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
