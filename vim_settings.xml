@@ -86,6 +86,9 @@
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/WebContent/WEB-INF/web.xml" timestamp="1530680749896">
         <mark key="'" line="122" column="8" />
       </file>
+      <file name="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" timestamp="1535957803583">
+        <mark key="'" line="180" column="66" />
+      </file>
       <file name="C:/heflat/workspace/idea/sell/src/main/java/com/heflat/sell/service/impl/ProductServiceImpl.java" timestamp="1530610686857">
         <mark key="'" line="63" column="36" />
       </file>
@@ -95,6 +98,9 @@
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/main/test/java/com/magtech/heflat/LocalTest.java" timestamp="1530749961464">
         <mark key="'" line="41" column="8" />
         <mark key="." line="29" column="63" />
+      </file>
+      <file name="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" timestamp="1535957760807">
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/WebContent/WEB-INF/struts-journal.xml" timestamp="1530777101228">
         <mark key="'" line="30" column="27" />
@@ -187,6 +193,16 @@
       <jump line="44" column="26" filename="D:/workspace/idea/pay-demo/src/test/java/com/heflat/paydemo/repository/ProductRepositoryTest.java" />
       <jump line="37" column="29" filename="D:/workspace/idea/pay-demo/src/test/java/com/heflat/paydemo/repository/ProductRepositoryTest.java" />
       <jump line="30" column="26" filename="D:/workspace/idea/pay-demo/src/test/java/com/heflat/paydemo/repository/ProductRepositoryTest.java" />
+      <jump line="103" column="5" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" />
+      <jump line="286" column="0" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" />
+      <jump line="49" column="4" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" />
+      <jump line="20" column="0" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" />
+      <jump line="19" column="0" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/Ref.java" />
+      <jump line="152" column="17" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
+      <jump line="174" column="23" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
+      <jump line="176" column="54" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
+      <jump line="179" column="28" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
+      <jump line="180" column="66" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -196,7 +212,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>productRepository</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvKlN0cmluZ1tdIGFyciA9IFN0cmluZ1V0aWxzLnNwbGl0KCIxLDIsMyw0LDUsIiwgIiwiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyKTsqLwo=</text>
@@ -233,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>productRepository</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>productRepository</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>11</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -256,6 +272,7 @@
         <entry>JournalListOrder</entry>
         <entry>product</entry>
         <entry>productRepository</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
