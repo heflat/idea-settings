@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invalid" />
       <item value="Artifact" />
       <item value="edit" />
       <item value="Connection timed out" />
@@ -50,11 +51,10 @@
       <item value="who saided" />
       <item value="who did saided" />
       <item value="who did said" />
-      <item value="who did say" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
