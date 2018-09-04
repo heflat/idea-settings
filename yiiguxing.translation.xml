@@ -1,25 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="采编" />
-      <item value="Journal Online" />
-      <item value="invalid" />
-      <item value="Artifact" />
-      <item value="edit" />
-      <item value="Connection timed out" />
-      <item value="connection.get Do Input()" />
-      <item value="!connection.get Do Output()" />
-      <item value="factor" />
-      <item value="refactor" />
-      <item value="refactory" />
-      <item value="二进制" />
-      <item value="十六进制" />
-      <item value="八进制" />
-      <item value="十进制" />
-      <item value="manu" />
-      <item value="menu" />
-      <item value="interview" />
-      <item value="面试" />
       <item value="fail" />
       <item value="算法" />
       <item value="capacity" />
@@ -51,11 +32,30 @@
       <item value="说" />
       <item value="who saied" />
       <item value="who saided" />
+      <item value="who did saided" />
+      <item value="who did said" />
+      <item value="who did say" />
+      <item value="who intends learn english with me" />
+      <item value="who does intend learn english with me" />
+      <item value="who does who intend learn english with me" />
+      <item value="who does who intend " />
+      <item value="who does who " />
+      <item value="who is who want learning english with me" />
+      <item value="who  who want learning english with me" />
+      <item value="who  who want learn english with me" />
+      <item value="who did who want learn english with me" />
+      <item value="who are who want learn english with me" />
+      <item value="who do who want learn english with me" />
+      <item value="who dp who want learn english with me" />
+      <item value="who is who want learn english with me" />
+      <item value="打算" />
+      <item value="who is going to learn english with me" />
+      <item value="who is who going to learn english with me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
