@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采编" />
+      <item value="Journal Online" />
       <item value="invalid" />
       <item value="Artifact" />
       <item value="edit" />
@@ -49,13 +51,11 @@
       <item value="说" />
       <item value="who saied" />
       <item value="who saided" />
-      <item value="who did saided" />
-      <item value="who did said" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
