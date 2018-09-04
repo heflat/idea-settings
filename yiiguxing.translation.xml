@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Artifact" />
+      <item value="edit" />
       <item value="Connection timed out" />
       <item value="connection.get Do Input()" />
       <item value="!connection.get Do Output()" />
@@ -49,13 +51,11 @@
       <item value="who did saided" />
       <item value="who did said" />
       <item value="who did say" />
-      <item value="who intends learn english with me" />
-      <item value="who does intend learn english with me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
