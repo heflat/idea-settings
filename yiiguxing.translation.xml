@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
+      <item value="PREFIX" />
       <item value="subscribe" />
       <item value="Optics" />
       <item value="picture" />
@@ -49,13 +51,11 @@
       <item value="who did who sayed" />
       <item value="who did who say" />
       <item value="who did who say\" />
-      <item value="who " />
-      <item value="说" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
