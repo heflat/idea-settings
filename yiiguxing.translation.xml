@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscribe" />
+      <item value="Optics" />
+      <item value="picture" />
+      <item value="image" />
+      <item value="car" />
+      <item value="film" />
+      <item value="cinema" />
+      <item value="movie" />
+      <item value="picture show" />
+      <item value="moice" />
+      <item value="影视" />
+      <item value="anime" />
+      <item value="动漫" />
+      <item value="阿尼玛" />
+      <item value="animation" />
+      <item value="动画" />
+      <item value="pulppixel22" />
       <item value="waves" />
       <item value="任务运行中" />
       <item value="TASK RUNNING" />
@@ -34,28 +51,11 @@
       <item value="who did who say\" />
       <item value="who " />
       <item value="说" />
-      <item value="who saied" />
-      <item value="who saided" />
-      <item value="who did saided" />
-      <item value="who did said" />
-      <item value="who did say" />
-      <item value="who intends learn english with me" />
-      <item value="who does intend learn english with me" />
-      <item value="who does who intend learn english with me" />
-      <item value="who does who intend " />
-      <item value="who does who " />
-      <item value="who is who want learning english with me" />
-      <item value="who  who want learning english with me" />
-      <item value="who  who want learn english with me" />
-      <item value="who did who want learn english with me" />
-      <item value="who are who want learn english with me" />
-      <item value="who do who want learn english with me" />
-      <item value="who dp who want learn english with me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
