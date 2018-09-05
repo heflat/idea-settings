@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="waves" />
       <item value="任务运行中" />
       <item value="TASK RUNNING" />
       <item value="Could not parse as expression" />
@@ -50,11 +51,10 @@
       <item value="who are who want learn english with me" />
       <item value="who do who want learn english with me" />
       <item value="who dp who want learn english with me" />
-      <item value="who is who want learn english with me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
+        <entry key="CHINESE" value="31" />
         <entry key="ENGLISH" value="31" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
