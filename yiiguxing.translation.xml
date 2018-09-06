@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="component" />
+      <item value="Component" />
       <item value="月内" />
       <item value="一周内" />
       <item value="周内" />
@@ -49,13 +51,11 @@
       <item value="scope based" />
       <item value="are not you eat at home" />
       <item value="do not you eat at home" />
-      <item value="who said" />
-      <item value="who sayed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
