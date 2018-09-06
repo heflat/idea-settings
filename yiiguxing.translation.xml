@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purchase" />
       <item value="fly" />
       <item value="optimize import on thy fly" />
       <item value="optimize" />
@@ -50,13 +51,12 @@
       <item value="row" />
       <item value="行" />
       <item value="repeat" />
-      <item value="已经" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
+        <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="36" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
   </component>
