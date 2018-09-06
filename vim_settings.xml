@@ -17,6 +17,9 @@
         <mark key="." line="21" column="67" />
         <mark key="^" line="21" column="67" />
       </file>
+      <file name="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/baidu/AnalysisVerifyForm.java" timestamp="1536197755463">
+        <mark key="'" line="25" column="47" />
+      </file>
       <file name="D:/Workspace/idea/hep/WebContent/WEB-INF/struts-article-cn.xml" timestamp="1528440648497">
         <mark key="'" line="40" column="22" />
       </file>
@@ -46,12 +49,6 @@
       </file>
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/JournalInfoEditAction.java" timestamp="1530777158010">
         <mark key="'" line="246" column="19" />
-      </file>
-      <file name="D:/idea/sxs/sxs/src/main/java/com/thinkgem/jeesite/modules/cms/web/front/FrontController.java" timestamp="1516000911030">
-        <mark key="'" line="260" column="62" />
-        <mark key="]" line="260" column="62" />
-        <mark key="^" line="260" column="62" />
-        <mark key="." line="260" column="62" />
       </file>
       <file name="D:/idea/sxs/sxs/src/main/java/com/lee/modules/info/web/front/FrontIrInfoController.java" timestamp="1515999693187">
         <mark key="'" line="30" column="7" />
@@ -203,6 +200,7 @@
       <jump line="176" column="54" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
       <jump line="179" column="28" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
       <jump line="180" column="66" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
+      <jump line="25" column="47" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/baidu/AnalysisVerifyForm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
