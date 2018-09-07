@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开始" />
+      <item value="Letters" />
       <item value="priority" />
       <item value="purchase" />
       <item value="fly" />
@@ -49,13 +51,11 @@
       <item value="existing mapping for key" />
       <item value="FIXME change it to the project's website" />
       <item value="Compilation completed with 1 error and 0 warnings in 3 s 514 ms (moments ago)" />
-      <item value="row" />
-      <item value="行" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
