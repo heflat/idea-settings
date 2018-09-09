@@ -1,8 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="first latter only" />
-      <item value="latter" />
       <item value="required" />
       <item value="off Sale" />
       <item value="fail" />
@@ -51,6 +49,8 @@
       <item value="who are who want learn english with me" />
       <item value="who do who want learn english with me" />
       <item value="who dp who want learn english with me" />
+      <item value="who is who want learn english with me" />
+      <item value="打算" />
     </histories>
     <option name="languageScores">
       <map>
