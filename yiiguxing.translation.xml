@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="could not extract ResultSet" />
       <item value="start search" />
       <item value="is foucs" />
       <item value="search box" />
@@ -50,12 +51,11 @@
       <item value="waves" />
       <item value="任务运行中" />
       <item value="TASK RUNNING" />
-      <item value="Could not parse as expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
