@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bottom" />
       <item value="容器" />
       <item value="Access can be private" />
       <item value="开始" />
@@ -50,12 +51,11 @@
       <item value="Autowired" />
       <item value="tmr" />
       <item value="Hot Spot Intrinsic Candidate" />
-      <item value="existing mapping for key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
