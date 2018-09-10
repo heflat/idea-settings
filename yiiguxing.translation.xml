@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start search" />
+      <item value="is foucs" />
+      <item value="search box" />
+      <item value="box" />
+      <item value="check input box" />
+      <item value="输入框" />
+      <item value="文本框" />
+      <item value="pages init" />
+      <item value="keyboard event" />
       <item value="For input string" />
       <item value="Illegal hex characters in escape" />
       <item value="bottom" />
@@ -42,20 +51,11 @@
       <item value="任务运行中" />
       <item value="TASK RUNNING" />
       <item value="Could not parse as expression" />
-      <item value="fail" />
-      <item value="算法" />
-      <item value="capacity" />
-      <item value="Probe" />
-      <item value="Enable logging of SQL statements." />
-      <item value="priority Link" />
-      <item value="default Parameter" />
-      <item value="sale" />
-      <item value="Autowired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
