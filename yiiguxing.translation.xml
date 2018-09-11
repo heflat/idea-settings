@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标准" />
       <item value="计时" />
       <item value="wechat mp article css style custom." />
       <item value="try to take over the world!" />
@@ -50,7 +51,6 @@
       <item value="动漫" />
       <item value="阿尼玛" />
       <item value="animation" />
-      <item value="动画" />
     </histories>
     <option name="languageScores">
       <map>
