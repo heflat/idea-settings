@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="停用" />
       <item value="Page index must not be less than zero!" />
       <item value="开始" />
       <item value="failed" />
@@ -50,7 +51,6 @@
       <item value="picture" />
       <item value="image" />
       <item value="car" />
-      <item value="film" />
     </histories>
     <option name="languageScores">
       <map>
