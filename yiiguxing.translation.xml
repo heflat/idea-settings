@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="开始" />
       <item value="failed" />
       <item value="fail" />
       <item value="thyme leaf" />
@@ -29,7 +30,6 @@
       <item value="bottom" />
       <item value="容器" />
       <item value="Access can be private" />
-      <item value="开始" />
       <item value="Letters" />
       <item value="priority" />
       <item value="purchase" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
