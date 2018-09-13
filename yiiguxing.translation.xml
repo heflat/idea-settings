@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="!user.get Role().equals(User Role Enum.CUSTOMER)" />
+      <item value="启用" />
       <item value="disableed" />
       <item value="disable" />
       <item value="停用" />
@@ -49,13 +51,11 @@
       <item value="前缀" />
       <item value="PREFIX" />
       <item value="subscribe" />
-      <item value="Optics" />
-      <item value="picture" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
