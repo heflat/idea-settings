@@ -1,13 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="producer" />
-      <item value="验证码" />
-      <item value="登录超时" />
-      <item value="repassword" />
-      <item value="Drifting Away" />
-      <item value="edit" />
-      <item value="editor" />
       <item value="!user.get Role().equals(User Role Enum.CUSTOMER)" />
       <item value="启用" />
       <item value="disableed" />
@@ -51,11 +44,18 @@
       <item value="optimize" />
       <item value="opti,ize" />
       <item value="component" />
+      <item value="Component" />
+      <item value="月内" />
+      <item value="一周内" />
+      <item value="周内" />
+      <item value="前缀" />
+      <item value="PREFIX" />
+      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
