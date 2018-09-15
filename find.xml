@@ -27,8 +27,8 @@
     <mask>*vm</mask>
     <mask>*java</mask>
     <mask>*ftl</mask>
-    <mask>*html</mask>
     <mask>*xml</mask>
+    <mask>*html</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
