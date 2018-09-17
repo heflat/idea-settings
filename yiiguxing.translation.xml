@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deletions" />
+      <item value="deletetions" />
+      <item value="insertions" />
+      <item value="insertion" />
+      <item value="MINUTE OF SECOND" />
       <item value="hours" />
       <item value="hour" />
       <item value="minute of second" />
@@ -46,16 +51,11 @@
       <item value="box" />
       <item value="check input box" />
       <item value="输入框" />
-      <item value="文本框" />
-      <item value="pages init" />
-      <item value="keyboard event" />
-      <item value="For input string" />
-      <item value="Illegal hex characters in escape" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="49" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
