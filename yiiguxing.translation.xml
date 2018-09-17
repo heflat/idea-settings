@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable" />
       <item value="Just a professional make errors programmer." />
       <item value="组合" />
       <item value="进度" />
@@ -50,7 +51,6 @@
       <item value="film" />
       <item value="cinema" />
       <item value="movie" />
-      <item value="picture show" />
     </histories>
     <option name="languageScores">
       <map>
