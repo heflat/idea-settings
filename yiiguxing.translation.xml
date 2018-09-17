@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Period" />
+      <item value="Inter" />
       <item value="Interval" />
+      <item value="Period" />
       <item value="分" />
       <item value="seconds" />
       <item value="second" />
@@ -50,12 +51,11 @@
       <item value="fly" />
       <item value="optimize import on thy fly" />
       <item value="optimize" />
-      <item value="opti,ize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
