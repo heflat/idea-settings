@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hours" />
+      <item value="hour" />
+      <item value="minute of second" />
+      <item value="秒" />
+      <item value="描述" />
+      <item value="date" />
+      <item value="total Hours" />
+      <item value="总" />
+      <item value="day of hours" />
       <item value="Inter" />
       <item value="Interval" />
       <item value="Period" />
@@ -42,20 +51,11 @@
       <item value="keyboard event" />
       <item value="For input string" />
       <item value="Illegal hex characters in escape" />
-      <item value="bottom" />
-      <item value="容器" />
-      <item value="Access can be private" />
-      <item value="Letters" />
-      <item value="priority" />
-      <item value="purchase" />
-      <item value="fly" />
-      <item value="optimize import on thy fly" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
