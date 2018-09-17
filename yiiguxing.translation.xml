@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefix" />
+      <item value="perfix" />
       <item value="deletions" />
       <item value="deletetions" />
       <item value="insertions" />
@@ -49,8 +51,6 @@
       <item value="is foucs" />
       <item value="search box" />
       <item value="box" />
-      <item value="check input box" />
-      <item value="输入框" />
     </histories>
     <option name="languageScores">
       <map>
