@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.magtech.refsearch.vo.ResultVO' more... (Ctrl+F1)" />
       <item value="!user.get Role().equals(User Role Enum.CUSTOMER)" />
       <item value="启用" />
       <item value="disableed" />
@@ -50,11 +51,10 @@
       <item value="周内" />
       <item value="前缀" />
       <item value="PREFIX" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
+        <entry key="CHINESE" value="37" />
         <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
