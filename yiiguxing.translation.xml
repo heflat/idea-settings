@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="detach" />
       <item value="prefix" />
       <item value="perfix" />
       <item value="deletions" />
@@ -50,12 +51,11 @@
       <item value="start search" />
       <item value="is foucs" />
       <item value="search box" />
-      <item value="box" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
