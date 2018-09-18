@@ -1,10 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="darling" />
-      <item value="DARLING" />
-      <item value="select none" />
-      <item value="diagram" />
       <item value="detach" />
       <item value="prefix" />
       <item value="perfix" />
@@ -51,10 +47,14 @@
       <item value="wechat mp article css style custom." />
       <item value="try to take over the world!" />
       <item value="comma" />
+      <item value="could not extract ResultSet" />
+      <item value="start search" />
+      <item value="is foucs" />
+      <item value="search box" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
