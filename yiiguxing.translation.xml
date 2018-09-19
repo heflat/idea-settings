@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FAILURE" />
       <item value="SNAPSHOT" />
       <item value="个人信息" />
       <item value="Unresolved function or method $()" />
@@ -50,11 +51,10 @@
       <item value="end Date Time" />
       <item value="标准" />
       <item value="计时" />
-      <item value="wechat mp article css style custom." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="55" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
