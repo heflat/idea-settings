@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Removes this node from its parent if there is one" />
       <item value="guy" />
       <item value="detach" />
-      <item value="Removes this node from its parent if there is one" />
       <item value="SNAPSHOT" />
       <item value="个人信息" />
       <item value="Unresolved function or method $()" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
