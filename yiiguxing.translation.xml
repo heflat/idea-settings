@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="close Model" />
+      <item value="shadow" />
       <item value="'StringBuffer param' can be replaced with 'String' more... (Ctrl+F1" />
       <item value="presentation mode" />
       <item value="presentation" />
@@ -49,13 +51,11 @@
       <item value="Inferred annotations available. Full signature:" />
       <item value="!user.get Role().equals(User Role Enum.CUSTOMER)" />
       <item value="启用" />
-      <item value="disableed" />
-      <item value="disable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
