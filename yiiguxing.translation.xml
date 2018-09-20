@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse Element" />
+      <item value="Xml Writeback Util" />
+      <item value="Writeback" />
+      <item value="回写" />
       <item value="supplement" />
       <item value="Spring Boot Multiple modules Project" />
       <item value="多模块" />
@@ -47,15 +51,11 @@
       <item value="开始" />
       <item value="failed" />
       <item value="fail" />
-      <item value="thyme leaf" />
-      <item value="组合" />
-      <item value="进度" />
-      <item value="cost Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
