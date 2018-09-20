@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="children" />
+      <item value="child" />
+      <item value="destination" />
+      <item value="dest" />
+      <item value="compress" />
+      <item value="压缩" />
+      <item value="export" />
+      <item value="Tale" />
+      <item value="shadow" />
+      <item value="确认" />
+      <item value="ask" />
+      <item value="success" />
+      <item value="询问" />
+      <item value="感叹号" />
+      <item value="疑问" />
+      <item value="hint" />
+      <item value="modal" />
+      <item value="dialog" />
+      <item value="model" />
+      <item value="提示" />
       <item value="Just a professional make errors programmer." />
       <item value="组合" />
       <item value="进度" />
@@ -31,32 +51,14 @@
       <item value="Letters" />
       <item value="priority" />
       <item value="purchase" />
-      <item value="fly" />
-      <item value="optimize import on thy fly" />
-      <item value="optimize" />
-      <item value="opti,ize" />
-      <item value="component" />
-      <item value="Component" />
-      <item value="月内" />
-      <item value="一周内" />
-      <item value="周内" />
-      <item value="前缀" />
-      <item value="PREFIX" />
-      <item value="subscribe" />
-      <item value="Optics" />
-      <item value="picture" />
-      <item value="image" />
-      <item value="car" />
-      <item value="film" />
-      <item value="cinema" />
-      <item value="movie" />
-      <item value="picture show" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="KURDISH" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
