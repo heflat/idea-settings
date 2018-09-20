@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'StringBuffer param' can be replaced with 'String' more... (Ctrl+F1" />
       <item value="presentation mode" />
       <item value="presentation" />
       <item value="演示模式" />
@@ -50,7 +51,6 @@
       <item value="启用" />
       <item value="disableed" />
       <item value="disable" />
-      <item value="停用" />
     </histories>
     <option name="languageScores">
       <map>
