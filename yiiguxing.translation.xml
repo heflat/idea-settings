@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="presentation mode" />
+      <item value="presentation" />
+      <item value="演示模式" />
+      <item value="演示" />
       <item value="parse Element" />
       <item value="Xml Writeback Util" />
       <item value="Writeback" />
@@ -47,14 +51,10 @@
       <item value="disableed" />
       <item value="disable" />
       <item value="停用" />
-      <item value="Page index must not be less than zero!" />
-      <item value="开始" />
-      <item value="failed" />
-      <item value="fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
