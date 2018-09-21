@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decompression" />
+      <item value="compression" />
+      <item value="解压缩" />
+      <item value="CompressionUtil" />
+      <item value="Compression" />
       <item value="children" />
       <item value="child" />
       <item value="destination" />
@@ -46,16 +51,11 @@
       <item value="Illegal hex characters in escape" />
       <item value="bottom" />
       <item value="容器" />
-      <item value="Access can be private" />
-      <item value="开始" />
-      <item value="Letters" />
-      <item value="priority" />
-      <item value="purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
