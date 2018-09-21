@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="touch" />
+      <item value="don't touch me" />
       <item value="life is a struggle" />
       <item value="life is astruggle" />
       <item value="struggle" />
@@ -49,8 +51,6 @@
       <item value="end Date Time" />
       <item value="标准" />
       <item value="计时" />
-      <item value="wechat mp article css style custom." />
-      <item value="try to take over the world!" />
     </histories>
     <option name="languageScores">
       <map>
