@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mock Diff" />
+      <item value="Mock" />
+      <item value="order Product Mock Diff User" />
+      <item value="skill" />
+      <item value="kill" />
+      <item value="sec kill" />
+      <item value="Sec Kill" />
+      <item value="秒杀" />
+      <item value="Seckill" />
       <item value="children" />
       <item value="child" />
       <item value="destination" />
@@ -42,20 +51,11 @@
       <item value="文本框" />
       <item value="pages init" />
       <item value="keyboard event" />
-      <item value="For input string" />
-      <item value="Illegal hex characters in escape" />
-      <item value="bottom" />
-      <item value="容器" />
-      <item value="Access can be private" />
-      <item value="开始" />
-      <item value="Letters" />
-      <item value="priority" />
-      <item value="purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
