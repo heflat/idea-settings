@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preservation" />
       <item value="discovery" />
       <item value="discavery" />
       <item value="eureka" />
@@ -50,12 +51,11 @@
       <item value="Illegal hex characters in escape" />
       <item value="bottom" />
       <item value="容器" />
-      <item value="Access can be private" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
