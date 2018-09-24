@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unchecked assignment: 'com.heflat.product.vo.ResultVO' to 'com.heflat.product.vo.ResultVO&lt;com.heflat.product.vo.ProductVO&gt;' more... (Ctrl+F1" />
       <item value="Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient'" />
       <item value="preservation" />
       <item value="discovery" />
@@ -50,11 +51,10 @@
       <item value="keyboard event" />
       <item value="For input string" />
       <item value="Illegal hex characters in escape" />
-      <item value="bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
