@@ -1,23 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="disconnect" />
-      <item value="terminate" />
-      <item value="termina" />
-      <item value="WAITING" />
-      <item value="排队" />
-      <item value="SEC KILL_" />
-      <item value="longest request" />
-      <item value="SEC KILL END" />
-      <item value="Mock Diff" />
-      <item value="Mock" />
-      <item value="order Product Mock Diff User" />
-      <item value="skill" />
-      <item value="kill" />
-      <item value="sec kill" />
-      <item value="Sec Kill" />
-      <item value="秒杀" />
-      <item value="Seckill" />
       <item value="children" />
       <item value="child" />
       <item value="destination" />
@@ -51,11 +34,28 @@
       <item value="comma" />
       <item value="could not extract ResultSet" />
       <item value="start search" />
+      <item value="is foucs" />
+      <item value="search box" />
+      <item value="box" />
+      <item value="check input box" />
+      <item value="输入框" />
+      <item value="文本框" />
+      <item value="pages init" />
+      <item value="keyboard event" />
+      <item value="For input string" />
+      <item value="Illegal hex characters in escape" />
+      <item value="bottom" />
+      <item value="容器" />
+      <item value="Access can be private" />
+      <item value="开始" />
+      <item value="Letters" />
+      <item value="priority" />
+      <item value="purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
