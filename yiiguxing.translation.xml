@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redundant" />
+      <item value="Unable to close ApplicationContext" />
       <item value="feign" />
       <item value="fign" />
       <item value="fing" />
@@ -49,13 +51,11 @@
       <item value="box" />
       <item value="check input box" />
       <item value="输入框" />
-      <item value="文本框" />
-      <item value="pages init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
