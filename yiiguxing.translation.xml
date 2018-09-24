@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="less" />
       <item value="children" />
       <item value="child" />
       <item value="destination" />
@@ -50,11 +51,10 @@
       <item value="开始" />
       <item value="Letters" />
       <item value="priority" />
-      <item value="purchase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
