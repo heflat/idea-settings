@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable template caching." />
       <item value="fail" />
       <item value="confirm" />
       <item value="touch" />
@@ -50,12 +51,11 @@
       <item value="进度" />
       <item value="cost Time" />
       <item value="结束" />
-      <item value="end Date Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
