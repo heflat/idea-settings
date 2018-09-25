@@ -1,7 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="prod" />
       <item value="touch" />
       <item value="don't touch me" />
       <item value="life is a struggle" />
@@ -51,6 +50,7 @@
       <item value="结束" />
       <item value="end Date Time" />
       <item value="标准" />
+      <item value="计时" />
     </histories>
     <option name="languageScores">
       <map>
