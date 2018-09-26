@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="隐藏" />
+      <item value="Note" />
+      <item value="note" />
+      <item value="注" />
+      <item value="wait remove" />
+      <item value="wait" />
+      <item value="waitremove" />
+      <item value="mobile disk" />
+      <item value="mobiledisk" />
       <item value="Java programmer" />
       <item value="Java 程序员" />
       <item value="A java programmer" />
@@ -42,20 +51,11 @@
       <item value="export" />
       <item value="Tale" />
       <item value="shadow" />
-      <item value="确认" />
-      <item value="ask" />
-      <item value="success" />
-      <item value="询问" />
-      <item value="感叹号" />
-      <item value="疑问" />
-      <item value="hint" />
-      <item value="modal" />
-      <item value="dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
