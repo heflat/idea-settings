@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Java programmer" />
+      <item value="Java 程序员" />
+      <item value="A java programmer" />
+      <item value="A Java programmer" />
+      <item value="programmer" />
+      <item value="程序员" />
       <item value="id" />
       <item value="Enable template caching." />
       <item value="fail" />
@@ -45,18 +51,13 @@
       <item value="hint" />
       <item value="modal" />
       <item value="dialog" />
-      <item value="model" />
-      <item value="提示" />
-      <item value="Just a professional make errors programmer." />
-      <item value="组合" />
-      <item value="进度" />
-      <item value="cost Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
