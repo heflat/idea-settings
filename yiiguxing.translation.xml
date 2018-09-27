@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
       <item value="mailto" />
       <item value="envelope" />
       <item value="隐藏" />
@@ -50,7 +51,6 @@
       <item value="dest" />
       <item value="compress" />
       <item value="压缩" />
-      <item value="export" />
     </histories>
     <option name="languageScores">
       <map>
