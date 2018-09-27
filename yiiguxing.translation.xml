@@ -1,62 +1,63 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="redundant" />
-      <item value="Unable to close ApplicationContext" />
-      <item value="feign" />
-      <item value="fign" />
-      <item value="fing" />
-      <item value="Unchecked assignment: 'com.heflat.product.vo.ResultVO' to 'com.heflat.product.vo.ResultVO&lt;com.heflat.product.vo.ProductVO&gt;' more... (Ctrl+F1" />
-      <item value="Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient'" />
-      <item value="preservation" />
-      <item value="discovery" />
-      <item value="discavery" />
-      <item value="eureka" />
-      <item value="less" />
-      <item value="children" />
-      <item value="child" />
-      <item value="destination" />
-      <item value="dest" />
-      <item value="compress" />
-      <item value="压缩" />
-      <item value="export" />
-      <item value="Tale" />
-      <item value="shadow" />
-      <item value="确认" />
-      <item value="ask" />
-      <item value="success" />
-      <item value="询问" />
-      <item value="感叹号" />
-      <item value="疑问" />
-      <item value="hint" />
-      <item value="modal" />
-      <item value="dialog" />
-      <item value="model" />
-      <item value="提示" />
-      <item value="Just a professional make errors programmer." />
-      <item value="组合" />
-      <item value="进度" />
-      <item value="cost Time" />
-      <item value="结束" />
-      <item value="end Date Time" />
-      <item value="标准" />
-      <item value="计时" />
-      <item value="wechat mp article css style custom." />
-      <item value="try to take over the world!" />
-      <item value="comma" />
-      <item value="could not extract ResultSet" />
-      <item value="start search" />
-      <item value="is foucs" />
-      <item value="search box" />
-      <item value="box" />
-      <item value="check input box" />
-      <item value="输入框" />
+      <item value="deploy done" />
+      <item value="deploy" />
+      <item value="auto detect" />
+      <item value="auto_detect" />
+      <item value="detect" />
+      <item value="eighties" />
+      <item value="ipAddress == null || ipAddress.length() == 0" />
+      <item value="The" />
+      <item value="the" />
+      <item value="external" />
+      <item value="mailto" />
+      <item value="envelope" />
+      <item value="隐藏" />
+      <item value="Note" />
+      <item value="note" />
+      <item value="注" />
+      <item value="wait remove" />
+      <item value="wait" />
+      <item value="waitremove" />
+      <item value="mobile disk" />
+      <item value="mobiledisk" />
+      <item value="Java programmer" />
+      <item value="Java 程序员" />
+      <item value="A java programmer" />
+      <item value="A Java programmer" />
+      <item value="programmer" />
+      <item value="程序员" />
+      <item value="id" />
+      <item value="Enable template caching." />
+      <item value="fail" />
+      <item value="confirm" />
+      <item value="touch" />
+      <item value="don't touch me" />
+      <item value="life is a struggle" />
+      <item value="life is astruggle" />
+      <item value="struggle" />
+      <item value="raise" />
+      <item value="you raise me up" />
+      <item value="my heart willl go on" />
+      <item value="My heart willl go on" />
+      <item value="heart" />
+      <item value="will" />
+      <item value="will go on" />
+      <item value="my heart will go on" />
+      <item value="Component" />
+      <item value="产品" />
+      <item value="Result of 'File.mkdirs()' is ignored" />
+      <item value="'try' can use automatic resource management more... (Ctrl+F1)" />
+      <item value="decompression" />
+      <item value="compression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
