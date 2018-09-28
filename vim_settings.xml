@@ -19,6 +19,9 @@
       <file name="C:/heflat/workspace/idea/svn/wkxt-pc/tags/3.3.1/wkxt3/src/com/wkxt/journal/web/action/JournalInfoEditAction.java" timestamp="1530777158010">
         <mark key="'" line="246" column="19" />
       </file>
+      <file name="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" timestamp="1538102868602">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="D:/idea/sxs/sxs/src/main/java/com/lee/modules/info/web/front/FrontIrInfoController.java" timestamp="1515999693187">
         <mark key="'" line="30" column="7" />
       </file>
@@ -206,6 +209,8 @@
       <jump line="179" column="28" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
       <jump line="180" column="66" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/service/XmlAnalysisServiceTest.java" />
       <jump line="25" column="47" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/baidu/AnalysisVerifyForm.java" />
+      <jump line="14" column="6" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
+      <jump line="7" column="0" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
