@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicated" />
+      <item value="duplicate" />
+      <item value="depulicated" />
+      <item value="depulicate" />
       <item value="'StringBuffer param' may be declared as 'StringBuilder'" />
       <item value="'StringBuffer param' can be replaced with 'String'" />
       <item value="'response.indexOf(tagName) != -1' can be replaced with 'response.contains(tagName)' more... (Ctrl+F1)" />
@@ -47,10 +51,6 @@
       <item value="struggle" />
       <item value="raise" />
       <item value="you raise me up" />
-      <item value="my heart willl go on" />
-      <item value="My heart willl go on" />
-      <item value="heart" />
-      <item value="will" />
     </histories>
     <option name="languageScores">
       <map>
