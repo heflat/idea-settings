@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fill" />
       <item value="backend" />
       <item value="front" />
       <item value="Unable to close ApplicationContext" />
@@ -50,7 +51,6 @@
       <item value="will go on" />
       <item value="my heart will go on" />
       <item value="Component" />
-      <item value="产品" />
     </histories>
     <option name="languageScores">
       <map>
