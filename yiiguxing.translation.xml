@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to close ApplicationContext" />
+      <item value="Failed to introspect Class" />
       <item value="deploy done" />
       <item value="deploy" />
       <item value="auto detect" />
@@ -49,13 +51,11 @@
       <item value="产品" />
       <item value="Result of 'File.mkdirs()' is ignored" />
       <item value="'try' can use automatic resource management more... (Ctrl+F1)" />
-      <item value="decompression" />
-      <item value="compression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
