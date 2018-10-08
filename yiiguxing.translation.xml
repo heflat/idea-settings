@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guillermo" />
       <item value="ids for this class must be manually assigned before calling save(" />
       <item value="in seconds" />
       <item value="Specifies the time" />
@@ -50,15 +51,15 @@
       <item value="A java programmer" />
       <item value="A Java programmer" />
       <item value="programmer" />
-      <item value="程序员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
