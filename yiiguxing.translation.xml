@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bottom" />
+      <item value="lower" />
+      <item value="low" />
+      <item value="lo" />
+      <item value="下部分" />
+      <item value="upper" />
+      <item value="up" />
+      <item value="上部分" />
       <item value="extern" />
       <item value="viewport" />
       <item value="Guillermo" />
@@ -43,19 +51,11 @@
       <item value="Note" />
       <item value="note" />
       <item value="注" />
-      <item value="wait remove" />
-      <item value="wait" />
-      <item value="waitremove" />
-      <item value="mobile disk" />
-      <item value="mobiledisk" />
-      <item value="Java programmer" />
-      <item value="Java 程序员" />
-      <item value="A java programmer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
