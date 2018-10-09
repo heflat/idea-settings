@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*ftl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
@@ -22,10 +22,10 @@
     <mask>*jsp</mask>
     <mask>*vm</mask>
     <mask>*java</mask>
-    <mask>*ftl</mask>
     <mask>*xml</mask>
     <mask>*html</mask>
     <mask>*</mask>
     <mask>*</mask>
+    <mask>*ftl</mask>
   </component>
 </application>
