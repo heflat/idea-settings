@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'@Transient' not applicable to field" />
+      <item value="dispal" />
+      <item value="unknown directive &quot;ssl&quot; in /usr/local/nginx/conf/nginx.conf:121" />
+      <item value="bottom" />
+      <item value="lower" />
+      <item value="low" />
+      <item value="lo" />
+      <item value="下部分" />
+      <item value="upper" />
+      <item value="up" />
+      <item value="上部分" />
+      <item value="extern" />
+      <item value="viewport" />
+      <item value="Guillermo" />
+      <item value="ids for this class must be manually assigned before calling save(" />
+      <item value="in seconds" />
+      <item value="Specifies the time" />
+      <item value="set Max Inactive Interval" />
+      <item value="An integer specifying the number of seconds" />
       <item value="识别" />
       <item value="the CharSequence to check, may be null" />
       <item value="is Numeric" />
@@ -32,33 +51,16 @@
       <item value="mailto" />
       <item value="envelope" />
       <item value="隐藏" />
-      <item value="Note" />
-      <item value="note" />
-      <item value="注" />
-      <item value="wait remove" />
-      <item value="wait" />
-      <item value="waitremove" />
-      <item value="mobile disk" />
-      <item value="mobiledisk" />
-      <item value="Java programmer" />
-      <item value="Java 程序员" />
-      <item value="A java programmer" />
-      <item value="A Java programmer" />
-      <item value="programmer" />
-      <item value="程序员" />
-      <item value="id" />
-      <item value="Enable template caching." />
-      <item value="fail" />
-      <item value="confirm" />
-      <item value="touch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>

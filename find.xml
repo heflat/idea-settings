@@ -22,9 +22,9 @@
     <mask>*jsp</mask>
     <mask>*vm</mask>
     <mask>*java</mask>
-    <mask>*ftl</mask>
     <mask>*xml</mask>
     <mask>*html</mask>
+    <mask>*ftl</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
