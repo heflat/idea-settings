@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selector matches unknown element function" />
       <item value="windows top" />
       <item value="on top" />
       <item value="top" />
@@ -50,7 +51,6 @@
       <item value="eighties" />
       <item value="ipAddress == null || ipAddress.length() == 0" />
       <item value="The" />
-      <item value="the" />
     </histories>
     <option name="languageScores">
       <map>
