@@ -26,8 +26,8 @@
     <mask>*xml</mask>
     <mask>*html</mask>
     <mask>*ftl</mask>
-    <mask>*</mask>
     <mask>*java</mask>
+    <mask>*</mask>
     <mask>*</mask>
   </component>
 </application>
