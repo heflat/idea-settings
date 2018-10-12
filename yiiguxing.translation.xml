@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrong number of type arguments: 1; required: 2" />
       <item value="单个" />
       <item value="multiple ORDER BY" />
       <item value="Set&lt;String&gt; multiple_ORDER_BY" />
@@ -50,11 +51,10 @@
       <item value="An integer specifying the number of seconds" />
       <item value="识别" />
       <item value="the CharSequence to check, may be null" />
-      <item value="is Numeric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
