@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array Index Out Of Bounds Exception" />
       <item value="No qualifying bean of type 'heflat' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations" />
       <item value="No qualifying bean of type" />
       <item value="权限" />
@@ -50,12 +51,11 @@
       <item value="'StringBuffer param' can be replaced with 'String'" />
       <item value="'response.indexOf(tagName) != -1' can be replaced with 'response.contains(tagName)' more... (Ctrl+F1)" />
       <item value="fill" />
-      <item value="backend" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
