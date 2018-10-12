@@ -21,10 +21,10 @@
     <mask>*pom.xml</mask>
     <mask>*jsp</mask>
     <mask>*vm</mask>
-    <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*html</mask>
     <mask>*ftl</mask>
+    <mask>*java</mask>
     <mask>*</mask>
     <mask>*</mask>
   </component>
