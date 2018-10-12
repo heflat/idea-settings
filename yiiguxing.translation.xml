@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单个" />
+      <item value="multiple ORDER BY" />
+      <item value="Set&lt;String&gt; multiple_ORDER_BY" />
+      <item value="多个" />
+      <item value="等待" />
       <item value="book" />
       <item value="note" />
       <item value="账本" />
@@ -46,16 +51,11 @@
       <item value="识别" />
       <item value="the CharSequence to check, may be null" />
       <item value="is Numeric" />
-      <item value="数字" />
-      <item value="Referenced" />
-      <item value="since" />
-      <item value="duplicated" />
-      <item value="duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
