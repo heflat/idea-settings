@@ -1,37 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="article.get Author()" />
-      <item value="Unknown column 'year' in 'order clause'" />
-      <item value="Wrong number of type arguments: 1; required: 2" />
-      <item value="单个" />
-      <item value="multiple ORDER BY" />
-      <item value="Set&lt;String&gt; multiple_ORDER_BY" />
-      <item value="多个" />
-      <item value="等待" />
-      <item value="book" />
-      <item value="note" />
-      <item value="账本" />
-      <item value="类目" />
-      <item value="类别" />
-      <item value="列表" />
-      <item value="Array Index Out Of Bounds Exception" />
-      <item value="No qualifying bean of type 'heflat' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations" />
-      <item value="No qualifying bean of type" />
-      <item value="权限" />
-      <item value="零" />
-      <item value="Duplicate entry '' for key 'PRIMARY'" />
-      <item value="添加修改" />
-      <item value="Increase" />
-      <item value="增改" />
-      <item value="you can still add it later manually" />
-      <item value="modules" />
-      <item value="module" />
-      <item value="Selector matches unknown element function" />
-      <item value="windows top" />
-      <item value="on top" />
-      <item value="top" />
-      <item value="Comparison keyword.trim() != '' may cause unexpected type coercion" />
       <item value="'@Transient' not applicable to field" />
       <item value="dispal" />
       <item value="unknown directive &quot;ssl&quot; in /usr/local/nginx/conf/nginx.conf:121" />
@@ -51,11 +20,42 @@
       <item value="Specifies the time" />
       <item value="set Max Inactive Interval" />
       <item value="An integer specifying the number of seconds" />
+      <item value="识别" />
+      <item value="the CharSequence to check, may be null" />
+      <item value="is Numeric" />
+      <item value="数字" />
+      <item value="Referenced" />
+      <item value="since" />
+      <item value="duplicated" />
+      <item value="duplicate" />
+      <item value="depulicated" />
+      <item value="depulicate" />
+      <item value="'StringBuffer param' may be declared as 'StringBuilder'" />
+      <item value="'StringBuffer param' can be replaced with 'String'" />
+      <item value="'response.indexOf(tagName) != -1' can be replaced with 'response.contains(tagName)' more... (Ctrl+F1)" />
+      <item value="fill" />
+      <item value="backend" />
+      <item value="front" />
+      <item value="Unable to close ApplicationContext" />
+      <item value="Failed to introspect Class" />
+      <item value="deploy done" />
+      <item value="deploy" />
+      <item value="auto detect" />
+      <item value="auto_detect" />
+      <item value="detect" />
+      <item value="eighties" />
+      <item value="ipAddress == null || ipAddress.length() == 0" />
+      <item value="The" />
+      <item value="the" />
+      <item value="external" />
+      <item value="mailto" />
+      <item value="envelope" />
+      <item value="隐藏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
