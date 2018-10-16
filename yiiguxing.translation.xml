@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="et cetera" />
+      <item value="cetera" />
+      <item value="et" />
+      <item value="等等" />
+      <item value="ETA" />
       <item value="fraction" />
       <item value="maximum number of fractional digits accepted for this number" />
       <item value="maximum number of integral digits accepted for this number" />
@@ -46,16 +51,11 @@
       <item value="Failed to introspect Class" />
       <item value="deploy done" />
       <item value="deploy" />
-      <item value="auto detect" />
-      <item value="auto_detect" />
-      <item value="detect" />
-      <item value="eighties" />
-      <item value="ipAddress == null || ipAddress.length() == 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
