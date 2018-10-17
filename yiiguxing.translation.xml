@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Numeric" />
+      <item value="数字" />
       <item value="Call to 'str.length()' is redundant" />
       <item value="No EntityManager with actual transaction available for current thread" />
       <item value="框架" />
@@ -41,8 +43,6 @@
       <item value="An integer specifying the number of seconds" />
       <item value="识别" />
       <item value="the CharSequence to check, may be null" />
-      <item value="is Numeric" />
-      <item value="数字" />
       <item value="Referenced" />
       <item value="since" />
       <item value="duplicated" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
