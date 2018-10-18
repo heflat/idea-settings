@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid use of BasicClientConnManager: connection still allocated." />
+      <item value="connection still allocated." />
       <item value="Share" />
       <item value="environment" />
       <item value="Warning: Invalid override parameter name in row 1" />
@@ -49,13 +51,11 @@
       <item value="extern" />
       <item value="viewport" />
       <item value="Guillermo" />
-      <item value="ids for this class must be manually assigned before calling save(" />
-      <item value="in seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
