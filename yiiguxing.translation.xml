@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="environment" />
+      <item value="Warning: Invalid override parameter name in row 1" />
       <item value="settings for new project" />
       <item value="structure for new project" />
       <item value="structure" />
@@ -49,8 +51,6 @@
       <item value="ids for this class must be manually assigned before calling save(" />
       <item value="in seconds" />
       <item value="Specifies the time" />
-      <item value="set Max Inactive Interval" />
-      <item value="An integer specifying the number of seconds" />
     </histories>
     <option name="languageScores">
       <map>
