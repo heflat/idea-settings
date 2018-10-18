@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shutting down DiscoveryClient" />
+      <item value="Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
       <item value="fraction" />
       <item value="maximum number of fractional digits accepted for this number" />
       <item value="maximum number of integral digits accepted for this number" />
@@ -49,13 +51,11 @@
       <item value="auto detect" />
       <item value="auto_detect" />
       <item value="detect" />
-      <item value="eighties" />
-      <item value="ipAddress == null || ipAddress.length() == 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
