@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Always update tab, not redirect. (Enable for cursor in the address bar)" />
+      <item value="Sync this URL across browsers" />
+      <item value="stable" />
       <item value="is Numeric" />
       <item value="数字" />
       <item value="Call to 'str.length()' is redundant" />
@@ -48,13 +51,10 @@
       <item value="duplicated" />
       <item value="duplicate" />
       <item value="depulicated" />
-      <item value="depulicate" />
-      <item value="'StringBuffer param' may be declared as 'StringBuilder'" />
-      <item value="'StringBuffer param' can be replaced with 'String'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
+        <entry key="CHINESE" value="83" />
         <entry key="ENGLISH" value="83" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
