@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deploy" />
+      <item value="Project deploy" />
+      <item value="deploy" />
+      <item value="部署" />
       <item value="Always update tab, not redirect. (Enable for cursor in the address bar)" />
       <item value="Sync this URL across browsers" />
       <item value="stable" />
@@ -47,15 +51,11 @@
       <item value="识别" />
       <item value="the CharSequence to check, may be null" />
       <item value="Referenced" />
-      <item value="since" />
-      <item value="duplicated" />
-      <item value="duplicate" />
-      <item value="depulicated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
