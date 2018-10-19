@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handover" />
+      <item value="hanover" />
+      <item value="Hanover" />
+      <item value="交接" />
+      <item value="handover" />
       <item value="cleanup" />
       <item value="clean" />
       <item value="performing VCS commit ..." />
@@ -46,16 +51,11 @@
       <item value="structure for new project" />
       <item value="structure" />
       <item value="Deploy" />
-      <item value="Project deploy" />
-      <item value="deploy" />
-      <item value="部署" />
-      <item value="Always update tab, not redirect. (Enable for cursor in the address bar)" />
-      <item value="Sync this URL across browsers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="92" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
