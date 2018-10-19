@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="disable cache" />
+      <item value="compiler automake allow when app running" />
+      <item value="compiler.automake.allow.when.app.running" />
       <item value="of" />
       <item value="Access can be private" />
       <item value="Type may be primitive" />
@@ -48,9 +51,6 @@
       <item value="maximum number of fractional digits accepted for this number" />
       <item value="maximum number of integral digits accepted for this number" />
       <item value="Exception message was already printed; see it above" />
-      <item value="means nesting-related" />
-      <item value="Deletes a directory recursively." />
-      <item value="'@Transient' not applicable to field" />
     </histories>
     <option name="languageScores">
       <map>
