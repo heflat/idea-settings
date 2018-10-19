@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add silently" />
+      <item value="performing" />
+      <item value="perform" />
+      <item value="under" />
       <item value="To complete share operation commit 'tmr'." />
       <item value="scheduling" />
       <item value="svn: E170013: Unable to connect to a repository at URL 'https://39.107.249.116/svn/tmr' svn: E175013: Access to '/svn/tmr' forbidden" />
@@ -47,10 +51,6 @@
       <item value="is Numeric" />
       <item value="数字" />
       <item value="Call to 'str.length()' is redundant" />
-      <item value="No EntityManager with actual transaction available for current thread" />
-      <item value="框架" />
-      <item value="Condition 'result != null' is always 'false'" />
-      <item value="Game of thrones" />
     </histories>
     <option name="languageScores">
       <map>
