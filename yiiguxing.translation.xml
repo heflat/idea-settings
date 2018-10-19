@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoke" />
       <item value="Malformed URL Exception" />
       <item value="Connection manager has been shut down" />
       <item value="of" />
@@ -50,12 +51,11 @@
       <item value="maximum number of fractional digits accepted for this number" />
       <item value="maximum number of integral digits accepted for this number" />
       <item value="Exception message was already printed; see it above" />
-      <item value="means nesting-related" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
