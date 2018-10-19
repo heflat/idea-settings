@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="add silently" />
+      <item value="performing VCS commit ..." />
       <item value="performing" />
       <item value="perform" />
+      <item value="perfor" />
+      <item value="add silently" />
       <item value="under" />
       <item value="To complete share operation commit 'tmr'." />
       <item value="scheduling" />
@@ -49,8 +51,6 @@
       <item value="Sync this URL across browsers" />
       <item value="stable" />
       <item value="is Numeric" />
-      <item value="数字" />
-      <item value="Call to 'str.length()' is redundant" />
     </histories>
     <option name="languageScores">
       <map>
