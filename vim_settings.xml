@@ -36,6 +36,9 @@
       <file name="C:/heflat/workspace/idea/sell/src/main/java/com/heflat/sell/service/impl/ProductServiceImpl.java" timestamp="1530610686857">
         <mark key="'" line="63" column="36" />
       </file>
+      <file name="D:/workspace/idea/ssm-modules/modules-web/src/main/java/com/heflat/module/entity/User.java" timestamp="1539935704111">
+        <mark key="'" line="18" column="4" />
+      </file>
       <file name="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduSearchUtil.java" timestamp="1536217460415">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -211,6 +214,7 @@
       <jump line="25" column="47" filename="D:/workspace/idea/Ref10-7/src/com/ref/searchSource/baidu/AnalysisVerifyForm.java" />
       <jump line="14" column="6" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
       <jump line="7" column="0" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
+      <jump line="18" column="4" filename="D:/workspace/idea/ssm-modules/modules-web/src/main/java/com/heflat/module/entity/User.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

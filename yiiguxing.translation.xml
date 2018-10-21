@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Shutting down DiscoveryClient" />
-      <item value="Invocation of destroy method failed on bean with name 'scopedTarget.eurekaClient': org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)" />
-      <item value="fraction" />
-      <item value="maximum number of fractional digits accepted for this number" />
-      <item value="maximum number of integral digits accepted for this number" />
-      <item value="Exception message was already printed; see it above" />
-      <item value="means nesting-related" />
-      <item value="Deletes a directory recursively." />
-      <item value="'@Transient' not applicable to field" />
-      <item value="dispal" />
-      <item value="unknown directive &quot;ssl&quot; in /usr/local/nginx/conf/nginx.conf:121" />
-      <item value="bottom" />
-      <item value="lower" />
-      <item value="low" />
-      <item value="lo" />
-      <item value="下部分" />
-      <item value="upper" />
-      <item value="up" />
-      <item value="上部分" />
-      <item value="extern" />
-      <item value="viewport" />
-      <item value="Guillermo" />
-      <item value="ids for this class must be manually assigned before calling save(" />
-      <item value="in seconds" />
-      <item value="Specifies the time" />
-      <item value="set Max Inactive Interval" />
-      <item value="An integer specifying the number of seconds" />
-      <item value="识别" />
-      <item value="the CharSequence to check, may be null" />
-      <item value="is Numeric" />
-      <item value="数字" />
-      <item value="Referenced" />
-      <item value="since" />
-      <item value="duplicated" />
-      <item value="duplicate" />
-      <item value="depulicated" />
-      <item value="depulicate" />
-      <item value="'StringBuffer param' may be declared as 'StringBuilder'" />
-      <item value="'StringBuffer param' can be replaced with 'String'" />
-      <item value="'response.indexOf(tagName) != -1' can be replaced with 'response.contains(tagName)' more... (Ctrl+F1)" />
-      <item value="fill" />
-      <item value="backend" />
-      <item value="front" />
-      <item value="Unable to close ApplicationContext" />
-      <item value="Failed to introspect Class" />
-      <item value="deploy done" />
-      <item value="deploy" />
-      <item value="auto detect" />
-      <item value="auto_detect" />
-      <item value="detect" />
+      <item value="Upvote" />
+      <item value="children" />
+      <item value="Handover" />
+      <item value="hanover" />
+      <item value="Hanover" />
+      <item value="交接" />
+      <item value="handover" />
+      <item value="cleanup" />
+      <item value="clean" />
+      <item value="performing VCS commit ..." />
+      <item value="performing" />
+      <item value="perform" />
+      <item value="perfor" />
+      <item value="add silently" />
+      <item value="under" />
+      <item value="To complete share operation commit 'tmr'." />
+      <item value="scheduling" />
+      <item value="svn: E170013: Unable to connect to a repository at URL 'https://39.107.249.116/svn/tmr' svn: E175013: Access to '/svn/tmr' forbidden" />
+      <item value="Would you like to proceed with deletion?" />
+      <item value="You are about to delete all stored Subversion authentication information." />
+      <item value="authentication realm" />
+      <item value="save credentials" />
+      <item value="credentials" />
+      <item value="trunk" />
+      <item value="truck" />
+      <item value="initialize" />
+      <item value="初始化" />
+      <item value="invoke" />
+      <item value="Malformed URL Exception" />
+      <item value="Connection manager has been shut down" />
+      <item value="of" />
+      <item value="Access can be private" />
+      <item value="Type may be primitive" />
+      <item value="时间戳" />
+      <item value="时间差" />
+      <item value="总时间" />
+      <item value="顺序" />
+      <item value="sticky" />
+      <item value="sticky notes" />
+      <item value="ToDay" />
+      <item value="Today" />
+      <item value="today" />
+      <item value="今天" />
+      <item value="Invalid use of BasicClientConnManager: connection still allocated." />
+      <item value="connection still allocated." />
+      <item value="Share" />
+      <item value="environment" />
+      <item value="Warning: Invalid override parameter name in row 1" />
+      <item value="settings for new project" />
+      <item value="structure for new project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
@@ -66,6 +66,7 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
   </component>
 </application>
