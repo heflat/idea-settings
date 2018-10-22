@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tructor" />
+      <item value="Const" />
       <item value="Upvote" />
       <item value="children" />
       <item value="Handover" />
@@ -49,13 +51,11 @@
       <item value="Share" />
       <item value="environment" />
       <item value="Warning: Invalid override parameter name in row 1" />
-      <item value="settings for new project" />
-      <item value="structure for new project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
