@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compare nutstore and weiyunsync directory, join to nutstore" />
+      <item value="join to" />
+      <item value="join" />
+      <item value="整合" />
+      <item value="比较" />
       <item value="tructor" />
       <item value="Const" />
       <item value="Upvote" />
@@ -46,16 +51,11 @@
       <item value="Today" />
       <item value="today" />
       <item value="今天" />
-      <item value="Invalid use of BasicClientConnManager: connection still allocated." />
-      <item value="connection still allocated." />
-      <item value="Share" />
-      <item value="environment" />
-      <item value="Warning: Invalid override parameter name in row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
