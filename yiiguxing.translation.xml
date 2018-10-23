@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="USER existed" />
+      <item value="存在" />
+      <item value="USER_" />
       <item value="Form" />
       <item value="DEFAULT CHARACTER" />
       <item value="'assertTrue()' can be simplified to 'assertNotNull()'" />
@@ -48,14 +51,11 @@
       <item value="truck" />
       <item value="initialize" />
       <item value="初始化" />
-      <item value="invoke" />
-      <item value="Malformed URL Exception" />
-      <item value="Connection manager has been shut down" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
