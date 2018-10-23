@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference.get Reference No()" />
+      <item value="detach" />
+      <item value="Not showing null elements" />
+      <item value="技能" />
+      <item value="abort" />
+      <item value="Saw local status change event StatusChangeEvent" />
+      <item value="Shutting down DiscoveryClient ..." />
       <item value="Compare nutstore and weiyunsync directory, join to nutstore" />
       <item value="join to" />
       <item value="join" />
@@ -44,22 +51,16 @@
       <item value="时间戳" />
       <item value="时间差" />
       <item value="总时间" />
-      <item value="顺序" />
-      <item value="sticky" />
-      <item value="sticky notes" />
-      <item value="ToDay" />
-      <item value="Today" />
-      <item value="today" />
-      <item value="今天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
