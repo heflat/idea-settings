@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未知" />
+      <item value="未填" />
+      <item value="保密" />
+      <item value="男" />
+      <item value="女" />
       <item value="Lambda can be replaced with method reference" />
       <item value="ok" />
       <item value="USER existed" />
@@ -46,16 +51,11 @@
       <item value="svn: E170013: Unable to connect to a repository at URL 'https://39.107.249.116/svn/tmr' svn: E175013: Access to '/svn/tmr' forbidden" />
       <item value="Would you like to proceed with deletion?" />
       <item value="You are about to delete all stored Subversion authentication information." />
-      <item value="authentication realm" />
-      <item value="save credentials" />
-      <item value="credentials" />
-      <item value="trunk" />
-      <item value="truck" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
