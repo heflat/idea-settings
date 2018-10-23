@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lambda can be replaced with method reference" />
       <item value="ok" />
       <item value="USER existed" />
       <item value="存在" />
@@ -50,7 +51,6 @@
       <item value="credentials" />
       <item value="trunk" />
       <item value="truck" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
