@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection timed out: connect" />
       <item value="crossref" />
       <item value="创建用户功能模块" />
       <item value="创建用户模块" />
@@ -50,12 +51,11 @@
       <item value="add silently" />
       <item value="under" />
       <item value="To complete share operation commit 'tmr'." />
-      <item value="scheduling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
