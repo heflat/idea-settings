@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Choose content to paste" />
+      <item value="grep" />
+      <item value="The fully qualified name of this class. Used in gathering caller" />
       <item value="internal" />
       <item value="integer" />
       <item value="integernal" />
@@ -48,14 +51,11 @@
       <item value="Upvote" />
       <item value="children" />
       <item value="Handover" />
-      <item value="hanover" />
-      <item value="Hanover" />
-      <item value="交接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="115" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
