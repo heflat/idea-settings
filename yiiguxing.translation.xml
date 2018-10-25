@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JSONException: syntax error, pos 1, json" />
       <item value="数字" />
       <item value="Cross" />
       <item value="comment" />
@@ -50,11 +51,10 @@
       <item value="performing VCS commit ..." />
       <item value="performing" />
       <item value="perform" />
-      <item value="perfor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
