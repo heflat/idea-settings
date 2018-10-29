@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Would you like to reuse them?" />
       <item value="科幻" />
       <item value="Consume response content" />
       <item value="模块" />
@@ -50,11 +51,10 @@
       <item value="Saw local status change event StatusChangeEvent" />
       <item value="Shutting down DiscoveryClient ..." />
       <item value="Compare nutstore and weiyunsync directory, join to nutstore" />
-      <item value="join to" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
+        <entry key="CHINESE" value="118" />
         <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
