@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handover" />
+      <item value="handovewr" />
+      <item value="move to trash" />
+      <item value="trash" />
       <item value="suggestion" />
       <item value="Inquiry Type" />
       <item value="Past" />
@@ -47,14 +51,10 @@
       <item value="crossref" />
       <item value="创建用户功能模块" />
       <item value="创建用户模块" />
-      <item value="未知" />
-      <item value="未填" />
-      <item value="保密" />
-      <item value="男" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="131" />
         <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
