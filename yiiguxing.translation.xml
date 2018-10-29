@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is not valid" />
+      <item value="deprecated" />
+      <item value="since" />
+      <item value="use configuration classes provided" />
+      <item value="Utility class for accessing connection parameters in" />
+      <item value="Deprecated" />
       <item value="Red hat" />
       <item value="Hat" />
       <item value="hat" />
@@ -45,17 +51,11 @@
       <item value="DEFAULT CHARACTER" />
       <item value="'assertTrue()' can be simplified to 'assertNotNull()'" />
       <item value="1234567" />
-      <item value="Access denied for user ''@'localhost'" />
-      <item value="exclude status" />
-      <item value="reference.get Reference No()" />
-      <item value="detach" />
-      <item value="Not showing null elements" />
-      <item value="技能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
