@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="科幻" />
       <item value="Consume response content" />
       <item value="模块" />
       <item value="简介" />
@@ -50,7 +51,6 @@
       <item value="Shutting down DiscoveryClient ..." />
       <item value="Compare nutstore and weiyunsync directory, join to nutstore" />
       <item value="join to" />
-      <item value="join" />
     </histories>
     <option name="languageScores">
       <map>
