@@ -97,7 +97,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="ViewToolBar">
-    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl alt v" />

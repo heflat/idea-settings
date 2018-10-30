@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish rate" />
       <item value="delete By Xml Id" />
       <item value="Rounding mode to round away from zero" />
       <item value="scale of the {@code BigDecimal} quotient to be returned." />
@@ -50,11 +51,10 @@
       <item value="calls" />
       <item value="2 internal calls" />
       <item value="internal calls" />
-      <item value="JSONException: syntax error, pos 1, json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
+        <entry key="CHINESE" value="139" />
         <entry key="ENGLISH" value="139" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
