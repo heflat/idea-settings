@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="环境" />
       <item value="handover" />
       <item value="handovewr" />
       <item value="move to trash" />
@@ -50,12 +51,11 @@
       <item value="Connection timed out: connect" />
       <item value="crossref" />
       <item value="创建用户功能模块" />
-      <item value="创建用户模块" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
