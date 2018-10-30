@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding mode to round away from zero" />
+      <item value="scale of the {@code BigDecimal} quotient to be returned." />
+      <item value="rounding mode to apply." />
+      <item value="Rounding mode to round towards" />
+      <item value="ROUND HALF UP" />
       <item value="环境" />
       <item value="handover" />
       <item value="handovewr" />
@@ -46,16 +51,11 @@
       <item value="internal calls" />
       <item value="JSONException: syntax error, pos 1, json" />
       <item value="数字" />
-      <item value="Cross" />
-      <item value="comment" />
-      <item value="Connection timed out: connect" />
-      <item value="crossref" />
-      <item value="创建用户功能模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
