@@ -94,6 +94,9 @@
       <file name="D:/workspace/idea/pay-demo/src/test/java/com/heflat/paydemo/repository/ProductRepositoryTest.java" timestamp="1532497046922">
         <mark key="'" line="30" column="26" />
       </file>
+      <file name="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" timestamp="1540890319952">
+        <mark key="'" line="12" column="22" />
+      </file>
       <file name="C:/heflat/workspace/idea/sell/src/main/java/com/heflat/sell/controller/WeixinController.java" timestamp="1530610363647">
         <mark key="'" line="30" column="6" />
         <mark key="[" line="32" column="20" />
@@ -115,14 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="27" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
-      <jump line="0" column="0" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
-      <jump line="45" column="0" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
-      <jump line="31" column="29" filename="D:/idea/newwkxt3/src/com/wkxt/comment/web/action/CheckUserLoginStatusAction.java" />
-      <jump line="49" column="36" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
-      <jump line="50" column="39" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
-      <jump line="0" column="3" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
-      <jump line="4" column="5" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
       <jump line="54" column="0" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
       <jump line="36" column="4" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
       <jump line="53" column="4" filename="D:/idea/sxs/sxs/src/main/java/com/heflat/util/DateUtils.java" />
@@ -215,6 +210,14 @@
       <jump line="14" column="6" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
       <jump line="7" column="0" filename="D:/workspace/idea/ref-search/src/test/java/com/magtech/refsearch/repository/ReferenceRepositoryTest.java" />
       <jump line="18" column="4" filename="D:/workspace/idea/ssm-modules/modules-web/src/main/java/com/heflat/module/entity/User.java" />
+      <jump line="305" column="5" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="307" column="41" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="314" column="44" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="315" column="24" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="49" column="4" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="0" column="0" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="578" column="0" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
+      <jump line="12" column="22" filename="D:/workspace/idea/ref-search/src/main/java/com/magtech/refsearch/util/BaiduUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -224,7 +227,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>reference</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvKlN0cmluZ1tdIGFyciA9IFN0cmluZ1V0aWxzLnNwbGl0KCIxLDIsMyw0LDUsIiwgIiwiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXJyKTsqLwo=</text>
@@ -261,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>reference</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>reference</last-pattern>
       <last-replace>11</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -285,6 +288,7 @@
         <entry>product</entry>
         <entry>productRepository</entry>
         <entry>result</entry>
+        <entry>reference</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
