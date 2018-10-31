@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="src refspec devolop does not match any" />
       <item value="finish rate" />
       <item value="delete By Xml Id" />
       <item value="Rounding mode to round away from zero" />
@@ -50,7 +51,6 @@
       <item value="integernal" />
       <item value="calls" />
       <item value="2 internal calls" />
-      <item value="internal calls" />
     </histories>
     <option name="languageScores">
       <map>
