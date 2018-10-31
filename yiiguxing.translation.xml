@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PostConstruct" />
+      <item value="Post Construct" />
       <item value="src refspec devolop does not match any" />
       <item value="finish rate" />
       <item value="delete By Xml Id" />
@@ -49,8 +51,6 @@
       <item value="internal" />
       <item value="integer" />
       <item value="integernal" />
-      <item value="calls" />
-      <item value="2 internal calls" />
     </histories>
     <option name="languageScores">
       <map>
