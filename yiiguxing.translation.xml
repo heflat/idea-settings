@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trouble signing in?" />
+      <item value="The password you've entered is incorrect " />
+      <item value="retry" />
+      <item value="We're having some difficulties connecting to Postman, try again after some time." />
       <item value="Performing VCS commit..." />
       <item value="performing" />
       <item value="Using" />
@@ -47,10 +51,6 @@
       <item value="Consume response content" />
       <item value="模块" />
       <item value="简介" />
-      <item value="简洁" />
-      <item value="命令" />
-      <item value="s" />
-      <item value="WARNING：REMOTE HOST IDENTIFICATION HAS CHANGED!" />
     </histories>
     <option name="languageScores">
       <map>
