@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="release" />
+      <item value="acquire" />
+      <item value="Semaphore" />
+      <item value="Executor" />
       <item value="Policy" />
       <item value="Retention" />
       <item value="线程" />
@@ -47,15 +51,11 @@
       <item value="is not valid" />
       <item value="deprecated" />
       <item value="since" />
-      <item value="use configuration classes provided" />
-      <item value="Utility class for accessing connection parameters in" />
-      <item value="Deprecated" />
-      <item value="Red hat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="KURDISH" value="1" />
