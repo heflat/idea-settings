@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="闰年" />
+      <item value="如年" />
+      <item value="无效" />
       <item value="Exporter" />
       <item value="before" />
       <item value="unload" />
@@ -48,9 +51,6 @@
       <item value="suggestion" />
       <item value="Inquiry Type" />
       <item value="Past" />
-      <item value="big trouble" />
-      <item value="麻烦" />
-      <item value="up-to-date" />
     </histories>
     <option name="languageScores">
       <map>
