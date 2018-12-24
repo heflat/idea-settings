@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RATE LIMITER" />
+      <item value="Rate" />
+      <item value="should Filter" />
+      <item value="should" />
       <item value="The Tomcat connector configured to listen on port 8081 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="Do not request a bean from a BeanFactory in a destroy method implementation!" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
@@ -47,17 +51,14 @@
       <item value="PostConstruct" />
       <item value="Post Construct" />
       <item value="src refspec devolop does not match any" />
-      <item value="finish rate" />
-      <item value="delete By Xml Id" />
-      <item value="Rounding mode to round away from zero" />
-      <item value="scale of the {@code BigDecimal} quotient to be returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="167" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
