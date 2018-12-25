@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused: no further information" />
       <item value="Saw local status change event StatusChangeEvent [timestamp=1545660952556, current=DOWN, previous=UP]" />
       <item value="RATE LIMITER" />
       <item value="Rate" />
@@ -50,12 +51,11 @@
       <item value="exclusion" />
       <item value="exclusions" />
       <item value="PostConstruct" />
-      <item value="Post Construct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
