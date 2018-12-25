@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="no further information" />
+      <item value="refused" />
+      <item value="Connection refused" />
+      <item value="expiry" />
+      <item value="max Age" />
       <item value="Connection refused: no further information" />
       <item value="Saw local status change event StatusChangeEvent [timestamp=1545660952556, current=DOWN, previous=UP]" />
       <item value="RATE LIMITER" />
@@ -46,16 +51,11 @@
       <item value="We're having some difficulties connecting to Postman, try again after some time." />
       <item value="Performing VCS commit..." />
       <item value="performing" />
-      <item value="Using" />
-      <item value="provided" />
-      <item value="exclusion" />
-      <item value="exclusions" />
-      <item value="PostConstruct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
