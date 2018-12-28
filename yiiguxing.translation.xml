@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="构造" />
       <item value="Set the HTTP methods to allow" />
       <item value="Generator" />
       <item value="Generate" />
@@ -50,7 +51,6 @@
       <item value="学习视频" />
       <item value="Trouble signing in?" />
       <item value="The password you've entered is incorrect " />
-      <item value="retry" />
     </histories>
     <option name="languageScores">
       <map>
