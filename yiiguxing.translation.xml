@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deleted" />
+      <item value="deleteed" />
+      <item value="delete" />
+      <item value="DELETED" />
+      <item value="NORMAL" />
+      <item value="正常" />
+      <item value="很长" />
+      <item value="OUT" />
+      <item value="IN" />
+      <item value="OUTPUT" />
+      <item value="Branch" />
+      <item value="支入" />
+      <item value="output" />
+      <item value="input" />
+      <item value="in" />
+      <item value="支出" />
+      <item value="收入" />
+      <item value="消费" />
       <item value="构造" />
       <item value="Set the HTTP methods to allow" />
       <item value="Generator" />
@@ -33,29 +51,11 @@
       <item value="Exporter" />
       <item value="before" />
       <item value="unload" />
-      <item value="case" />
-      <item value="Incompatible with the current 'heflat' version" />
-      <item value="marketplace" />
-      <item value="market" />
-      <item value="release" />
-      <item value="acquire" />
-      <item value="Semaphore" />
-      <item value="Executor" />
-      <item value="Policy" />
-      <item value="Retention" />
-      <item value="线程" />
-      <item value="Thead" />
-      <item value="Course" />
-      <item value="course" />
-      <item value="课程" />
-      <item value="学习视频" />
-      <item value="Trouble signing in?" />
-      <item value="The password you've entered is incorrect " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="183" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
