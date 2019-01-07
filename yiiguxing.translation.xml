@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Leap Year" />
       <item value="Reports any redundant modifiers on interfaces or interface components" />
       <item value="entries" />
       <item value="entry" />
@@ -50,12 +51,11 @@
       <item value="should" />
       <item value="The Tomcat connector configured to listen on port 8081 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="Do not request a bean from a BeanFactory in a destroy method implementation!" />
-      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
