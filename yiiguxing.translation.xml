@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zuul" />
       <item value="finalize" />
       <item value="aka" />
       <item value="Field" />
@@ -50,18 +51,17 @@
       <item value="max Age" />
       <item value="Connection refused: no further information" />
       <item value="Saw local status change event StatusChangeEvent [timestamp=1545660952556, current=DOWN, previous=UP]" />
-      <item value="RATE LIMITER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
+        <entry key="CHINESE" value="195" />
         <entry key="ENGLISH" value="195" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
