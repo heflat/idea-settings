@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="implementation" />
+      <item value="dependencies" />
       <item value="Exporter" />
       <item value="unit" />
       <item value="onit" />
@@ -49,13 +51,11 @@
       <item value="Generator" />
       <item value="Generate" />
       <item value="no further information" />
-      <item value="refused" />
-      <item value="Connection refused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
