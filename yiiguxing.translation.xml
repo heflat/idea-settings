@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forecast" />
       <item value="implementation" />
       <item value="dependencies" />
       <item value="Exporter" />
@@ -50,11 +51,10 @@
       <item value="Set the HTTP methods to allow" />
       <item value="Generator" />
       <item value="Generate" />
-      <item value="no further information" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
+        <entry key="CHINESE" value="199" />
         <entry key="ENGLISH" value="199" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
