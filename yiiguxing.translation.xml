@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UnrecognizedPropertyException: Unrecognized field &quot;data&quot; (class com.heflat.spring.cloud.weather.vo.WeatherResponse), not marked as ignorable (0 known properties: ])" />
+      <item value="Unrecognized field &quot;data&quot;" />
+      <item value="not marked as ignorable" />
+      <item value="Unrecognized Property Exception" />
+      <item value="Unrecognized" />
       <item value="Forecast" />
       <item value="implementation" />
       <item value="dependencies" />
@@ -46,16 +51,11 @@
       <item value="in" />
       <item value="支出" />
       <item value="收入" />
-      <item value="消费" />
-      <item value="构造" />
-      <item value="Set the HTTP methods to allow" />
-      <item value="Generator" />
-      <item value="Generate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
