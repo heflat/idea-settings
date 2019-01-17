@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="weather" />
+      <item value="provided" />
+      <item value="String end expected" />
       <item value="source Compatibility" />
       <item value="through reference chain" />
       <item value="field" />
@@ -48,14 +51,11 @@
       <item value="IN" />
       <item value="OUTPUT" />
       <item value="Branch" />
-      <item value="支入" />
-      <item value="output" />
-      <item value="input" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="208" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
