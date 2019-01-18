@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="store Durably" />
+      <item value="with Identity" />
+      <item value="with Interval In Hours" />
+      <item value="with Description" />
+      <item value="quartz" />
       <item value="initializer" />
       <item value="weather" />
       <item value="provided" />
@@ -46,16 +51,11 @@
       <item value="delete" />
       <item value="DELETED" />
       <item value="NORMAL" />
-      <item value="正常" />
-      <item value="很长" />
-      <item value="OUT" />
-      <item value="IN" />
-      <item value="OUTPUT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="213" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
