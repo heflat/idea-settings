@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Xml Accessor Type" />
       <item value="前缀" />
       <item value="Connected to the target VM, address: '127.0.0.1:5611', transport: 'socket'" />
       <item value="空气指数" />
@@ -50,12 +51,11 @@
       <item value="统计" />
       <item value="amount Money" />
       <item value="total Money" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
