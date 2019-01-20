@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to load property source from location 'classpath:/application.yml'" />
       <item value="ops For Value" />
       <item value="Xml Accessor Type" />
       <item value="前缀" />
@@ -50,12 +51,11 @@
       <item value="ENTRYPOINT" />
       <item value="EXPOSE" />
       <item value="统计" />
-      <item value="amount Money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
