@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rror creating bean with name 'requestMappingHandlerMapping' defined in class path resource" />
       <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
       <item value="enable-self-preservation" />
       <item value="Failed to load property source from location 'classpath:/application.yml'" />
@@ -50,12 +51,11 @@
       <item value="Robot" />
       <item value="MAINTAINER" />
       <item value="Dockerfile parse error line 1: FROM requires either one or three arguments" />
-      <item value="ENTRYPOINT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
