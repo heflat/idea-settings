@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable-self-preservation" />
       <item value="Failed to load property source from location 'classpath:/application.yml'" />
       <item value="ops For Value" />
       <item value="Xml Accessor Type" />
@@ -50,12 +51,11 @@
       <item value="Dockerfile parse error line 1: FROM requires either one or three arguments" />
       <item value="ENTRYPOINT" />
       <item value="EXPOSE" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
