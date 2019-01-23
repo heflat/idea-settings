@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Saw local status change event StatusChangeEvent" />
       <item value="LifecycleProcessor not initialized" />
       <item value="Failed to introspect Class" />
       <item value="connection Timer Repeat" />
@@ -50,12 +51,11 @@
       <item value="Reports any redundant modifiers on interfaces or interface components" />
       <item value="entries" />
       <item value="entry" />
-      <item value="buckets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
