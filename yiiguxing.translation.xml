@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LifecycleProcessor not initialized" />
+      <item value="Failed to introspect Class" />
       <item value="connection Timer Repeat" />
       <item value="rror creating bean with name 'requestMappingHandlerMapping' defined in class path resource" />
       <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
@@ -49,13 +51,11 @@
       <item value="entries" />
       <item value="entry" />
       <item value="buckets" />
-      <item value="Robot" />
-      <item value="MAINTAINER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
