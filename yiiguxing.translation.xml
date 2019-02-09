@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退让" />
       <item value="Saw local status change event StatusChangeEvent" />
       <item value="LifecycleProcessor not initialized" />
       <item value="Failed to introspect Class" />
@@ -50,7 +51,6 @@
       <item value="is Leap Year" />
       <item value="Reports any redundant modifiers on interfaces or interface components" />
       <item value="entries" />
-      <item value="entry" />
     </histories>
     <option name="languageScores">
       <map>
