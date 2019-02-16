@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Tomcat connector configured to listen on port 9999 failed to start. The port may already be in use or the connector may be misconfigured." />
       <item value="java.lang.IllegalStateException: Failed to introspect Class" />
       <item value="Illegal State Exception" />
       <item value="lang.IllegalStateException: LifecycleProcessor not initialized - call 'refresh' before invoking lifecycle methods via the context: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@5467eea4: startup date [Sat Feb 16 10:53:13 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@3adcc812" />
@@ -50,12 +51,11 @@
       <item value="finalize" />
       <item value="aka" />
       <item value="Field" />
-      <item value="Filed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
