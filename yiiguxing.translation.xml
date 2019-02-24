@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="thread" />
+      <item value="tread" />
       <item value="Bean Creation Exception" />
       <item value="Could not resolve placeholder 'author' in value &quot;${author}&quot;" />
       <item value="The Tomcat connector configured to listen on port 9999 failed to start. The port may already be in use or the connector may be misconfigured." />
@@ -49,12 +51,10 @@
       <item value="unit" />
       <item value="onit" />
       <item value="queues To Declare" />
-      <item value="Zuul" />
-      <item value="finalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
+        <entry key="CHINESE" value="234" />
         <entry key="ENGLISH" value="234" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
