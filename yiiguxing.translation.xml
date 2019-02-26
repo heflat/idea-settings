@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="yield" />
+      <item value="hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
       <item value="thread" />
       <item value="tread" />
       <item value="Bean Creation Exception" />
@@ -49,13 +51,11 @@
       <item value="dependencies" />
       <item value="Exporter" />
       <item value="unit" />
-      <item value="onit" />
-      <item value="queues To Declare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
