@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="owner" />
       <item value="priority" />
       <item value="area" />
       <item value="Accessor" />
@@ -50,11 +51,10 @@
       <item value="not marked as ignorable" />
       <item value="Unrecognized Property Exception" />
       <item value="Unrecognized" />
-      <item value="Forecast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
+        <entry key="CHINESE" value="241" />
         <entry key="ENGLISH" value="241" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
