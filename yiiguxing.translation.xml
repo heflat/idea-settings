@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
       <item value="data-structure" />
       <item value="structure" />
       <item value="Out Of Memory Error" />
@@ -50,12 +51,11 @@
       <item value="source Compatibility" />
       <item value="through reference chain" />
       <item value="field" />
-      <item value="UnrecognizedPropertyException: Unrecognized field &quot;data&quot; (class com.heflat.spring.cloud.weather.vo.WeatherResponse), not marked as ignorable (0 known properties: ])" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
