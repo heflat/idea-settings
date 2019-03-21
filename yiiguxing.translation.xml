@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AddLast failed." />
+      <item value="失败" />
+      <item value="filed" />
       <item value="capacity" />
       <item value="data-structure" />
       <item value="structure" />
@@ -48,14 +51,11 @@
       <item value="weather" />
       <item value="provided" />
       <item value="String end expected" />
-      <item value="source Compatibility" />
-      <item value="through reference chain" />
-      <item value="field" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
