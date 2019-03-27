@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this is not a valid Java qualified name" />
+      <item value="this is not " />
+      <item value="quality" />
+      <item value="举例" />
       <item value="Variable 'cur' is not updated inside loop more... (Ctrl+F1)" />
       <item value="Java heap space" />
       <item value="dummy" />
@@ -47,15 +51,11 @@
       <item value="enable-self-preservation" />
       <item value="Failed to load property source from location 'classpath:/application.yml'" />
       <item value="ops For Value" />
-      <item value="Xml Accessor Type" />
-      <item value="前缀" />
-      <item value="Connected to the target VM, address: '127.0.0.1:5611', transport: 'socket'" />
-      <item value="空气指数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="253" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
