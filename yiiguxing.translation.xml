@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="New and Updated" />
+      <item value="Featured" />
       <item value="compare" />
       <item value="this is not a valid Java qualified name" />
       <item value="this is not " />
@@ -49,12 +51,10 @@
       <item value="connection Timer Repeat" />
       <item value="rror creating bean with name 'requestMappingHandlerMapping' defined in class path resource" />
       <item value="Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled." />
-      <item value="enable-self-preservation" />
-      <item value="Failed to load property source from location 'classpath:/application.yml'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
+        <entry key="CHINESE" value="254" />
         <entry key="ENGLISH" value="254" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
