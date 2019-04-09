@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Override" />
       <item value="interceptor" />
       <item value="Cycle" />
       <item value="New and Updated" />
@@ -50,12 +51,11 @@
       <item value="Saw local status change event StatusChangeEvent" />
       <item value="LifecycleProcessor not initialized" />
       <item value="Failed to introspect Class" />
-      <item value="connection Timer Repeat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
