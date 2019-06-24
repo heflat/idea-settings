@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
+      <item value="仓库" />
       <item value="Default Baidu, Option Bing, Google." />
       <item value="Default Baidu, Optional Bing, Google." />
       <item value="throw an IOException" />
@@ -49,8 +51,6 @@
       <item value="tread" />
       <item value="Bean Creation Exception" />
       <item value="Could not resolve placeholder 'author' in value &quot;${author}&quot;" />
-      <item value="The Tomcat connector configured to listen on port 9999 failed to start. The port may already be in use or the connector may be misconfigured." />
-      <item value="java.lang.IllegalStateException: Failed to introspect Class" />
     </histories>
     <option name="languageScores">
       <map>
