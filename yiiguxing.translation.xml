@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Using named parameters for method public abstract" />
+      <item value="Using named parameters for method public abstract com.heflat.notes.pojo.User" />
       <item value="No parameter available for part mobilePhone SIMPLE_PROPERTY" />
       <item value="could not execute statement" />
       <item value="optional" />
@@ -49,8 +51,6 @@
       <item value="area" />
       <item value="Accessor" />
       <item value="Element" />
-      <item value="yield" />
-      <item value="hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
     </histories>
     <option name="languageScores">
       <map>
