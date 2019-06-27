@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模板" />
+      <item value="魔板" />
+      <item value="末班" />
       <item value="Autowired" />
       <item value="One More Day" />
       <item value="正常" />
@@ -48,9 +51,6 @@
       <item value="失败" />
       <item value="filed" />
       <item value="capacity" />
-      <item value="data-structure" />
-      <item value="structure" />
-      <item value="Out Of Memory Error" />
     </histories>
     <option name="languageScores">
       <map>
