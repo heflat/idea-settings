@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backend" />
       <item value="na" />
       <item value="classes" />
       <item value="Unable to determine jdbc url from datasource" />
@@ -50,7 +51,6 @@
       <item value="e" />
       <item value="Love the Way You Lie" />
       <item value="Cannot dequeue from an empty queue." />
-      <item value="tail" />
     </histories>
     <option name="languageScores">
       <map>
