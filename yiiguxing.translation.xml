@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="na" />
+      <item value="classes" />
+      <item value="Unable to determine jdbc url from datasource" />
+      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary" />
       <item value="condition to be checked" />
       <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
       <item value="personal site" />
@@ -47,16 +51,13 @@
       <item value="Love the Way You Lie" />
       <item value="Cannot dequeue from an empty queue." />
       <item value="tail" />
-      <item value="Stack" />
-      <item value="illegal" />
-      <item value="AddLast failed." />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="273" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
