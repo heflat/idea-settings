@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="condition to be checked" />
       <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
       <item value="personal site" />
       <item value="模板" />
@@ -17,7 +18,6 @@
       <item value="No parameter available for part mobilePhone SIMPLE_PROPERTY" />
       <item value="could not execute statement" />
       <item value="optional" />
-      <item value="condition to be checked" />
       <item value="生成" />
       <item value="仓库" />
       <item value="Default Baidu, Option Bing, Google." />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
