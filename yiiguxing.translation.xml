@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
       <item value="personal site" />
       <item value="模板" />
       <item value="魔板" />
@@ -50,7 +51,6 @@
       <item value="illegal" />
       <item value="AddLast failed." />
       <item value="失败" />
-      <item value="filed" />
     </histories>
     <option name="languageScores">
       <map>
