@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="age" />
+      <item value="fun age" />
       <item value="duration" />
       <item value="artifact" />
       <item value="profile" />
@@ -49,8 +51,6 @@
       <item value="Featured" />
       <item value="compare" />
       <item value="this is not a valid Java qualified name" />
-      <item value="this is not " />
-      <item value="quality" />
     </histories>
     <option name="languageScores">
       <map>
