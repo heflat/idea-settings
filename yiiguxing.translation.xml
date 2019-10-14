@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
+      <item value="prefer ip address" />
+      <item value="prefer" />
       <item value="Subscription is active until September 3,2020" />
       <item value="has been" />
       <item value="This license 'A' has been cancelled." />
@@ -48,9 +51,6 @@
       <item value="quality" />
       <item value="举例" />
       <item value="Variable 'cur' is not updated inside loop more... (Ctrl+F1)" />
-      <item value="Java heap space" />
-      <item value="dummy" />
-      <item value="Illegal index." />
     </histories>
     <option name="languageScores">
       <map>
