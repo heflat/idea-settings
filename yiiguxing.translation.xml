@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscription is active until September 3,2020" />
+      <item value="has been" />
+      <item value="This license 'A' has been cancelled." />
       <item value="current User" />
       <item value="cannot be cast to com.heflat.personalsite.entity.User" />
       <item value="backend" />
@@ -48,13 +51,10 @@
       <item value="Java heap space" />
       <item value="dummy" />
       <item value="Illegal index." />
-      <item value="based" />
-      <item value="base" />
-      <item value="e" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
+        <entry key="CHINESE" value="275" />
         <entry key="ENGLISH" value="275" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
