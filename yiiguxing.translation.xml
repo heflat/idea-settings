@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid" />
+      <item value="Failed" />
       <item value="servlet" />
       <item value="mooc" />
       <item value="nullable" />
@@ -49,13 +51,11 @@
       <item value="contain" />
       <item value="Override" />
       <item value="interceptor" />
-      <item value="Cycle" />
-      <item value="New and Updated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
