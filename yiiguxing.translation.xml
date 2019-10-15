@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTITY" />
+      <item value="Generated" />
+      <item value="Generation" />
       <item value="pill" />
       <item value="allow-bean-definition-overriding" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
@@ -48,14 +51,11 @@
       <item value="Using named parameters for method public abstract com.heflat.notes.pojo.User" />
       <item value="No parameter available for part mobilePhone SIMPLE_PROPERTY" />
       <item value="could not execute statement" />
-      <item value="optional" />
-      <item value="生成" />
-      <item value="仓库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
