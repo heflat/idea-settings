@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请登录后操作" />
       <item value="public" />
       <item value="类别" />
       <item value="导航" />
@@ -50,7 +51,6 @@
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Error resolving template" />
       <item value="验证码" />
-      <item value="Using named parameters for method public abstract" />
     </histories>
     <option name="languageScores">
       <map>
