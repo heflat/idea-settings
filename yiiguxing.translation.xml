@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="related" />
+      <item value="文章相关" />
+      <item value="相关" />
       <item value="请登录后操作" />
       <item value="public" />
       <item value="类别" />
@@ -48,13 +51,10 @@
       <item value="Autowired" />
       <item value="One More Day" />
       <item value="正常" />
-      <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="Error resolving template" />
-      <item value="验证码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
+        <entry key="CHINESE" value="291" />
         <entry key="ENGLISH" value="291" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
