@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate" />
+      <item value="valid" />
       <item value="No converter found for return value of type" />
       <item value="parse" />
       <item value="cover" />
@@ -49,12 +51,10 @@
       <item value="Unable to determine jdbc url from datasource" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary" />
       <item value="condition to be checked" />
-      <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
-      <item value="personal site" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
+        <entry key="CHINESE" value="293" />
         <entry key="ENGLISH" value="293" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
