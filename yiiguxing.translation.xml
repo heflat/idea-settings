@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Head Line" />
+      <item value="promotion Price" />
+      <item value="normal Price" />
       <item value="priority" />
+      <item value="Head Line" />
       <item value="等于" />
       <item value="大于" />
       <item value="小于" />
@@ -49,13 +51,11 @@
       <item value="has been" />
       <item value="This license 'A' has been cancelled." />
       <item value="current User" />
-      <item value="cannot be cast to com.heflat.personalsite.entity.User" />
-      <item value="backend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
