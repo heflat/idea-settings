@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="state" />
+      <item value="status" />
       <item value="execution" />
       <item value="Thumbnail" />
       <item value="relative" />
@@ -49,8 +51,6 @@
       <item value="servlet" />
       <item value="mooc" />
       <item value="nullable" />
-      <item value="age" />
-      <item value="fun age" />
     </histories>
     <option name="languageScores">
       <map>
