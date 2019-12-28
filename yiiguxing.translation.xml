@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
       <item value="参数不正确" />
       <item value="state" />
       <item value="status" />
@@ -50,7 +51,6 @@
       <item value="Invalid" />
       <item value="Failed" />
       <item value="servlet" />
-      <item value="mooc" />
     </histories>
     <option name="languageScores">
       <map>
