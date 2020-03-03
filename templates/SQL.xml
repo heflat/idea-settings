@@ -1,27 +1,33 @@
 <templateSet group="SQL">
   <template name="sel" value="SELECT * FROM $table$$END$;" description="select all rows from a table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="selw" value="SELECT * FROM $table$ WHERE $END$;" description="select specific rows from a table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="selc" value="SELECT COUNT(1) FROM $table$$END$;" description="select the number of specific rows in a table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="ins" value="INSERT INTO $table$ ($columns$) VALUES ($END$);" description="insert rows into a table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="columns" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="upd" value="UPDATE $table$ SET $column$ = $value$ WHERE $END$; " description="update values in a table" toReformat="false" toShortenFQNames="false">
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="tab" value="CREATE TABLE $table$ (&#10;  $col$ $type$ $null$$END$&#10;);" description="new table definition" toReformat="true" toShortenFQNames="false">
     <variable name="table" expression="" defaultValue="&quot;new_table&quot;" alwaysStopAt="true" />
     <variable name="col" expression="" defaultValue="&quot;col&quot;" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="&quot;int&quot;" alwaysStopAt="true" />
     <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="selcw" value="SELECT COUNT(1) FROM $table$ WHERE $END$;" description="select the number of specific rows in a table" toReformat="false" toShortenFQNames="true">
     <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
