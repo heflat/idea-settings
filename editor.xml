@@ -2,4 +2,13 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="YaHei Consolas Hybrid" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+        <entry key="XML" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
 </application>
