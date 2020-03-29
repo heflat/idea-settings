@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="additivity" />
+      <item value="rolling Policy" />
+      <item value="encoder" />
+      <item value="trace" />
       <item value="injection" />
       <item value="Field injection is not recommended" />
       <item value="整合" />
@@ -23,7 +27,6 @@
       <item value="relative" />
       <item value="Thumbnails" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
-      <item value="additivity" />
       <item value="class path resource [spring/spring-dao.xml] cannot be opened because it does not exist" />
       <item value="IOException parsing XML document from class path resource" />
       <item value="Failed to load ApplicationContext" />
@@ -48,14 +51,11 @@
       <item value="请登录后操作" />
       <item value="public" />
       <item value="类别" />
-      <item value="导航" />
-      <item value="IDENTITY" />
-      <item value="Generated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
