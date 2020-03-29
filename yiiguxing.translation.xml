@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="owner" />
       <item value="area" />
       <item value="Lombok Requires Annotation Processing: Do you want to enable annotation processors?" />
       <item value="To improve performance, IntelliJ IDEA can update your Windows Defender configuration to exclude your project directories from real-time scanning. This will require running a command with administrator privileges. Alternatively, you can configure Windows Defender manually, according to the instructions." />
@@ -50,12 +51,11 @@
       <item value="allow-bean-definition-overriding" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="could not be" />
-      <item value="could" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
