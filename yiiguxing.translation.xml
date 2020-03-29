@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="整合" />
       <item value="promotion" />
       <item value="normal" />
       <item value="owner" />
@@ -50,12 +51,11 @@
       <item value="Generated" />
       <item value="Generation" />
       <item value="pill" />
-      <item value="allow-bean-definition-overriding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
