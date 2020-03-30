@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thumbnail" />
       <item value="syntax" />
       <item value="effected" />
       <item value="additivity" />
@@ -25,7 +26,6 @@
       <item value="state" />
       <item value="status" />
       <item value="execution" />
-      <item value="Thumbnail" />
       <item value="relative" />
       <item value="Thumbnails" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
