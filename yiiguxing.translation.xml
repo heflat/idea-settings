@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toast" />
       <item value="status Of" />
       <item value="Modifier 'public' not allowed here" />
       <item value="affected" />
@@ -50,7 +51,6 @@
       <item value="validate" />
       <item value="valid" />
       <item value="No converter found for return value of type" />
-      <item value="parse" />
     </histories>
     <option name="languageScores">
       <map>
