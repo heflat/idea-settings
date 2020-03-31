@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status Of" />
+      <item value="Modifier 'public' not allowed here" />
       <item value="affected" />
       <item value="effected" />
       <item value="消息" />
@@ -49,13 +51,11 @@
       <item value="valid" />
       <item value="No converter found for return value of type" />
       <item value="parse" />
-      <item value="cover" />
-      <item value="subcover" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="DANISH" value="1" />
