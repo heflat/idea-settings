@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected" />
       <item value="Hot swap classes" />
       <item value="swap" />
       <item value="kaptcha" />
@@ -50,12 +51,11 @@
       <item value="priority" />
       <item value="Head Line" />
       <item value="等于" />
-      <item value="大于" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
