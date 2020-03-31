@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hot swap classes" />
+      <item value="swap" />
+      <item value="kaptcha" />
+      <item value="Arial" />
       <item value="toast" />
       <item value="status Of" />
       <item value="Modifier 'public' not allowed here" />
@@ -47,17 +51,13 @@
       <item value="Head Line" />
       <item value="等于" />
       <item value="大于" />
-      <item value="小于" />
-      <item value="validate" />
-      <item value="valid" />
-      <item value="No converter found for return value of type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="324" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="BULGARIAN" value="1" />
+        <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
