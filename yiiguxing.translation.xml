@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="max In Memory Size" />
+      <item value="Resolver" />
       <item value="'var' used instead of 'let' or 'const'" />
       <item value="Expected" />
       <item value="Hot swap classes" />
@@ -49,13 +51,11 @@
       <item value="Failed to load ApplicationContext" />
       <item value="promotion Price" />
       <item value="normal Price" />
-      <item value="priority" />
-      <item value="Head Line" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="KURDISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
