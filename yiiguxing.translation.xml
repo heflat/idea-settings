@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="store Path" />
+      <item value="store" />
       <item value="association" />
       <item value="Method invocation 'toLowerCase' may produce 'NullPointerException'" />
       <item value="mute" />
@@ -49,13 +51,11 @@
       <item value="status" />
       <item value="execution" />
       <item value="relative" />
-      <item value="Thumbnails" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
