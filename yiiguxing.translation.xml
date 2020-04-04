@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mute" />
       <item value="out of START_ARRAY" />
       <item value="Can not deserialize instance of com.heflat.o2o.entity.Shop" />
       <item value="max In Memory Size" />
@@ -50,11 +51,10 @@
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
       <item value="class path resource [spring/spring-dao.xml] cannot be opened because it does not exist" />
       <item value="IOException parsing XML document from class path resource" />
-      <item value="Failed to load ApplicationContext" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
+        <entry key="CHINESE" value="328" />
         <entry key="ENGLISH" value="328" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
