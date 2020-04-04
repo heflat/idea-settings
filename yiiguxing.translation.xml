@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method invocation 'toLowerCase' may produce 'NullPointerException'" />
       <item value="mute" />
       <item value="out of START_ARRAY" />
       <item value="Can not deserialize instance of com.heflat.o2o.entity.Shop" />
@@ -50,7 +51,6 @@
       <item value="Thumbnails" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc" />
       <item value="class path resource [spring/spring-dao.xml] cannot be opened because it does not exist" />
-      <item value="IOException parsing XML document from class path resource" />
     </histories>
     <option name="languageScores">
       <map>
