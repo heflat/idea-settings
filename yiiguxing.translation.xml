@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap" />
       <item value="course" />
       <item value="Parameter index out of range (7 &gt; number of parameters, which is 6)." />
       <item value="fallback" />
@@ -50,7 +51,6 @@
       <item value="你知道吗" />
       <item value="who's been put out to pasture." />
       <item value="laughs" />
-      <item value="容器" />
     </histories>
     <option name="languageScores">
       <map>
