@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual" />
+      <item value="Expected" />
       <item value="toast" />
       <item value="batch" />
       <item value="wrap" />
@@ -18,7 +20,6 @@
       <item value="max In Memory Size" />
       <item value="Resolver" />
       <item value="'var' used instead of 'let' or 'const'" />
-      <item value="Expected" />
       <item value="Hot swap classes" />
       <item value="swap" />
       <item value="kaptcha" />
@@ -50,12 +51,11 @@
       <item value="To improve performance, IntelliJ IDEA can update your Windows Defender configuration to exclude your project directories from real-time scanning. This will require running a command with administrator privileges. Alternatively, you can configure Windows Defender manually, according to the instructions." />
       <item value="Windows Defender might be impacting your build performance. IntelliJ IDEA checked the following directories: D:\workspace\idea\o2o C:\Users\heflat\.gradle C:\Users\heflat\.IntelliJIdea2019.3\system" />
       <item value="你知道吗" />
-      <item value="who's been put out to pasture." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
