@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="batch" />
       <item value="wrap" />
       <item value="course" />
       <item value="Parameter index out of range (7 &gt; number of parameters, which is 6)." />
@@ -50,12 +51,11 @@
       <item value="Windows Defender might be impacting your build performance. IntelliJ IDEA checked the following directories: D:\workspace\idea\o2o C:\Users\heflat\.gradle C:\Users\heflat\.IntelliJIdea2019.3\system" />
       <item value="你知道吗" />
       <item value="who's been put out to pasture." />
-      <item value="laughs" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="2" />
         <entry key="DANISH" value="1" />
