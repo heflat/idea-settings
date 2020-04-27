@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kaptcha" />
       <item value="Post" />
       <item value="No suitable ImageReader found for source data." />
       <item value="thumbnail" />
@@ -27,7 +28,6 @@
       <item value="'var' used instead of 'let' or 'const'" />
       <item value="Hot swap classes" />
       <item value="swap" />
-      <item value="kaptcha" />
       <item value="Arial" />
       <item value="status Of" />
       <item value="Modifier 'public' not allowed here" />
@@ -57,7 +57,7 @@
         <entry key="CHINESE" value="340" />
         <entry key="ENGLISH" value="340" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="BULGARIAN" value="2" />
+        <entry key="BULGARIAN" value="3" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
