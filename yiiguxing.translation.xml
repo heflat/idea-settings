@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="On 'Update' action" />
       <item value="column" />
       <item value="normal Price" />
       <item value="kaptcha" />
@@ -50,11 +51,10 @@
       <item value="injection" />
       <item value="Field injection is not recommended" />
       <item value="整合" />
-      <item value="promotion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
+        <entry key="CHINESE" value="342" />
         <entry key="ENGLISH" value="342" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="3" />
