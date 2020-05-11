@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="classify" />
       <item value="swiper" />
       <item value="external" />
       <item value="Error running 'o2o': Unable to open debugger port (127.0.0.1:4627): java.net.SocketException &quot;Interrupted function call: accept failed&quot;" />
@@ -50,11 +51,10 @@
       <item value="effected" />
       <item value="消息" />
       <item value="sate" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
+        <entry key="CHINESE" value="350" />
         <entry key="ENGLISH" value="350" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="BULGARIAN" value="3" />
